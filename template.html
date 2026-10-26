@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Operative Data and Prediction Markets</title>
+<meta name="description" content="Prediction-market odds and official data trends for the UK economy and the global drivers behind it.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+<style>
+/* Layout: a statistical-bulletin board. Six numbered chapters; each indicator is a two-column dossier
+   (official readings with two-year trends on the left, the contracts that price it on the right). */
+:root{
+  --bg:#f4f4f0; --surface:#ffffff; --surface-2:#eceee8; --ink:#121c2b; --ink-2:#4a5563; --ink-3:#7a8390;
+  --line:#d6d9d2; --line-2:#c2c6bd; --gilt:#a97a1f; --gilt-soft:#f3e8cf;
+  --growth:#1f4e79; --inflation:#8b2f2f; --money:#7a5a12; --energy:#3d5c3a; --global:#4a3f7a; --supply:#6b4a2a;
+  --pm:#2857d6; --mf:#6b4fd8; --mc:#2b6f63;
+  --bar-track:#e7e9e3; --ok:#2b6f63; --warn:#9a6b11; --up:#8b2f2f; --down:#1f4e79;
+  --font-display:"Newsreader",Georgia,"Times New Roman",serif;
+  --font-body:"Public Sans",system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;
+  --font-mono:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0f141b; --surface:#161c25; --surface-2:#1d242f; --ink:#e8e9e3; --ink-2:#b3b8bf; --ink-3:#7f8792;
+    --line:#2a323d; --line-2:#3a434f; --gilt:#d9a94a; --gilt-soft:#2e2611; --growth:#7fb0e6; --inflation:#e08484; --money:#d9a94a; --energy:#8fc08a; --global:#a996f2; --supply:#d4a373;
+    --pm:#7b9cf0; --mf:#a996f2; --mc:#7cc4b4; --bar-track:#262e39; --ok:#7cc4b4; --warn:#d9a94a; --up:#e08484; --down:#7fb0e6; color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0f141b; --surface:#161c25; --surface-2:#1d242f; --ink:#e8e9e3; --ink-2:#b3b8bf; --ink-3:#7f8792;
+  --line:#2a323d; --line-2:#3a434f; --gilt:#d9a94a; --gilt-soft:#2e2611; --growth:#7fb0e6; --inflation:#e08484; --money:#d9a94a; --energy:#8fc08a; --global:#a996f2; --supply:#d4a373;
+  --pm:#7b9cf0; --mf:#a996f2; --mc:#7cc4b4; --bar-track:#262e39; --ok:#7cc4b4; --warn:#d9a94a; --up:#e08484; --down:#7fb0e6; color-scheme:dark;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+@media (prefers-reduced-motion: reduce){ html{scroll-behavior:auto} *{transition:none!important;animation:none!important} }
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--font-body);font-size:15px;line-height:1.5;-webkit-font-smoothing:antialiased}
+a{color:inherit}
+a:focus-visible,button:focus-visible,summary:focus-visible{outline:2px solid var(--gilt);outline-offset:2px}
+.wrap{max-width:1240px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.mast{border-bottom:3px double var(--line-2);background:var(--surface)}
+.mast .wrap{padding-block:28px 20px;display:grid;gap:14px}
+.eyebrow{font-family:var(--font-mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3)}
+h1{font-family:var(--font-display);font-weight:500;font-size:clamp(34px,5vw,54px);line-height:1.02;margin:0;letter-spacing:-.01em;text-wrap:balance}
+h1 em{font-style:italic;color:var(--gilt)}
+.lede{max-width:70ch;color:var(--ink-2);margin:0;font-size:16px}
+.status{display:flex;flex-wrap:wrap;gap:8px 18px;font-family:var(--font-mono);font-size:12px;color:var(--ink-3);align-items:center}
+.status .dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--ink-3);margin-right:6px;vertical-align:1px}
+.status .dot.live{background:var(--ok)} .status .dot.err{background:var(--warn)}
+nav.chapters{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
+nav.chapters .wrap{display:flex;gap:4px;overflow-x:auto;padding-block:8px;align-items:center}
+nav.chapters a{text-decoration:none;white-space:nowrap;padding:7px 12px;border-radius:999px;font-size:13px;font-weight:600;color:var(--ink-2);border:1px solid transparent}
+nav.chapters a:hover{border-color:var(--line-2);background:var(--surface)}
+nav.chapters a .n{font-family:var(--font-mono);color:var(--ink-3);margin-right:6px;font-weight:500}
+.legend{margin-left:auto;display:flex;gap:10px;align-items:center;font-size:12px;color:var(--ink-3)}
+.legend span::before{content:"";display:inline-block;width:9px;height:9px;border-radius:2px;margin-right:5px;vertical-align:-1px;background:var(--c)}
+@media (max-width:760px){.legend{display:none}}
+.chapter{padding-block:44px 8px}
+.chapter-head{display:grid;grid-template-columns:auto 1fr;gap:18px;align-items:start;border-top:1px solid var(--line-2);padding-top:22px;margin-bottom:28px}
+.chapter-head .num{font-family:var(--font-display);font-size:48px;line-height:1;color:var(--hue);font-weight:500}
+.chapter-head h2{font-family:var(--font-display);font-weight:500;font-size:clamp(26px,3.4vw,36px);line-height:1.1;margin:0 0 6px;text-wrap:balance}
+.chapter-head p{margin:0;color:var(--ink-2);max-width:70ch}
+.ind{display:grid;gap:18px;padding-block:26px;border-top:1px solid var(--line)}
+.ind:first-of-type{border-top:0}
+.ind-head{min-width:0;display:grid;gap:4px}
+.ind-head h3{font-family:var(--font-display);font-weight:600;font-size:26px;margin:0;line-height:1.15}
+.ind-head .k{font-family:var(--font-mono);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-3)}
+.blk{font-family:var(--font-mono);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-3);padding-bottom:5px;border-bottom:1px solid var(--line);margin:4px 0 -6px}
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px;align-items:start}
+.facts:has(> .fact:only-child){grid-template-columns:minmax(280px,560px)}
+/* media quotes */
+.quotes{display:grid;gap:10px}
+.qt{background:var(--surface);border:1px solid var(--line);padding:12px 14px;display:grid;gap:6px;min-width:0}
+.qt .qm{display:flex;gap:10px;align-items:center;flex-wrap:wrap;font-family:var(--font-mono);font-size:11px;color:var(--ink-3)}
+.qt .qm .chip{--pc:var(--ink-2)}
+.qh-l{font-weight:400;color:var(--ink-3)}
+.qt .qm .chip.bbc{--pc:#8f1f1f} .qt .qm .chip.cnbc{--pc:#1d4e89} .qt .qm .chip.econ{--pc:#b02a2a} .qt .qm .chip.tt{--pc:#2f5d50}
+.qt .qm .tag{font-family:var(--font-mono);font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;font-weight:600;color:var(--gilt);border:1px solid var(--gilt);border-radius:3px;padding:2px 6px}
+.qt .qh{font-weight:600;font-size:14px;line-height:1.3} .qt .qh a{text-decoration:none} .qt .qh a:hover{text-decoration:underline}
+.qt blockquote{margin:0;font-family:var(--font-display);font-size:17px;line-height:1.4;color:var(--ink)}
+.qt .qw{font-size:13px;color:var(--ink-2);border-left:3px solid var(--gilt);padding-left:10px} .qt .qw span{font-family:var(--font-mono);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--gilt);margin-right:6px}
+.qt blockquote::before{content:"\201C";color:var(--gilt);margin-right:2px} .qt blockquote::after{content:"\201D";color:var(--gilt);margin-left:2px}
+.qt .qf{display:flex;gap:14px;flex-wrap:wrap;font-size:12.5px;color:var(--ink-2);align-items:baseline}
+.qt .qf a{color:var(--ink-2)} .qt .qf .ttl{color:var(--ink-3);flex:1 1 240px;min-width:0}
+.qt .qf .vf{font-family:var(--font-mono);font-size:10.5px;color:var(--ink-3)}
+.qnone{border:1px dashed var(--line-2);padding:12px 16px;color:var(--ink-2);font-size:13.5px}
+/* fact box */
+.fact{background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--hue);padding:12px 14px 10px;display:grid;gap:8px}
+.fact .fh{display:flex;justify-content:space-between;gap:8px;align-items:baseline}
+.fact .fname{font-weight:600;font-size:13.5px;line-height:1.3}
+.fact .cad{font-family:var(--font-mono);font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-3);white-space:nowrap}
+.fact .v{font-family:var(--font-mono);font-size:28px;font-weight:600;line-height:1;font-variant-numeric:tabular-nums}
+.fact .v small{font-size:13px;font-weight:500;color:var(--ink-2);margin-left:6px}
+.fact .delta{font-family:var(--font-mono);font-size:12px;color:var(--ink-2)}
+.fact .delta b{font-weight:600}
+.fact .delta .up{color:var(--up)} .fact .delta .down{color:var(--down)}
+.fact svg{width:100%;height:56px;display:block}
+.fact .axis{display:flex;justify-content:space-between;font-family:var(--font-mono);font-size:10.5px;color:var(--ink-3)}
+.fact .mini{display:grid;grid-template-columns:repeat(auto-fill,minmax(68px,1fr));gap:4px 8px;font-family:var(--font-mono);font-size:11px;font-variant-numeric:tabular-nums}
+.fact .mini span{display:flex;justify-content:space-between;gap:4px;border-bottom:1px dotted var(--line)}
+.fact .mini span i{font-style:normal;color:var(--ink-3)}
+.fact .mini.ex{grid-template-columns:1fr}
+.fact .mini.ex span{gap:10px} .fact .mini.ex span i:first-child{flex:1}
+.fact details summary{cursor:pointer;font-size:12px;color:var(--ink-2);font-weight:600;list-style:none}
+.fact details summary::-webkit-details-marker{display:none}
+.fact details summary::after{content:" ▸";color:var(--ink-3)} .fact details[open] summary::after{content:" ▾"}
+.fact .tbl{margin-top:6px;max-height:220px;overflow:auto;font-family:var(--font-mono);font-size:11.5px;font-variant-numeric:tabular-nums}
+.fact .tbl table{border-collapse:collapse;width:100%}
+.fact .tbl td{padding:2px 4px;border-bottom:1px solid var(--line)} .fact .tbl td:last-child{text-align:right}
+.fact .src{font-size:11.5px;color:var(--ink-3);border-top:1px dashed var(--line);padding-top:6px;display:flex;flex-wrap:wrap;gap:4px 10px}
+.fact .src a{color:var(--ink-3)}
+.fact .src .live{color:var(--ok)} .fact .src .snap{color:var(--warn)}
+.fact img{max-width:100%;border:1px solid var(--line);background:#fff}
+/* market cards */
+.markets{display:grid;gap:14px;min-width:0;align-content:start;grid-template-columns:repeat(auto-fill,minmax(min(100%,460px),1fr))}
+.tier{font-family:var(--font-mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-3);margin:6px 0 -4px;padding-bottom:4px;border-bottom:1px solid var(--line)}
+.tier:first-child{margin-top:0}
+.mk{background:var(--surface);border:1px solid var(--line);min-width:0}
+.mk-top{display:flex;gap:10px;align-items:flex-start;padding:12px 14px 0;flex-wrap:wrap}
+.chip{font-family:var(--font-mono);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;font-weight:600;padding:3px 7px;border-radius:3px;color:#fff;background:var(--pc);line-height:1.3;white-space:nowrap}
+.mk-q{font-weight:600;font-size:15.5px;line-height:1.3;flex:1 1 240px;min-width:0}
+.mk-q a{text-decoration:none} .mk-q a:hover{text-decoration:underline}
+.mk-meta{font-family:var(--font-mono);font-size:11.5px;color:var(--ink-3);padding:6px 14px 0;display:flex;gap:14px;flex-wrap:wrap}
+.odds{padding:10px 14px 12px;display:grid;gap:5px}
+.row{display:grid;grid-template-columns:minmax(90px,190px) 1fr 52px;gap:10px;align-items:center;font-size:13.5px}
+.row .lbl{color:var(--ink-2);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.row .bar{height:12px;background:var(--bar-track);border-radius:2px;overflow:hidden}
+.row .bar i{display:block;height:100%;background:var(--pc);border-radius:2px;transition:width .5s ease}
+.row .pct{font-family:var(--font-mono);font-variant-numeric:tabular-nums;text-align:right;font-weight:600}
+.row.lead .lbl{color:var(--ink);font-weight:600} .row.lead .bar i{background:var(--gilt)}
+.big{display:flex;align-items:baseline;gap:12px;padding:8px 14px 12px;flex-wrap:wrap}
+.big .p{font-family:var(--font-mono);font-size:34px;font-weight:600;line-height:1;color:var(--pc);font-variant-numeric:tabular-nums}
+.big .t{color:var(--ink-2);font-size:13px}
+.embed{border-top:1px solid var(--line)}
+.embed summary{cursor:pointer;list-style:none;padding:9px 14px;font-size:12.5px;font-weight:600;color:var(--ink-2);display:flex;justify-content:space-between;align-items:center;background:var(--surface-2)}
+.embed summary::-webkit-details-marker{display:none}
+.embed summary::after{content:"Show";font-family:var(--font-mono);font-size:11px;color:var(--ink-3)} .embed[open] summary::after{content:"Hide"}
+.embed iframe{display:block;width:100%;border:0;background:#fff}
+.mk-foot{padding:8px 14px 10px;font-size:12px;color:var(--ink-3);border-top:1px solid var(--line);display:flex;gap:14px;flex-wrap:wrap;align-items:center}
+.mk-foot a{color:var(--ink-2)}
+.snap{font-family:var(--font-mono);font-size:11px;color:var(--warn)}
+.none{border:1px dashed var(--line-2);padding:14px 16px}
+.none .t{font-weight:600;margin:0 0 4px} .none p{margin:0;color:var(--ink-2);font-size:13.5px;max-width:70ch}
+.none .links{margin-top:8px;display:flex;gap:12px;flex-wrap:wrap;font-size:12.5px} .none .links a{color:var(--ink-2)}
+footer{border-top:3px double var(--line-2);margin-top:40px;background:var(--surface)}
+footer .wrap{padding-block:24px 40px;display:grid;gap:10px;font-size:13px;color:var(--ink-2)}
+footer h4{font-family:var(--font-mono);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-3);margin:8px 0 2px}
+footer ul{margin:0;padding-left:18px} footer li{margin:2px 0}
+footer p{margin:0;max-width:80ch}
+</style>
+</head>
+<body>
+<header class="mast">
+  <div class="wrap">
+    <h1>Operative data and Prediction markets</h1>
+    <p class="lede">A curated set of contracts from Polymarket, Manifold and Metaculus on the UK's key economic factors and relevant global drivers, re-priced every minute. Operative data pulled live from the data agencies that publish them. Under each indicator, the most relevant recent passages from BBC Business, CNBC Economy, The Economist and the leading economic think tanks, linked to the exact passage.</p>
+    <div class="status" id="status">
+      <span><span class="dot" id="dot-pm"></span>Polymarket <span id="st-pm">loading…</span></span>
+      <span><span class="dot" id="dot-mf"></span>Manifold <span id="st-mf">loading…</span></span>
+      <span><span class="dot live"></span>Metaculus charts embedded live</span>
+      <span><span class="dot" id="dot-data"></span>Official data <span id="st-data">loading…</span></span>
+      <span><span class="dot" id="dot-media"></span>Media quotes <span id="st-media">loading…</span></span>
+      <span id="st-next"></span>
+    </div>
+  </div>
+</header>
+<nav class="chapters" aria-label="Chapters">
+  <div class="wrap" id="navwrap"></div>
+</nav>
+<main class="wrap" id="main"></main>
+<footer>
+  <div class="wrap" id="foot"></div>
+</footer>
+<script>
+/*__DATA__*/
+</script>
+<script>
+/*__APP__*/
+</script>
+</body>
+</html>
