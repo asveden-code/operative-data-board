@@ -17,7 +17,7 @@ Work in the repository checkout. Steps:
    standfirst only"}`. Do not try to fetch CNBC or Economist article pages: both refuse automated readers, and
    circumventing that is out of bounds. The same applies to IFS, OBR, Chatham House and OIES pages, which refuse cloud
    readers; they are not in the perimeter for that reason.
-2. Read `data/quotes.json` (yesterday's selection) and `data/candidates.json`. For each indicator key
+2. Read `quotes.json` (yesterday's selection) and `data/candidates.json`. For each indicator key
    (gdp, unemp, pop, earn, boe, cpi, gilt, brent, gas, gulf, ecb, fed, ust, tfp, food, fiscal, tariff) decide the
    new set of at most seven passages. Judge each candidate on these things, in this order:
    - Relevance: does it substantially explain the current trend in this indicator, give an expectation or forecast
@@ -53,7 +53,7 @@ Work in the repository checkout. Steps:
    Fewer, stronger passages beat seven weak ones; two is an acceptable set. Keep a passage from yesterday's set if
    nothing better has appeared. Order each set: tagged passages first, then by date, newest first. The same
    paragraph may serve two indicators when it bears on both (an energy-price paragraph under Brent and under CPI).
-3. Write `data/quotes.json` in the same shape as before: `{"generated_at": ISO-UTC, "window_days": {"press": 14,
+3. Write `quotes.json` in the same shape as before: `{"generated_at": ISO-UTC, "window_days": {"press": 14,
    "think_tanks": 60}, "sources": [...], "quotes": {key: [{source, title, url, date, quote, tag, verified, pieces?,
    headline?, standfirst?}]}}`. For BBC and think-tank entries set "pieces": the list of quoted paragraphs, each
    exactly as it appears in the article (for Bruegel, keep the footnote digits that sit glued to words in "pieces"
@@ -61,10 +61,10 @@ Work in the repository checkout. Steps:
    "headline. standfirst". Source names must be exactly: "BBC Business", "CNBC Economy", "The Economist", "NIESR",
    "Resolution Foundation", "Institute for Government", "LSE British Politics and Policy", "Oxford Economics",
    "Bruegel", "Tax Foundation" (the page colours its chips by these names).
-4. `python scripts/verify_quotes.py data/quotes.json data/candidates.json` — it checks every BBC and think-tank
+4. `python scripts/verify_quotes.py quotes.json data/candidates.json` — it checks every BBC and think-tank
    paragraph against the live page text and every CNBC/Economist quote against the feed standfirst, drops failures
    and rebuilds the `#:~:text=` links. If it removed anything, pick a replacement and run it again.
-5. Commit `data/quotes.json` and `data/candidates.json` with the message `media: refresh quotes <date>` and push.
+5. Commit `quotes.json` and `data/candidates.json` with the message `media: refresh quotes <date>` and push.
    GitHub Pages serves the new file; the page reads it on its next load.
 Report in one paragraph: how many passages changed, which indicators have fewer than three, and anything that
 could not be fetched.

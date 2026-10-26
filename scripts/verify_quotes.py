@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Verify data/quotes.json and (re)build each quote's text-fragment link.
+"""Verify quotes.json and (re)build each quote's text-fragment link.
 
 For every quote: the article page is fetched (BBC and the think tanks) and each quoted paragraph must appear
 in it, allowing for whitespace differences and the BBC's hidden "external link" labels; CNBC and Economist
@@ -7,7 +7,7 @@ entries are headline + standfirst and are checked against the current feed data 
 since those sites refuse automated readers. Quotes that fail are
 removed and reported. Links use the W3C text fragment syntax: #:~:text=<start>[,<end>].
 
-Usage:  python scripts/verify_quotes.py data/quotes.json data/candidates.json
+Usage:  python scripts/verify_quotes.py quotes.json data/candidates.json
 """
 import json, re, sys, urllib.parse, urllib.request, html, time
 

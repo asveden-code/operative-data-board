@@ -404,7 +404,7 @@ async function refreshData(){
   renderAll();
 }
 async function refreshQuotes(){
-  try{ const q=await getJSON("data/quotes.json?t="+Math.floor(Date.now()/600000), 8000); if(q&&q.quotes){ state.quotes=q; setStatus("media",`daily file · ${new Date(q.generated_at).toLocaleDateString("en-GB",{day:"numeric",month:"short"})}`,true); renderAll(); return; } }catch(e){}
+  try{ const q=await getJSON("quotes.json?t="+Math.floor(Date.now()/600000), 8000); if(q&&q.quotes){ state.quotes=q; setStatus("media",`daily file · ${new Date(q.generated_at).toLocaleDateString("en-GB",{day:"numeric",month:"short"})}`,true); renderAll(); return; } }catch(e){}
   setStatus("media", `selected ${BUILT_AT}`, true);
 }
 function tick(){ const el=document.getElementById("st-next"); if(el){ el.textContent=`next price refresh in ${Math.max(0,Math.round((nextAt-Date.now())/1000))}s`; } }
