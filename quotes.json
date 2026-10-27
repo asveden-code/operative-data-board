@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T09:34Z",
+ "generated_at": "2026-10-27T10:06Z",
  "window_days": {
   "press": 14,
   "think_tanks": 60
@@ -87,6 +87,32 @@
   ],
   "unemp": [
    {
+    "source": "LSE British Politics and Policy",
+    "title": "The Budget should not price young people out of work",
+    "url": "https://blogs.lse.ac.uk/politicsandpolicy/the-budget-should-not-price-young-people-out-of-work/",
+    "date": "2026-10-26",
+    "quote": "John Healey is about to deliver his first Budget, and the first fiscal event of Andy Burnham’s premiership. The figures from the Office for National Statistics, put vacancies at 691,000, below pre-pandemic levels, with payrolled employment still falling. Youth unemployment is 15.6 per cent, with 54,000 more young people out of work than a year ago. In the three months to July the rate reached 16.4 per cent, the highest since 2014. Around a million young people are not in education, employment or training, and the Learning and Work Institute counts 5.3 people out of work and wanting a job for every vacancy.",
+    "pieces": [
+     "John Healey is about to deliver his first Budget, and the first fiscal event of Andy Burnham’s premiership. The figures from the Office for National Statistics, put vacancies at 691,000, below pre-pandemic levels, with payrolled employment still falling. Youth unemployment is 15.6 per cent, with 54,000 more young people out of work than a year ago. In the three months to July the rate reached 16.4 per cent, the highest since 2014. Around a million young people are not in education, employment or training, and the Learning and Work Institute counts 5.3 people out of work and wanting a job for every vacancy."
+    ],
+    "tag": "Highest since 2014",
+    "verified": "page text",
+    "link": "https://blogs.lse.ac.uk/politicsandpolicy/the-budget-should-not-price-young-people-out-of-work/#:~:text=John%20Healey%20is%20about%20to%20deliver%20his,and%20wanting%20a%20job%20for%20every%20vacancy."
+   },
+   {
+    "source": "LSE British Politics and Policy",
+    "title": "The Budget should not price young people out of work",
+    "url": "https://blogs.lse.ac.uk/politicsandpolicy/the-budget-should-not-price-young-people-out-of-work/",
+    "date": "2026-10-26",
+    "quote": "If you raise the price of a worker whose tasks a machine can do, some of that work can move to the machine. In 2017 it was older factory workers. In 2026 it is younger professional workers, and also possibly school leavers on tills and counters that self-service machines can replace. In fact, the Bank of England’s agents report warehouse operators looking to automate after recent labour cost inflation, and retail and hospitality have shed 117,000 employees in a year, more than all other industries combined. Out-of-work benefit claims have risen most among 18 to 20-year-olds, from 7.2 to 9.4 per cent between 2022 and 2025. Meanwhile the 18 to 20 minimum wage rate has risen 45 per cent in three years, from £7.49 to £10.85, taking it from 72 to 85 per cent of the adult rate. A price rise of that size, for workers who have just become substitutable, lies outside anything in the Commission’s known evidence base.",
+    "pieces": [
+     "If you raise the price of a worker whose tasks a machine can do, some of that work can move to the machine. In 2017 it was older factory workers. In 2026 it is younger professional workers, and also possibly school leavers on tills and counters that self-service machines can replace. In fact, the Bank of England’s agents report warehouse operators looking to automate after recent labour cost inflation, and retail and hospitality have shed 117,000 employees in a year, more than all other industries combined. Out-of-work benefit claims have risen most among 18 to 20-year-olds, from 7.2 to 9.4 per cent between 2022 and 2025. Meanwhile the 18 to 20 minimum wage rate has risen 45 per cent in three years, from £7.49 to £10.85, taking it from 72 to 85 per cent of the adult rate. A price rise of that size, for workers who have just become substitutable, lies outside anything in the Commission’s known evidence base."
+    ],
+    "tag": "117,000 jobs shed",
+    "verified": "page text",
+    "link": "https://blogs.lse.ac.uk/politicsandpolicy/the-budget-should-not-price-young-people-out-of-work/#:~:text=If%20you%20raise%20the%20price%20of%20a,anything%20in%20the%20Commission%E2%80%99s%20known%20evidence%20base."
+   },
+   {
     "source": "NIESR",
     "title": "The Minimal Credibility Test For The Autumn 2026 Budget",
     "url": "https://niesr.ac.uk/blog/minimal-credibility-test-autumn-2026-budget",
@@ -153,18 +179,6 @@
     "tag": null,
     "verified": "page text",
     "link": "https://www.resolutionfoundation.org/comment/is-the-minimum-wage-to-blame-for-falling-youth-employment/#:~:text=What%20if%20this%20is%20all%20structural%20change%2C,preference%20for%20screens%20to%20seeing%20our%20mates."
-   },
-   {
-    "source": "CNBC Economy",
-    "title": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
-    "url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html",
-    "date": "2026-10-13",
-    "quote": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’. IMF Chief Kristalina Georgieva warned AI is hitting the global labor market like a “slow-moving tsunami,” with young workers entering the job market the most exposed.",
-    "headline": "World Bank jobs council urges 'crisis-era' employment support measures as IMF warns of AI ‘tsunami’",
-    "standfirst": "IMF Chief Kristalina Georgieva warned AI is hitting the global labor market like a “slow-moving tsunami,” with young workers entering the job market the most exposed.",
-    "tag": null,
-    "verified": "publisher feed",
-    "link": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html#:~:text=World%20Bank%20jobs%20council%20urges%20%27crisis%2Dera%27%20employment%20support%20measures%20as%20IMF%20warns%20of%20AI%20%E2%80%98tsunami%E2%80%99"
    }
   ],
   "pop": [
@@ -226,9 +240,9 @@
     "title": "Does falling migration spell trouble for the Budget?",
     "url": "https://blogs.lse.ac.uk/politicsandpolicy/does-falling-migration-spell-trouble-for-the-budget/",
     "date": "2026-10-20",
-    "quote": "First, the OBR itself came to recognise that migration required more public expenditure that its March 2024 estimates implied if it was not to have some implicit austerity.. In their September 2024 Fiscal risks and sustainability report, the OBR argued that extra public investment of £20k per person would be needed to maintain the public sector capital stock (the hospitals, schools roads etc) in per capita terms (though they also gave some reasons why this might be too high). But if migration is 100k lower for 5 years, then the saving from lower required public sector investment would be £10bn(100k migrants requires investment of £2bn, multiplied by 5 years) – i.e. this could conceivably wipe out the £7bn cost in the March 2024 estimates. At the very least it substantially reduces it.",
+    "quote": "First, the OBR itself came to recognise that migration required more public expenditure that its March 2024 estimates implied if it was not to have some implicit austerity. In their September 2024 Fiscal risks and sustainability report, the OBR argued that extra public investment of £20k per person would be needed to maintain the public sector capital stock (the hospitals, schools roads etc) in per capita terms (though they also gave some reasons why this might be too high). But if migration is 100k lower for 5 years, then the saving from lower required public sector investment would be £10bn(100k migrants requires investment of £2bn, multiplied by 5 years) – i.e. this could conceivably wipe out the £7bn cost in the March 2024 estimates. At the very least it substantially reduces it.",
     "pieces": [
-     "First, the OBR itself came to recognise that migration required more public expenditure that its March 2024 estimates implied if it was not to have some implicit austerity.. In their September 2024 Fiscal risks and sustainability report, the OBR argued that extra public investment of £20k per person would be needed to maintain the public sector capital stock (the hospitals, schools roads etc) in per capita terms (though they also gave some reasons why this might be too high). But if migration is 100k lower for 5 years, then the saving from lower required public sector investment would be £10bn(100k migrants requires investment of £2bn, multiplied by 5 years) – i.e. this could conceivably wipe out the £7bn cost in the March 2024 estimates. At the very least it substantially reduces it."
+     "First, the OBR itself came to recognise that migration required more public expenditure that its March 2024 estimates implied if it was not to have some implicit austerity. In their September 2024 Fiscal risks and sustainability report, the OBR argued that extra public investment of £20k per person would be needed to maintain the public sector capital stock (the hospitals, schools roads etc) in per capita terms (though they also gave some reasons why this might be too high). But if migration is 100k lower for 5 years, then the saving from lower required public sector investment would be £10bn(100k migrants requires investment of £2bn, multiplied by 5 years) – i.e. this could conceivably wipe out the £7bn cost in the March 2024 estimates. At the very least it substantially reduces it."
     ],
     "tag": null,
     "verified": "page text",
@@ -236,6 +250,23 @@
    }
   ],
   "earn": [
+   {
+    "source": "BBC Business",
+    "title": "Budget measures to include fuel duty freeze and food tariff cuts",
+    "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno",
+    "date": "2026-10-27",
+    "quote": "The Times has reported that the government may slow the pace of pay increases for people aged between 18 to 20 years-old who receive the National Minimum Wage. It reports that pay for that age group is likely to rise by 3.9% from £10.85 an hour to around £11.27, when the chancellor makes the announcement during the Budget. It is far below the 26% increase in the National Minimum Wage the Labour government has announced since returning to power in 2024. Labour had promised in its manifesto it would remove \"discriminatory age bands so all adults are entitled to the same minimum wage\". But even after the reported rise, the rate remains below the National Living Wage which applies to over 21-year-olds and is currently £12.71 an hour. This rate is set to rise by 3.9% to £13.20, the Times said.",
+    "pieces": [
+     "The Times has reported that the government may slow the pace of pay increases for people aged between 18 to 20 years-old who receive the National Minimum Wage.",
+     "It reports that pay for that age group is likely to rise by 3.9% from £10.85 an hour to around £11.27, when the chancellor makes the announcement during the Budget.",
+     "It is far below the 26% increase in the National Minimum Wage the Labour government has announced since returning to power in 2024.",
+     "Labour had promised in its manifesto it would remove \"discriminatory age bands so all adults are entitled to the same minimum wage\".",
+     "But even after the reported rise, the rate remains below the National Living Wage which applies to over 21-year-olds and is currently £12.71 an hour. This rate is set to rise by 3.9% to £13.20, the Times said."
+    ],
+    "tag": "Policy turn",
+    "verified": "page text",
+    "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno#:~:text=The%20Times%20has%20reported%20that%20the%20government,by%203.9%25%20to%20%C2%A313.20%2C%20the%20Times%20said."
+   },
    {
     "source": "Resolution Foundation",
     "title": "My final newsletter – fewer meetings, less management, slower pay growth?",
@@ -276,6 +307,19 @@
     "link": "https://www.resolutionfoundation.org/comment/is-the-minimum-wage-to-blame-for-falling-youth-employment/#:~:text=What%20about%20the%20minimum%20wage%3F%20There%20have,older%20youth%20rate%20rose%2059%20per%20cent."
    },
    {
+    "source": "LSE British Politics and Policy",
+    "title": "The Budget should not price young people out of work",
+    "url": "https://blogs.lse.ac.uk/politicsandpolicy/the-budget-should-not-price-young-people-out-of-work/",
+    "date": "2026-10-26",
+    "quote": "If you raise the price of a worker whose tasks a machine can do, some of that work can move to the machine. In 2017 it was older factory workers. In 2026 it is younger professional workers, and also possibly school leavers on tills and counters that self-service machines can replace. In fact, the Bank of England’s agents report warehouse operators looking to automate after recent labour cost inflation, and retail and hospitality have shed 117,000 employees in a year, more than all other industries combined. Out-of-work benefit claims have risen most among 18 to 20-year-olds, from 7.2 to 9.4 per cent between 2022 and 2025. Meanwhile the 18 to 20 minimum wage rate has risen 45 per cent in three years, from £7.49 to £10.85, taking it from 72 to 85 per cent of the adult rate. A price rise of that size, for workers who have just become substitutable, lies outside anything in the Commission’s known evidence base.",
+    "pieces": [
+     "If you raise the price of a worker whose tasks a machine can do, some of that work can move to the machine. In 2017 it was older factory workers. In 2026 it is younger professional workers, and also possibly school leavers on tills and counters that self-service machines can replace. In fact, the Bank of England’s agents report warehouse operators looking to automate after recent labour cost inflation, and retail and hospitality have shed 117,000 employees in a year, more than all other industries combined. Out-of-work benefit claims have risen most among 18 to 20-year-olds, from 7.2 to 9.4 per cent between 2022 and 2025. Meanwhile the 18 to 20 minimum wage rate has risen 45 per cent in three years, from £7.49 to £10.85, taking it from 72 to 85 per cent of the adult rate. A price rise of that size, for workers who have just become substitutable, lies outside anything in the Commission’s known evidence base."
+    ],
+    "tag": null,
+    "verified": "page text",
+    "link": "https://blogs.lse.ac.uk/politicsandpolicy/the-budget-should-not-price-young-people-out-of-work/#:~:text=If%20you%20raise%20the%20price%20of%20a,anything%20in%20the%20Commission%E2%80%99s%20known%20evidence%20base."
+   },
+   {
     "source": "NIESR",
     "title": "Inflation Could Climb Above 5% in Early 2027",
     "url": "https://niesr.ac.uk/blog/inflation-could-climb-above-5-early-2027",
@@ -301,19 +345,6 @@
     "tag": null,
     "verified": "page text",
     "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o#:~:text=September%27s%20inflation%20figure%20is%20also%20important%20because,to%20July%2C%20due%20to%20the%20triple%20lock."
-   },
-   {
-    "source": "BBC Business",
-    "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
-    "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o",
-    "date": "2026-10-21",
-    "quote": "While higher inflation at a time of frozen tax thresholds will raise more tax in cash terms, it will also increase the cost of public services, including likely union pay demands.",
-    "pieces": [
-     "While higher inflation at a time of frozen tax thresholds will raise more tax in cash terms, it will also increase the cost of public services, including likely union pay demands."
-    ],
-    "tag": null,
-    "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o#:~:text=While%20higher%20inflation%20at%20a%20time%20of,public%20services%2C%20including%20likely%20union%20pay%20demands."
    }
   ],
   "boe": [
@@ -481,17 +512,16 @@
    },
    {
     "source": "BBC Business",
-    "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-    "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o",
-    "date": "2026-10-26",
-    "quote": "Inflation has risen, but not just in Britain. The link between gas and electricity prices has weakened, meaning spikes in gas prices have less impact on electricity bills than they used to and helping to keep inflation lower than it otherwise might have been. The fact that up until now the Iran war has been more of an oil shock than a gas shock (where the UK is more exposed) has been another saving grace. Meanwhile, the significant amount of AI and tech investment in the UK is another boost to the economic numbers.",
-    "tag": null,
+    "title": "Budget measures to include fuel duty freeze and food tariff cuts",
+    "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno",
+    "date": "2026-10-27",
+    "quote": "The government will also freeze fuel duty again in the Budget, the BBC understands. The 5p duty discount is also set to continue. That discount was first introduced in 2022, and was due to last 12 months, but has been extended ever since.",
     "pieces": [
-     "Inflation has risen, but not just in Britain. The link between gas and electricity prices has weakened, meaning spikes in gas prices have less impact on electricity bills than they used to and helping to keep inflation lower than it otherwise might have been.",
-     "The fact that up until now the Iran war has been more of an oil shock than a gas shock (where the UK is more exposed) has been another saving grace. Meanwhile, the significant amount of AI and tech investment in the UK is another boost to the economic numbers."
+     "The government will also freeze fuel duty again in the Budget, the BBC understands. The 5p duty discount is also set to continue. That discount was first introduced in 2022, and was due to last 12 months, but has been extended ever since."
     ],
+    "tag": null,
     "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o#:~:text=Inflation%20has%20risen%2C%20but%20not%20just%20in,is%20another%20boost%20to%20the%20economic%20numbers."
+    "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno#:~:text=The%20government%20will%20also%20freeze%20fuel%20duty,months%2C%20but%20has%20been%20extended%20ever%20since."
    },
    {
     "source": "NIESR",
@@ -602,6 +632,21 @@
   ],
   "brent": [
    {
+    "source": "Oxford Economics",
+    "title": "Geopolitics and shipping disruption are the biggest risks for 2027",
+    "url": "https://www.oxfordeconomics.com/resource/geopolitics-and-shipping-disruption-are-the-biggest-risks-for-2027/",
+    "date": "2026-10-26",
+    "quote": "Geopolitical tensions and shipping disruptions are identified as the primary risks facing the UAE economy as it approaches 2027. Clients express significant concerns about the potential impacts of these factors on their operations. A recent roundtable revealed that 71% of participants view geopolitical escalation as the most pressing global issue, with ongoing conflicts in the region influencing their outlook. Additionally, concerns about attacks on shipping facilities, sluggish tourism recovery, and the possibility of a real estate bubble bursting were highlighted as critical risks. While oil prices are expected to fall to between $80 and $100 per barrel by the end of 2027, clients remain optimistic about AI investments, which are anticipated to contribute positively to GDP growth. However, worries about job displacement due to AI and its potential effects on local demand were also discussed.",
+    "pieces": [
+     "Geopolitical tensions and shipping disruptions are identified as the primary risks facing the UAE economy as it approaches 2027. Clients express significant concerns about the potential impacts of these factors on their operations.",
+     "A recent roundtable revealed that 71% of participants view geopolitical escalation as the most pressing global issue, with ongoing conflicts in the region influencing their outlook. Additionally, concerns about attacks on shipping facilities, sluggish tourism recovery, and the possibility of a real estate bubble bursting were highlighted as critical risks.",
+     "While oil prices are expected to fall to between $80 and $100 per barrel by the end of 2027, clients remain optimistic about AI investments, which are anticipated to contribute positively to GDP growth. However, worries about job displacement due to AI and its potential effects on local demand were also discussed."
+    ],
+    "tag": "Forecast $80–100",
+    "verified": "page text",
+    "link": "https://www.oxfordeconomics.com/resource/geopolitics-and-shipping-disruption-are-the-biggest-risks-for-2027/#:~:text=Geopolitical%20tensions%20and%20shipping%20disruptions%20are%20identified,effects%20on%20local%20demand%20were%20also%20discussed."
+   },
+   {
     "source": "BBC Business",
     "title": "Heating oil costs 'more than double' ahead of winter",
     "url": "https://www.bbc.co.uk/news/articles/c6n8de1jgrdvo",
@@ -655,18 +700,6 @@
    },
    {
     "source": "CNBC Economy",
-    "title": "Brian Sullivan: Why the 'real' price of oil is likely $30-$40 higher than where it is now",
-    "url": "https://www.cnbc.com/2026/10/15/brian-sullivan-why-the-real-price-of-oil-is-likely-30-40-higher-than-where-it-is-now.html",
-    "date": "2026-10-15",
-    "quote": "Brian Sullivan: Why the 'real' price of oil is likely $30-$40 higher than where it is now. Physical oil can cost about $38 a barrel more to deliver, as tanker rates surge.",
-    "headline": "Brian Sullivan: Why the 'real' price of oil is likely $30-$40 higher than where it is now",
-    "standfirst": "Physical oil can cost about $38 a barrel more to deliver, as tanker rates surge.",
-    "tag": "Unusual premium",
-    "verified": "publisher feed",
-    "link": "https://www.cnbc.com/2026/10/15/brian-sullivan-why-the-real-price-of-oil-is-likely-30-40-higher-than-where-it-is-now.html#:~:text=Brian%20Sullivan%3A%20Why%20the%20%27real%27%20price%20of%20oil%20is%20likely%20%2430%2D%2440%20higher%20than%20where%20it%20is%20now"
-   },
-   {
-    "source": "CNBC Economy",
     "title": "Diesel squeeze set to last well into 2027 as Iran war disrupts supply, IEA says",
     "url": "https://www.cnbc.com/2026/10/14/diesel-deal-oil-price-iea-report.html",
     "date": "2026-10-14",
@@ -679,15 +712,15 @@
    },
    {
     "source": "CNBC Economy",
-    "title": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
-    "url": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
-    "date": "2026-10-26",
-    "quote": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction. Oil prices fell as investors weighed the threat of further attacks on Saudi Arabian energy infrastructure against concerns that elevated prices could erode demand.",
+    "title": "Oil prices seesaw amid renewed diplomatic efforts to end Mideast conflict",
+    "url": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
+    "date": "2026-10-27",
+    "quote": "Oil prices seesaw amid renewed diplomatic efforts to end Mideast conflict. Renewed diplomatic efforts to end the U.S.-Israeli war with Iran pushed oil prices lower",
+    "headline": "Oil prices seesaw amid renewed diplomatic efforts to end Mideast conflict",
+    "standfirst": "Renewed diplomatic efforts to end the U.S.-Israeli war with Iran pushed oil prices lower",
     "tag": null,
-    "headline": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
-    "standfirst": "Oil prices fell as investors weighed the threat of further attacks on Saudi Arabian energy infrastructure against concerns that elevated prices could erode demand.",
     "verified": "publisher feed",
-    "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html#:~:text=Oil%20slides%20over%202%25%20as%20traders%20weigh%20Saudi%20attack%20risks%2C%20demand%20destruction"
+    "link": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html#:~:text=Oil%20prices%20seesaw%20amid%20renewed%20diplomatic%20efforts%20to%20end%20Mideast%20conflict"
    }
   ],
   "gas": [
@@ -788,6 +821,18 @@
   "gulf": [
    {
     "source": "CNBC Economy",
+    "title": "Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran to de-escalate",
+    "url": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
+    "date": "2026-10-26",
+    "quote": "Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran to de-escalate. Investors are worried about the vulnerability of Saudi energy infrastructure and the risk of another disruption to production, refining or export facilities.",
+    "headline": "Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran to de-escalate",
+    "standfirst": "Investors are worried about the vulnerability of Saudi energy infrastructure and the risk of another disruption to production, refining or export facilities.",
+    "tag": "De-escalation",
+    "verified": "publisher feed",
+    "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html#:~:text=Oil%20ticks%20lower%20as%20Saudi%20defense%20minister%20meets%20with%20Iran%27s%20president%20in%20Tehran%20to%20de%2Descalate"
+   },
+   {
+    "source": "CNBC Economy",
     "title": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
     "url": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
     "date": "2026-10-25",
@@ -837,18 +882,6 @@
    },
    {
     "source": "CNBC Economy",
-    "title": "UK to deploy fighter jets to defend Saudi cities from Houthi attacks",
-    "url": "https://www.cnbc.com/2026/10/20/uk-fighter-jets-saudi-houthi-attacks-iran.html",
-    "date": "2026-10-20",
-    "quote": "UK to deploy fighter jets to defend Saudi cities from Houthi attacks. The U.K.'s Royal Air Force will deploy jets to assist with defensive operations, but will not engage in offensive strikes.",
-    "headline": "UK to deploy fighter jets to defend Saudi cities from Houthi attacks",
-    "standfirst": "The U.K.'s Royal Air Force will deploy jets to assist with defensive operations, but will not engage in offensive strikes.",
-    "tag": "Escalation",
-    "verified": "publisher feed",
-    "link": "https://www.cnbc.com/2026/10/20/uk-fighter-jets-saudi-houthi-attacks-iran.html#:~:text=UK%20to%20deploy%20fighter%20jets%20to%20defend%20Saudi%20cities%20from%20Houthi%20attacks"
-   },
-   {
-    "source": "CNBC Economy",
     "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
     "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
     "date": "2026-10-19",
@@ -860,16 +893,19 @@
     "link": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html#:~:text=Saudi%20Arabia%20postpones%20big%20investor%20conference%20to%202027%20as%20Iran%2Dbacked%20Houthis%20escalate%20attacks%20on%20kingdom"
    },
    {
-    "source": "CNBC Economy",
-    "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
-    "url": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html",
-    "date": "2026-10-15",
-    "quote": "Container ship sinks in Strait of Hormuz as Iran steps up attacks. Iran has escalated its strikes on commercial ships transiting Hormuz in recent weeks, as it tries to choke off a rebound in crude oil exports.",
-    "headline": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
-    "standfirst": "Iran has escalated its strikes on commercial ships transiting Hormuz in recent weeks, as it tries to choke off a rebound in crude oil exports.",
-    "tag": "Escalation",
-    "verified": "publisher feed",
-    "link": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html#:~:text=Container%20ship%20sinks%20in%20Strait%20of%20Hormuz%20as%20Iran%20steps%20up%20attacks"
+    "source": "Oxford Economics",
+    "title": "Geopolitics and shipping disruption are the biggest risks for 2027",
+    "url": "https://www.oxfordeconomics.com/resource/geopolitics-and-shipping-disruption-are-the-biggest-risks-for-2027/",
+    "date": "2026-10-26",
+    "quote": "Geopolitical tensions and shipping disruptions are identified as the primary risks facing the UAE economy as it approaches 2027. Clients express significant concerns about the potential impacts of these factors on their operations. A recent roundtable revealed that 71% of participants view geopolitical escalation as the most pressing global issue, with ongoing conflicts in the region influencing their outlook. Additionally, concerns about attacks on shipping facilities, sluggish tourism recovery, and the possibility of a real estate bubble bursting were highlighted as critical risks. While oil prices are expected to fall to between $80 and $100 per barrel by the end of 2027, clients remain optimistic about AI investments, which are anticipated to contribute positively to GDP growth. However, worries about job displacement due to AI and its potential effects on local demand were also discussed.",
+    "pieces": [
+     "Geopolitical tensions and shipping disruptions are identified as the primary risks facing the UAE economy as it approaches 2027. Clients express significant concerns about the potential impacts of these factors on their operations.",
+     "A recent roundtable revealed that 71% of participants view geopolitical escalation as the most pressing global issue, with ongoing conflicts in the region influencing their outlook. Additionally, concerns about attacks on shipping facilities, sluggish tourism recovery, and the possibility of a real estate bubble bursting were highlighted as critical risks.",
+     "While oil prices are expected to fall to between $80 and $100 per barrel by the end of 2027, clients remain optimistic about AI investments, which are anticipated to contribute positively to GDP growth. However, worries about job displacement due to AI and its potential effects on local demand were also discussed."
+    ],
+    "tag": null,
+    "verified": "page text",
+    "link": "https://www.oxfordeconomics.com/resource/geopolitics-and-shipping-disruption-are-the-biggest-risks-for-2027/#:~:text=Geopolitical%20tensions%20and%20shipping%20disruptions%20are%20identified,effects%20on%20local%20demand%20were%20also%20discussed."
    }
   ],
   "ecb": [
@@ -1025,16 +1061,17 @@
     "link": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html#:~:text=Consumer%20prices%20rose%203.7%25%20annually%20in%20September%20as%20gas%20prices%20skyrocket"
    },
    {
-    "source": "CNBC Economy",
-    "title": "Economists: Hot PPI shows Fed's work is not done",
-    "url": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html",
-    "date": "2026-10-15",
-    "quote": "Economists: Hot PPI shows Fed's work is not done. 'We see real risks the Fed will deliver another rate hike in two weeks' time,' one Fedwatcher warns",
-    "headline": "Economists: Hot PPI shows Fed's work is not done",
-    "standfirst": "'We see real risks the Fed will deliver another rate hike in two weeks' time,' one Fedwatcher warns",
+    "source": "BBC Business",
+    "title": "Donald Trump's biggest economic problem looks strangely familiar",
+    "url": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o",
+    "date": "2026-10-27",
+    "quote": "US economic growth of 2.2% would be respectable by the standards of many wealthy economies. Germany, for example, has struggled to generate comparable momentum. And a stable US unemployment rate of 4.2% hardly suggests an economy in freefall.",
+    "pieces": [
+     "US economic growth of 2.2% would be respectable by the standards of many wealthy economies. Germany, for example, has struggled to generate comparable momentum. And a stable US unemployment rate of 4.2% hardly suggests an economy in freefall."
+    ],
     "tag": null,
-    "verified": "publisher feed",
-    "link": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html#:~:text=Economists%3A%20Hot%20PPI%20shows%20Fed%27s%20work%20is%20not%20done"
+    "verified": "page text",
+    "link": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o#:~:text=US%20economic%20growth%20of%202.2%25%20would%20be,4.2%25%20hardly%20suggests%20an%20economy%20in%20freefall."
    }
   ],
   "ust": [
@@ -1197,6 +1234,33 @@
   ],
   "food": [
    {
+    "source": "BBC Business",
+    "title": "Budget measures to include fuel duty freeze and food tariff cuts",
+    "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno",
+    "date": "2026-10-27",
+    "quote": "Removing tariffs from 100 food items could save households up to £21 per year when combined with existing tariff suspensions that were introduced in June and applied to products including pasta, fruit juice and tuna, according to the government.",
+    "pieces": [
+     "Removing tariffs from 100 food items could save households up to £21 per year when combined with existing tariff suspensions that were introduced in June and applied to products including pasta, fruit juice and tuna, according to the government."
+    ],
+    "tag": "Tariff cut",
+    "verified": "page text",
+    "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno#:~:text=Removing%20tariffs%20from%20100%20food%20items%20could,juice%20and%20tuna%2C%20according%20to%20the%20government."
+   },
+   {
+    "source": "BBC Business",
+    "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
+    "url": "https://www.bbc.co.uk/news/articles/c5rmy84np001o",
+    "date": "2026-10-27",
+    "quote": "Some retailers have seen a dramatic increase in sales of essential goods after the government called for people to stock up in case of a crisis, according to figures obtained by Newsnight. The Iceland supermarket chain said it was \"clear\" consumers had listened to warnings after it saw a 40% increase in sales of tinned products over the weekend.",
+    "pieces": [
+     "Some retailers have seen a dramatic increase in sales of essential goods after the government called for people to stock up in case of a crisis, according to figures obtained by Newsnight.",
+     "The Iceland supermarket chain said it was \"clear\" consumers had listened to warnings after it saw a 40% increase in sales of tinned products over the weekend."
+    ],
+    "tag": "Stockpiling",
+    "verified": "page text",
+    "link": "https://www.bbc.co.uk/news/articles/c5rmy84np001o#:~:text=Some%20retailers%20have%20seen%20a%20dramatic%20increase,sales%20of%20tinned%20products%20over%20the%20weekend."
+   },
+   {
     "source": "The Economist",
     "title": "A shortage of sulphur could hurt mines and farms everywhere",
     "url": "https://www.economist.com/finance-and-economics/2026/10/15/a-shortage-of-sulphur-could-hurt-mines-and-farms-everywhere",
@@ -1207,6 +1271,19 @@
     "tag": "Supply shock",
     "verified": "publisher feed",
     "link": "https://www.economist.com/finance-and-economics/2026/10/15/a-shortage-of-sulphur-could-hurt-mines-and-farms-everywhere#:~:text=A%20shortage%20of%20sulphur%20could%20hurt%20mines%20and%20farms%20everywhere"
+   },
+   {
+    "source": "BBC Business",
+    "title": "Budget measures to include fuel duty freeze and food tariff cuts",
+    "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno",
+    "date": "2026-10-27",
+    "quote": "The government said removing tariffs on fertiliser aimed to help farmers, while changes to import levies on kerosene is targetted at households that rely on heating oil.",
+    "pieces": [
+     "The government said removing tariffs on fertiliser aimed to help farmers, while changes to import levies on kerosene is targetted at households that rely on heating oil."
+    ],
+    "tag": null,
+    "verified": "page text",
+    "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno#:~:text=The%20government%20said%20removing%20tariffs%20on%20fertiliser,at%20households%20that%20rely%20on%20heating%20oil."
    },
    {
     "source": "BBC Business",
@@ -1238,6 +1315,34 @@
    }
   ],
   "fiscal": [
+   {
+    "source": "BBC Business",
+    "title": "Budget measures to include fuel duty freeze and food tariff cuts",
+    "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno",
+    "date": "2026-10-27",
+    "quote": "The government will also freeze fuel duty again in the Budget, the BBC understands. The 5p duty discount is also set to continue. That discount was first introduced in 2022, and was due to last 12 months, but has been extended ever since.",
+    "pieces": [
+     "The government will also freeze fuel duty again in the Budget, the BBC understands. The 5p duty discount is also set to continue. That discount was first introduced in 2022, and was due to last 12 months, but has been extended ever since."
+    ],
+    "tag": "Policy decision",
+    "verified": "page text",
+    "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno#:~:text=The%20government%20will%20also%20freeze%20fuel%20duty,months%2C%20but%20has%20been%20extended%20ever%20since."
+   },
+   {
+    "source": "BBC Business",
+    "title": "Healey to shield low-income pensioners from income tax in the Budget",
+    "url": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o",
+    "date": "2026-10-26",
+    "quote": "Pensioners on low incomes will be shielded from income tax by Chancellor John Healey in his first Budget on Wednesday. The full, flat-rate state pension is expected to increase by 3.9% to £13,036.40 a year from April. This would take the payment above the £12,570 personal tax allowance and therefore be liable for income tax if no changes are made. The government had already committed to not taxing people who only get an income from the state pension. Healey will explain this pledge will be met by plans for a new tax allowance for low-income pensioners.",
+    "pieces": [
+     "Pensioners on low incomes will be shielded from income tax by Chancellor John Healey in his first Budget on Wednesday.",
+     "The full, flat-rate state pension is expected to increase by 3.9% to £13,036.40 a year from April. This would take the payment above the £12,570 personal tax allowance and therefore be liable for income tax if no changes are made.",
+     "The government had already committed to not taxing people who only get an income from the state pension. Healey will explain this pledge will be met by plans for a new tax allowance for low-income pensioners."
+    ],
+    "tag": "Policy decision",
+    "verified": "page text",
+    "link": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o#:~:text=Pensioners%20on%20low%20incomes%20will%20be%20shielded,a%20new%20tax%20allowance%20for%20low%2Dincome%20pensioners."
+   },
    {
     "source": "BBC Business",
     "title": "Four ways Labour could raise money in the Budget without hiking income tax",
@@ -1296,33 +1401,6 @@
    },
    {
     "source": "NIESR",
-    "title": "Has Fiscal Policy Adjusted To A World Of Higher Interest Rates?",
-    "url": "https://niesr.ac.uk/blog/has-fiscal-policy-adjusted-world-higher-interest-rates",
-    "date": "2026-10-16",
-    "quote": "Figure 5 shows the problem in practice. It plots every OBR forecast of the primary balance since 2010 against what actually happened. Almost every forecast shows the primary balance rising into surplus within five years. The outturn has not been in surplus once over this period, the last being in 2001-02.",
-    "pieces": [
-     "Figure 5 shows the problem in practice. It plots every OBR forecast of the primary balance since 2010 against what actually happened. Almost every forecast shows the primary balance rising into surplus within five years. The outturn has not been in surplus once over this period, the last being in 2001-02."
-    ],
-    "tag": "Track record",
-    "verified": "page text",
-    "link": "https://niesr.ac.uk/blog/has-fiscal-policy-adjusted-world-higher-interest-rates#:~:text=Figure%205%20shows%20the%20problem%20in%20practice.,this%20period%2C%20the%20last%20being%20in%202001%2D02."
-   },
-   {
-    "source": "BBC Business",
-    "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-    "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o",
-    "date": "2026-10-26",
-    "quote": "There are reasons to postpone some of the toughest decisions beyond this Budget, such as how to fund desired increases in spending on defence and social care. The economic outlook could improve were the Iran war to settle at some point in the next few months, and after revised statistics the OBR may also have cause to rethink last year's downgrade to long term economic growth. There is an imaginable pathway to a forecast next year with higher growth, lower inflation and lower debt interest costs, plausibly improving the public finance projections by tens of billions.",
-    "tag": null,
-    "pieces": [
-     "There are reasons to postpone some of the toughest decisions beyond this Budget, such as how to fund desired increases in spending on defence and social care. The economic outlook could improve were the Iran war to settle at some point in the next few months, and after revised statistics the OBR may also have cause to rethink last year's downgrade to long term economic growth.",
-     "There is an imaginable pathway to a forecast next year with higher growth, lower inflation and lower debt interest costs, plausibly improving the public finance projections by tens of billions."
-    ],
-    "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o#:~:text=There%20are%20reasons%20to%20postpone%20some%20of,public%20finance%20projections%20by%20tens%20of%20billions."
-   },
-   {
-    "source": "NIESR",
     "title": "The Minimal Credibility Test For The Autumn 2026 Budget",
     "url": "https://niesr.ac.uk/blog/minimal-credibility-test-autumn-2026-budget",
     "date": "2026-10-23",
@@ -1336,6 +1414,19 @@
    }
   ],
   "tariff": [
+   {
+    "source": "BBC Business",
+    "title": "Budget measures to include fuel duty freeze and food tariff cuts",
+    "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno",
+    "date": "2026-10-27",
+    "quote": "Removing tariffs from 100 food items could save households up to £21 per year when combined with existing tariff suspensions that were introduced in June and applied to products including pasta, fruit juice and tuna, according to the government.",
+    "pieces": [
+     "Removing tariffs from 100 food items could save households up to £21 per year when combined with existing tariff suspensions that were introduced in June and applied to products including pasta, fruit juice and tuna, according to the government."
+    ],
+    "tag": "Tariff cut",
+    "verified": "page text",
+    "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno#:~:text=Removing%20tariffs%20from%20100%20food%20items%20could,juice%20and%20tuna%2C%20according%20to%20the%20government."
+   },
    {
     "source": "BBC Business",
     "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
@@ -1402,29 +1493,18 @@
     "link": "https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/#:~:text=In%20calendar%20year%202024%2C%20the%20US%20federal,government%20refunded%20more%20than%20it%20brought%20in."
    },
    {
-    "source": "CNBC Economy",
-    "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
-    "url": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
-    "date": "2026-10-25",
-    "quote": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs. Audi's CEO defended the company's plans for a $4 billion plant in Georgia, calling it a business decision to grow sales and reduce exposure to U.S. tariffs.",
-    "tag": null,
-    "headline": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
-    "standfirst": "Audi's CEO defended the company's plans for a $4 billion plant in Georgia, calling it a business decision to grow sales and reduce exposure to U.S. tariffs.",
-    "verified": "publisher feed",
-    "link": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html#:~:text=Audi%20defends%20plans%20for%20a%20%244%20billion%20Georgia%20plant%20amid%20VW%20restructuring%2C%20tariffs"
-   },
-   {
-    "source": "Tax Foundation",
-    "title": "Exporters Bore Higher Share of the 2025 Tariffs than Previously Estimated",
-    "url": "https://taxfoundation.org/blog/exporters-bore-higher-share-2025-tariffs-than-previously-estimated/",
-    "date": "2026-09-01",
-    "quote": "Her unique contribution to the economic literature to date is that she weights the data by actual, pre-trade war trade flows. Weighting avoids counting the pass-through on a category of goods that only accounted for, say, $100 of imports the same as a category that saw $100 billion of imports. After this weighting, she shows that throughout 2025, foreign exports absorbed nearly half of the tariff burden, while US importers paid the other half.",
+    "source": "BBC Business",
+    "title": "Donald Trump's biggest economic problem looks strangely familiar",
+    "url": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o",
+    "date": "2026-10-27",
+    "quote": "Trump's \"Liberation Day\" tariffs, announced in April 2025, have added to costs for consumers. A study by the Federal Reserve Bank of New York found the tariffs increased consumer goods prices by about 2.9%.",
     "pieces": [
-     "Her unique contribution to the economic literature to date is that she weights the data by actual, pre-trade war trade flows. Weighting avoids counting the pass-through on a category of goods that only accounted for, say, $100 of imports the same as a category that saw $100 billion of imports. After this weighting, she shows that throughout 2025, foreign exports absorbed nearly half of the tariff burden, while US importers paid the other half."
+     "Trump's \"Liberation Day\" tariffs, announced in April 2025, have added to costs for consumers.",
+     "A study by the Federal Reserve Bank of New York found the tariffs increased consumer goods prices by about 2.9%."
     ],
     "tag": null,
     "verified": "page text",
-    "link": "https://taxfoundation.org/blog/exporters-bore-higher-share-2025-tariffs-than-previously-estimated/#:~:text=Her%20unique%20contribution%20to%20the%20economic%20literature,while%20US%20importers%20paid%20the%20other%20half."
+    "link": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o#:~:text=Trump%27s%20%22Liberation%20Day%22%20tariffs%2C%20announced%20in%20April,increased%20consumer%20goods%20prices%20by%20about%202.9%25."
    }
   ]
  }
