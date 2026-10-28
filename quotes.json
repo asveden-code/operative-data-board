@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T10:06Z",
+ "generated_at": "2026-10-28T09:48Z",
  "window_days": {
   "press": 14,
   "think_tanks": 60
@@ -252,20 +252,18 @@
   "earn": [
    {
     "source": "BBC Business",
-    "title": "Budget measures to include fuel duty freeze and food tariff cuts",
+    "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
     "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno",
     "date": "2026-10-27",
-    "quote": "The Times has reported that the government may slow the pace of pay increases for people aged between 18 to 20 years-old who receive the National Minimum Wage. It reports that pay for that age group is likely to rise by 3.9% from £10.85 an hour to around £11.27, when the chancellor makes the announcement during the Budget. It is far below the 26% increase in the National Minimum Wage the Labour government has announced since returning to power in 2024. Labour had promised in its manifesto it would remove \"discriminatory age bands so all adults are entitled to the same minimum wage\". But even after the reported rise, the rate remains below the National Living Wage which applies to over 21-year-olds and is currently £12.71 an hour. This rate is set to rise by 3.9% to £13.20, the Times said.",
-    "pieces": [
-     "The Times has reported that the government may slow the pace of pay increases for people aged between 18 to 20 years-old who receive the National Minimum Wage.",
-     "It reports that pay for that age group is likely to rise by 3.9% from £10.85 an hour to around £11.27, when the chancellor makes the announcement during the Budget.",
-     "It is far below the 26% increase in the National Minimum Wage the Labour government has announced since returning to power in 2024.",
-     "Labour had promised in its manifesto it would remove \"discriminatory age bands so all adults are entitled to the same minimum wage\".",
-     "But even after the reported rise, the rate remains below the National Living Wage which applies to over 21-year-olds and is currently £12.71 an hour. This rate is set to rise by 3.9% to £13.20, the Times said."
-    ],
+    "quote": "The Times reported that the National Minimum Wage for 18-to-20 year-olds is likely to rise by 3.9% from £10.85 an hour to around £11.27. That is a smaller rise than the 26% increase the Labour government has put in place for younger workers since returning to power in 2024. Even after the reported rise, the rate remains below the National Living Wage for older workers, which is currently £12.71 an hour. It is set to rise by 3.9% to £13.20, the Times said.",
     "tag": "Policy turn",
+    "pieces": [
+     "The Times reported that the National Minimum Wage for 18-to-20 year-olds is likely to rise by 3.9% from £10.85 an hour to around £11.27.",
+     "That is a smaller rise than the 26% increase the Labour government has put in place for younger workers since returning to power in 2024.",
+     "Even after the reported rise, the rate remains below the National Living Wage for older workers, which is currently £12.71 an hour. It is set to rise by 3.9% to £13.20, the Times said."
+    ],
     "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno#:~:text=The%20Times%20has%20reported%20that%20the%20government,by%203.9%25%20to%20%C2%A313.20%2C%20the%20Times%20said."
+    "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno#:~:text=The%20Times%20reported%20that%20the%20National%20Minimum,by%203.9%25%20to%20%C2%A313.20%2C%20the%20Times%20said."
    },
    {
     "source": "Resolution Foundation",
@@ -349,6 +347,19 @@
   ],
   "boe": [
    {
+    "source": "Oxford Economics",
+    "title": "How will central banks react to higher bond yields?",
+    "url": "https://www.oxfordeconomics.com/resource/how-will-central-banks-react-to-higher-bond-yields/",
+    "date": "2026-10-28",
+    "quote": "The recent surge in government bond yields – which is spilling over into higher financing costs for households and businesses – is unlikely to deter central banks from raising policy rates further. We expect major central banks will continue to tighten in coming months.",
+    "tag": "More hikes expected",
+    "pieces": [
+     "The recent surge in government bond yields – which is spilling over into higher financing costs for households and businesses – is unlikely to deter central banks from raising policy rates further. We expect major central banks will continue to tighten in coming months."
+    ],
+    "verified": "page text",
+    "link": "https://www.oxfordeconomics.com/resource/how-will-central-banks-react-to-higher-bond-yields/#:~:text=The%20recent%20surge%20in%20government%20bond%20yields,will%20continue%20to%20tighten%20in%20coming%20months."
+   },
+   {
     "source": "BBC Business",
     "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
     "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o",
@@ -412,19 +423,6 @@
     "tag": "Divergent forecasts",
     "verified": "page text",
     "link": "https://niesr.ac.uk/blog/return-energy-shock#:~:text=This%20is%20the%20first%20round%20in%20which,at%203.75%20per%20cent%20by%20June%202027."
-   },
-   {
-    "source": "BBC Business",
-    "title": "What is the Budget and what could be in it?",
-    "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno",
-    "date": "2026-10-26",
-    "quote": "The Bank of England held interest rates at 3.75% for the sixth time in a row in September, but said they were likely to rise if high energy prices persist.",
-    "tag": null,
-    "pieces": [
-     "The Bank of England held interest rates at 3.75% for the sixth time in a row in September, but said they were likely to rise if high energy prices persist."
-    ],
-    "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno#:~:text=The%20Bank%20of%20England%20held%20interest%20rates%20at%203.75%25%20for%20the%20sixth%20time%20in%20a%20row%20in%20September%2C%20but%20said%20they%20were%20likely%20to%20rise%20if%20high%20energy%20prices%20persist."
    },
    {
     "source": "NIESR",
@@ -512,7 +510,7 @@
    },
    {
     "source": "BBC Business",
-    "title": "Budget measures to include fuel duty freeze and food tariff cuts",
+    "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
     "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno",
     "date": "2026-10-27",
     "quote": "The government will also freeze fuel duty again in the Budget, the BBC understands. The 5p duty discount is also set to continue. That discount was first introduced in 2022, and was due to last 12 months, but has been extended ever since.",
@@ -578,16 +576,17 @@
     "link": "https://niesr.ac.uk/blog/has-fiscal-policy-adjusted-world-higher-interest-rates#:~:text=The%2010%2Dyear%20gilt%20yield%20is%20now%205.3,matures%2C%20it%20is%20refinanced%20at%20today%E2%80%99s%20rates."
    },
    {
-    "source": "CNBC Economy",
-    "title": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
-    "url": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
-    "date": "2026-10-13",
-    "quote": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen. The IMF says risks in the government bond market have worsened and that yields could jump sharply and disorderly.",
-    "headline": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
-    "standfirst": "The IMF says risks in the government bond market have worsened and that yields could jump sharply and disorderly.",
-    "tag": "Tail risk",
-    "verified": "publisher feed",
-    "link": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html#:~:text=IMF%20warns%20bond%20yields%20could%20see%20a%20%27disorderly%27%20spike%20as%20debt%2C%20inflation%20risks%20worsen"
+    "source": "Oxford Economics",
+    "title": "Why bond yields and term premia are likely to remain high",
+    "url": "https://www.oxfordeconomics.com/resource/why-bond-yields-and-term-premia-are-likely-to-remain-high/",
+    "date": "2026-10-28",
+    "quote": "To understand the recent surge in government bond yields and whether high yields are here to stay, it’s useful to look at the main yield components over a longer horizon. A 10-year government bond yield can be decomposed into the expected path of safe short-term rates and a broadly defined term premium that compensates investors for risks in holding the bond. Since 2020, more than half of the increase in advanced-economy government bond yields came from the term premium.",
+    "tag": null,
+    "pieces": [
+     "To understand the recent surge in government bond yields and whether high yields are here to stay, it’s useful to look at the main yield components over a longer horizon. A 10-year government bond yield can be decomposed into the expected path of safe short-term rates and a broadly defined term premium that compensates investors for risks in holding the bond. Since 2020, more than half of the increase in advanced-economy government bond yields came from the term premium."
+    ],
+    "verified": "page text",
+    "link": "https://www.oxfordeconomics.com/resource/why-bond-yields-and-term-premia-are-likely-to-remain-high/#:~:text=To%20understand%20the%20recent%20surge%20in%20government,bond%20yields%20came%20from%20the%20term%20premium."
    },
    {
     "source": "BBC Business",
@@ -631,6 +630,30 @@
    }
   ],
   "brent": [
+   {
+    "source": "CNBC Economy",
+    "title": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
+    "url": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
+    "date": "2026-10-28",
+    "quote": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries. Oil prices climbed Wednesday as investors weighed the prospect of a prolonged conflict in the Middle East.",
+    "tag": "Escalation",
+    "headline": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
+    "standfirst": "Oil prices climbed Wednesday as investors weighed the prospect of a prolonged conflict in the Middle East.",
+    "verified": "publisher feed",
+    "link": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html#:~:text=Oil%20prices%20rise%20as%20Houthi%20attacks%20on%20Saudi%20Arabian%20refinery%20raise%20supply%20worries"
+   },
+   {
+    "source": "CNBC Economy",
+    "title": "Oil prices fall after Iran supreme leader and top security official discuss conditions to end war",
+    "url": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
+    "date": "2026-10-27",
+    "quote": "Oil prices fall after Iran supreme leader and top security official discuss conditions to end war. Renewed diplomatic efforts to end the U.S.-Israeli war with Iran pushed oil prices lower",
+    "tag": "De-escalation",
+    "headline": "Oil prices fall after Iran supreme leader and top security official discuss conditions to end war",
+    "standfirst": "Renewed diplomatic efforts to end the U.S.-Israeli war with Iran pushed oil prices lower",
+    "verified": "publisher feed",
+    "link": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html#:~:text=Oil%20prices%20fall%20after%20Iran%20supreme%20leader%20and%20top%20security%20official%20discuss%20conditions%20to%20end%20war"
+   },
    {
     "source": "Oxford Economics",
     "title": "Geopolitics and shipping disruption are the biggest risks for 2027",
@@ -686,19 +709,6 @@
     "link": "https://niesr.ac.uk/blog/inflation-could-climb-above-5-early-2027#:~:text=The%20Iran%20war%20makes%20the%20future%20path,the%20world%20as%20we%20move%20into%202027."
    },
    {
-    "source": "NIESR",
-    "title": "The Return of the Energy Shock",
-    "url": "https://niesr.ac.uk/blog/return-energy-shock",
-    "date": "2026-10-20",
-    "quote": "We must state two things about this path clearly. The first is that the peak has moved up by almost a full percentage point since July, from 4.5 per cent to 5.4 per cent, while its timing has stayed put in the first quarter of 2027. That revision is almost entirely the energy channel doing what it is designed to do: the price of Brent crude oil is 50 per cent higher than when the July models were trained, UK wholesale gas prices have risen 78 per cent since the Bank’s July Report, and the Ofgem energy price cap has gone from £1,477 in Q2 to £1,663 in Q3 and £1,723 for October–December, with Cornwall Insight now forecasting £1,999, a 16 per cent rise, for January 2027. The second is that part of the January step is arithmetic rather than economics. The CPI fell by 0.5 per cent month-on-month in January 2026; so, roughly half a point of the first quarter peak is that base effect. It is real, in the sense that the headline rate will print it, but it does not imply a fresh burst of price pressure in that month.",
-    "pieces": [
-     "We must state two things about this path clearly. The first is that the peak has moved up by almost a full percentage point since July, from 4.5 per cent to 5.4 per cent, while its timing has stayed put in the first quarter of 2027. That revision is almost entirely the energy channel doing what it is designed to do: the price of Brent crude oil is 50 per cent higher than when the July models were trained, UK wholesale gas prices have risen 78 per cent since the Bank’s July Report, and the Ofgem energy price cap has gone from £1,477 in Q2 to £1,663 in Q3 and £1,723 for October–December, with Cornwall Insight now forecasting £1,999, a 16 per cent rise, for January 2027. The second is that part of the January step is arithmetic rather than economics. The CPI fell by 0.5 per cent month-on-month in January 2026; so, roughly half a point of the first quarter peak is that base effect. It is real, in the sense that the headline rate will print it, but it does not imply a fresh burst of price pressure in that month."
-    ],
-    "tag": "Supply shock",
-    "verified": "page text",
-    "link": "https://niesr.ac.uk/blog/return-energy-shock#:~:text=We%20must%20state%20two%20things%20about%20this,burst%20of%20price%20pressure%20in%20that%20month."
-   },
-   {
     "source": "CNBC Economy",
     "title": "Diesel squeeze set to last well into 2027 as Iran war disrupts supply, IEA says",
     "url": "https://www.cnbc.com/2026/10/14/diesel-deal-oil-price-iea-report.html",
@@ -709,33 +719,24 @@
     "tag": "Prolonged shock",
     "verified": "publisher feed",
     "link": "https://www.cnbc.com/2026/10/14/diesel-deal-oil-price-iea-report.html#:~:text=Diesel%20squeeze%20set%20to%20last%20well%20into%202027%20as%20Iran%20war%20disrupts%20supply%2C%20IEA%20says"
-   },
-   {
-    "source": "CNBC Economy",
-    "title": "Oil prices seesaw amid renewed diplomatic efforts to end Mideast conflict",
-    "url": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
-    "date": "2026-10-27",
-    "quote": "Oil prices seesaw amid renewed diplomatic efforts to end Mideast conflict. Renewed diplomatic efforts to end the U.S.-Israeli war with Iran pushed oil prices lower",
-    "headline": "Oil prices seesaw amid renewed diplomatic efforts to end Mideast conflict",
-    "standfirst": "Renewed diplomatic efforts to end the U.S.-Israeli war with Iran pushed oil prices lower",
-    "tag": null,
-    "verified": "publisher feed",
-    "link": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html#:~:text=Oil%20prices%20seesaw%20amid%20renewed%20diplomatic%20efforts%20to%20end%20Mideast%20conflict"
    }
   ],
   "gas": [
    {
     "source": "BBC Business",
-    "title": "What is the Budget and what could be in it?",
+    "title": "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?",
     "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno",
-    "date": "2026-10-26",
-    "quote": "Household energy bills are set to see their biggest rise in four years in January, with a typical annual bill forecast to jump by £276.",
+    "date": "2026-10-28",
+    "quote": "Household energy bills are set to see their biggest rise in four years in January, with a typical annual bill forecast to jump by £276. Healey has announced that standing charges for household gas bills will be removed for about 23 million homes. These charges are fixed daily fees that are paid by households no matter how much gas they use, and average £108 a year. The government says energy regulator Ofgem will aim to deliver the removal of these charges in 2027 or \"as soon as possible after\". However, this will be offset by higher unit costs for gas. Overall the Treasury estimates that three-fifths of households will see an average saving of £45 a year. Lower gas users will save more but higher users will end up with bigger bills than they have now.",
     "tag": "Four-year high",
     "pieces": [
-     "Household energy bills are set to see their biggest rise in four years in January, with a typical annual bill forecast to jump by £276."
+     "Household energy bills are set to see their biggest rise in four years in January, with a typical annual bill forecast to jump by £276.",
+     "Healey has announced that standing charges for household gas bills will be removed for about 23 million homes. These charges are fixed daily fees that are paid by households no matter how much gas they use, and average £108 a year.",
+     "The government says energy regulator Ofgem will aim to deliver the removal of these charges in 2027 or \"as soon as possible after\".",
+     "However, this will be offset by higher unit costs for gas. Overall the Treasury estimates that three-fifths of households will see an average saving of £45 a year. Lower gas users will save more but higher users will end up with bigger bills than they have now."
     ],
     "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno#:~:text=Household%20energy%20bills%20are%20set%20to%20see%20their%20biggest%20rise%20in%20four%20years%20in%20January%2C%20with%20a%20typical%20annual%20bill%20forecast%20to%20jump%20by%20%C2%A3276."
+    "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno#:~:text=Household%20energy%20bills%20are%20set%20to%20see,with%20bigger%20bills%20than%20they%20have%20now."
    },
    {
     "source": "CNBC Economy",
@@ -821,6 +822,44 @@
   "gulf": [
    {
     "source": "CNBC Economy",
+    "title": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
+    "url": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
+    "date": "2026-10-28",
+    "quote": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries. Oil prices climbed Wednesday as investors weighed the prospect of a prolonged conflict in the Middle East.",
+    "tag": "Escalation",
+    "headline": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
+    "standfirst": "Oil prices climbed Wednesday as investors weighed the prospect of a prolonged conflict in the Middle East.",
+    "verified": "publisher feed",
+    "link": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html#:~:text=Oil%20prices%20rise%20as%20Houthi%20attacks%20on%20Saudi%20Arabian%20refinery%20raise%20supply%20worries"
+   },
+   {
+    "source": "Oxford Economics",
+    "title": "GCC recovery tracker shows initial rebound has stalled",
+    "url": "https://www.oxfordeconomics.com/resource/gcc-recovery-tracker-shows-initial-rebound-has-stalled/",
+    "date": "2026-10-27",
+    "quote": "The GCC recovery tracker indicates a notable stall in economic rebound, with a forecasted GDP contraction of 5.7% for this year, followed by a gradual recovery to 5.5% growth in 2027. This trend reflects a decline in the diffusion index, which fell by 5.4 points to 51.0 in September, signalling a fragile recovery environment. Flight disruptions and declining equity prices have contributed to this slowdown, particularly in Saudi Arabia, where ongoing attacks on civilian infrastructure have undermined confidence. Conversely, shipping activities have shown some resilience, with Saudi Arabia restarting exports, although oil production remains at only 77% of pre-conflict levels.",
+    "tag": "Recovery stalled",
+    "pieces": [
+     "The GCC recovery tracker indicates a notable stall in economic rebound, with a forecasted GDP contraction of 5.7% for this year, followed by a gradual recovery to 5.5% growth in 2027. This trend reflects a decline in the diffusion index, which fell by 5.4 points to 51.0 in September, signalling a fragile recovery environment.",
+     "Flight disruptions and declining equity prices have contributed to this slowdown, particularly in Saudi Arabia, where ongoing attacks on civilian infrastructure have undermined confidence. Conversely, shipping activities have shown some resilience, with Saudi Arabia restarting exports, although oil production remains at only 77% of pre-conflict levels."
+    ],
+    "verified": "page text",
+    "link": "https://www.oxfordeconomics.com/resource/gcc-recovery-tracker-shows-initial-rebound-has-stalled/#:~:text=The%20GCC%20recovery%20tracker%20indicates%20a%20notable,remains%20at%20only%2077%25%20of%20pre%2Dconflict%20levels."
+   },
+   {
+    "source": "CNBC Economy",
+    "title": "Oil prices fall after Iran supreme leader and top security official discuss conditions to end war",
+    "url": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
+    "date": "2026-10-27",
+    "quote": "Oil prices fall after Iran supreme leader and top security official discuss conditions to end war. Renewed diplomatic efforts to end the U.S.-Israeli war with Iran pushed oil prices lower",
+    "tag": "De-escalation",
+    "headline": "Oil prices fall after Iran supreme leader and top security official discuss conditions to end war",
+    "standfirst": "Renewed diplomatic efforts to end the U.S.-Israeli war with Iran pushed oil prices lower",
+    "verified": "publisher feed",
+    "link": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html#:~:text=Oil%20prices%20fall%20after%20Iran%20supreme%20leader%20and%20top%20security%20official%20discuss%20conditions%20to%20end%20war"
+   },
+   {
+    "source": "CNBC Economy",
     "title": "Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran to de-escalate",
     "url": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
     "date": "2026-10-26",
@@ -845,18 +884,6 @@
    },
    {
     "source": "CNBC Economy",
-    "title": "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East",
-    "url": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
-    "date": "2026-10-23",
-    "quote": "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East. U.S. President Donald Trump accused Iran on Thursday of trying to manipulate the oil market.",
-    "headline": "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East",
-    "standfirst": "U.S. President Donald Trump accused Iran on Thursday of trying to manipulate the oil market.",
-    "tag": "Six-month high",
-    "verified": "publisher feed",
-    "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html#:~:text=Brent%20crude%20oil%20tops%20%24116%2C%20a%20six%2Dmonth%20high%2C%20as%20tensions%20swell%20in%20the%20Middle%20East"
-   },
-   {
-    "source": "CNBC Economy",
     "title": "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms",
     "url": "https://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html",
     "date": "2026-10-22",
@@ -866,31 +893,6 @@
     "tag": "Escalation",
     "verified": "publisher feed",
     "link": "https://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html#:~:text=U.S.%20pulls%20diplomats%20from%20Saudi%20Arabia%20as%20it%20reportedly%20readies%20Iran%20strikes%20after%20midterms"
-   },
-   {
-    "source": "NIESR",
-    "title": "Inflation Could Climb Above 5% in Early 2027",
-    "url": "https://niesr.ac.uk/blog/inflation-could-climb-above-5-early-2027",
-    "date": "2026-10-21",
-    "quote": "The Iran war makes the future path of inflation highly uncertain. In my initial blog, The Possible Effects on UK Inflation in 2026 of the US-Iran Conflict, published on 23 March, I contrasted the possible effects of two scenarios, a “good scenario” with a short conflict that left most of the energy infrastructure in the Gulf intact and an “ugly” scenario with a prolonged conflict in which most of the infrastructure is destroyed. With the closure of the Strait of Hormuz and now the additional closure of the Bab-el-Mandeb, we seem to be heading into the “ugly” scenario, with a major inflationary spike. In addition, the direct conflict between Saudi Arabia and Ansar Allah (the Houthis) has led to the destruction of significant pipelines and refineries in Saudi Arabia. Unless the conflicts are resolved soon, there is likely to be more inflation coming our way and also negative impacts on output and employment across much of the world as we move into 2027.",
-    "pieces": [
-     "The Iran war makes the future path of inflation highly uncertain. In my initial blog, The Possible Effects on UK Inflation in 2026 of the US-Iran Conflict, published on 23 March, I contrasted the possible effects of two scenarios, a “good scenario” with a short conflict that left most of the energy infrastructure in the Gulf intact and an “ugly” scenario with a prolonged conflict in which most of the infrastructure is destroyed. With the closure of the Strait of Hormuz and now the additional closure of the Bab-el-Mandeb, we seem to be heading into the “ugly” scenario, with a major inflationary spike. In addition, the direct conflict between Saudi Arabia and Ansar Allah (the Houthis) has led to the destruction of significant pipelines and refineries in Saudi Arabia. Unless the conflicts are resolved soon, there is likely to be more inflation coming our way and also negative impacts on output and employment across much of the world as we move into 2027."
-    ],
-    "tag": "Escalation",
-    "verified": "page text",
-    "link": "https://niesr.ac.uk/blog/inflation-could-climb-above-5-early-2027#:~:text=The%20Iran%20war%20makes%20the%20future%20path,the%20world%20as%20we%20move%20into%202027."
-   },
-   {
-    "source": "CNBC Economy",
-    "title": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
-    "url": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html",
-    "date": "2026-10-19",
-    "quote": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom. Iran-backed Houthi militants have launched repeated volleys of missiles and drones at Saudi Arabia since a deadly airport attack earlier this month.",
-    "headline": "Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom",
-    "standfirst": "Iran-backed Houthi militants have launched repeated volleys of missiles and drones at Saudi Arabia since a deadly airport attack earlier this month.",
-    "tag": "Escalation",
-    "verified": "publisher feed",
-    "link": "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html#:~:text=Saudi%20Arabia%20postpones%20big%20investor%20conference%20to%202027%20as%20Iran%2Dbacked%20Houthis%20escalate%20attacks%20on%20kingdom"
    },
    {
     "source": "Oxford Economics",
@@ -909,6 +911,31 @@
    }
   ],
   "ecb": [
+   {
+    "source": "CNBC Economy",
+    "title": "Europe’s debt stress is hitting corporate borrowing costs. Goldman flags who’s vulnerable",
+    "url": "https://www.cnbc.com/2026/10/28/europe-sovereign-debt-corporate-borrowing.html",
+    "date": "2026-10-28",
+    "quote": "Europe’s debt stress is hitting corporate borrowing costs. Goldman flags who’s vulnerable. Sovereign debt pressure and heavy bond issuance are raising European corporate borrowing costs, squeezing companies with weaker balance sheets, Goldman said.",
+    "tag": "Spillover",
+    "headline": "Europe’s debt stress is hitting corporate borrowing costs. Goldman flags who’s vulnerable",
+    "standfirst": "Sovereign debt pressure and heavy bond issuance are raising European corporate borrowing costs, squeezing companies with weaker balance sheets, Goldman said.",
+    "verified": "publisher feed",
+    "link": "https://www.cnbc.com/2026/10/28/europe-sovereign-debt-corporate-borrowing.html#:~:text=Europe%E2%80%99s%20debt%20stress%20is%20hitting%20corporate%20borrowing%20costs.%20Goldman%20flags%20who%E2%80%99s%20vulnerable"
+   },
+   {
+    "source": "Oxford Economics",
+    "title": "How will central banks react to higher bond yields?",
+    "url": "https://www.oxfordeconomics.com/resource/how-will-central-banks-react-to-higher-bond-yields/",
+    "date": "2026-10-28",
+    "quote": "The recent surge in government bond yields – which is spilling over into higher financing costs for households and businesses – is unlikely to deter central banks from raising policy rates further. We expect major central banks will continue to tighten in coming months.",
+    "tag": "More hikes expected",
+    "pieces": [
+     "The recent surge in government bond yields – which is spilling over into higher financing costs for households and businesses – is unlikely to deter central banks from raising policy rates further. We expect major central banks will continue to tighten in coming months."
+    ],
+    "verified": "page text",
+    "link": "https://www.oxfordeconomics.com/resource/how-will-central-banks-react-to-higher-bond-yields/#:~:text=The%20recent%20surge%20in%20government%20bond%20yields,will%20continue%20to%20tighten%20in%20coming%20months."
+   },
    {
     "source": "CNBC Economy",
     "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
@@ -948,18 +975,6 @@
     "link": "https://www.bruegel.org/analysis/ahead-presidential-election-france-first-needs-help-itself-debt#:~:text=Of%20all%20the%20sovereigns%20facing%20rising%20rates%2C,public%20debt%20and%20the%20French%20social%20model."
    },
    {
-    "source": "CNBC Economy",
-    "title": "France is ‘putting the house in order’ and can slash deficit to 3% in three years, central bank governor tells CNBC",
-    "url": "https://www.cnbc.com/2026/10/15/france-budget-deficit-moulin-protests.html",
-    "date": "2026-10-15",
-    "quote": "France is ‘putting the house in order’ and can slash deficit to 3% in three years, central bank governor tells CNBC. France is able to slash its huge budget deficit troubling investors across the globe, according to the head of the country's central bank.",
-    "tag": null,
-    "headline": "France is ‘putting the house in order’ and can slash deficit to 3% in three years, central bank governor tells CNBC",
-    "standfirst": "France is able to slash its huge budget deficit troubling investors across the globe, according to the head of the country's central bank.",
-    "verified": "publisher feed",
-    "link": "https://www.cnbc.com/2026/10/15/france-budget-deficit-moulin-protests.html#:~:text=France%20is%20%E2%80%98putting%20the%20house%20in%20order%E2%80%99%20and%20can%20slash%20deficit%20to%203%25%20in%20three%20years%2C%20central%20bank%20governor%20tells%20CNBC"
-   },
-   {
     "source": "Bruegel",
     "title": "Ahead of a presidential election, France first needs to help itself on debt",
     "url": "https://www.bruegel.org/analysis/ahead-presidential-election-france-first-needs-help-itself-debt",
@@ -988,6 +1003,31 @@
   ],
   "fed": [
    {
+    "source": "Oxford Economics",
+    "title": "How will central banks react to higher bond yields?",
+    "url": "https://www.oxfordeconomics.com/resource/how-will-central-banks-react-to-higher-bond-yields/",
+    "date": "2026-10-28",
+    "quote": "The recent surge in government bond yields – which is spilling over into higher financing costs for households and businesses – is unlikely to deter central banks from raising policy rates further. We expect major central banks will continue to tighten in coming months.",
+    "tag": "More hikes expected",
+    "pieces": [
+     "The recent surge in government bond yields – which is spilling over into higher financing costs for households and businesses – is unlikely to deter central banks from raising policy rates further. We expect major central banks will continue to tighten in coming months."
+    ],
+    "verified": "page text",
+    "link": "https://www.oxfordeconomics.com/resource/how-will-central-banks-react-to-higher-bond-yields/#:~:text=The%20recent%20surge%20in%20government%20bond%20yields,will%20continue%20to%20tighten%20in%20coming%20months."
+   },
+   {
+    "source": "CNBC Economy",
+    "title": "Fed rate hikes are coming, but not this week: CNBC survey",
+    "url": "https://www.cnbc.com/2026/10/27/federal-reserve-rate-hike-timing-expectations.html",
+    "date": "2026-10-27",
+    "quote": "Fed rate hikes are coming, but not this week: CNBC survey. The CNBC Fed Survey shows that 93% of respondent expect a pause at the Federal Reserve meeting taking place this week.",
+    "tag": "Hikes expected",
+    "headline": "Fed rate hikes are coming, but not this week: CNBC survey",
+    "standfirst": "The CNBC Fed Survey shows that 93% of respondent expect a pause at the Federal Reserve meeting taking place this week.",
+    "verified": "publisher feed",
+    "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rate-hike-timing-expectations.html#:~:text=Fed%20rate%20hikes%20are%20coming%2C%20but%20not%20this%20week%3A%20CNBC%20survey"
+   },
+   {
     "source": "CNBC Economy",
     "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
     "url": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
@@ -1013,7 +1053,7 @@
    },
    {
     "source": "Oxford Economics",
-    "title": "What would an escalating Iran war mean for bond yields?",
+    "title": "The Model Assistant in action: What would an escalating Iran war mean for bond yields?",
     "url": "https://www.oxfordeconomics.com/resource/the-model-assistant-in-action-what-would-an-escalating-iran-war-mean-for-bond-yields/",
     "date": "2026-10-20",
     "quote": "The war in Iran has already pushed up energy prices and unsettled financial markets. Renewed attacks on shipping and energy infrastructure in the Gulf have lifted oil prices, and global bond markets have sold off sharply. The US 10-year Treasury yield has climbed above 5% for the first time since 2007, and the Federal Reserve raised interest rates in September for the first time since 2023, as we discuss in our latest analysis of the bond sell-off.",
@@ -1023,18 +1063,6 @@
     "tag": "Policy turn",
     "verified": "page text",
     "link": "https://www.oxfordeconomics.com/resource/the-model-assistant-in-action-what-would-an-escalating-iran-war-mean-for-bond-yields/#:~:text=The%20war%20in%20Iran%20has%20already%20pushed,our%20latest%20analysis%20of%20the%20bond%20sell%2Doff."
-   },
-   {
-    "source": "CNBC Economy",
-    "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
-    "url": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
-    "date": "2026-10-16",
-    "quote": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all. Investors expect the Fed to pause rate hikes in October, but Kevin Warsh's rejection of traditional communications practices and continued concern about inflation leave the decision uncertain.",
-    "headline": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
-    "standfirst": "Investors expect the Fed to pause rate hikes in October, but Kevin Warsh's rejection of traditional communications practices and continued concern about inflation leave the decision uncertain.",
-    "tag": "Policy uncertainty",
-    "verified": "publisher feed",
-    "link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html#:~:text=Analysis%3A%20Everyone%20expects%20the%20Fed%20to%20hold%20rates%20in%20October.%20Kevin%20Warsh%20could%20surprise%20us%20all"
    },
    {
     "source": "CNBC Economy",
@@ -1059,25 +1087,12 @@
     "tag": "Above forecast",
     "verified": "publisher feed",
     "link": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html#:~:text=Consumer%20prices%20rose%203.7%25%20annually%20in%20September%20as%20gas%20prices%20skyrocket"
-   },
-   {
-    "source": "BBC Business",
-    "title": "Donald Trump's biggest economic problem looks strangely familiar",
-    "url": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o",
-    "date": "2026-10-27",
-    "quote": "US economic growth of 2.2% would be respectable by the standards of many wealthy economies. Germany, for example, has struggled to generate comparable momentum. And a stable US unemployment rate of 4.2% hardly suggests an economy in freefall.",
-    "pieces": [
-     "US economic growth of 2.2% would be respectable by the standards of many wealthy economies. Germany, for example, has struggled to generate comparable momentum. And a stable US unemployment rate of 4.2% hardly suggests an economy in freefall."
-    ],
-    "tag": null,
-    "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o#:~:text=US%20economic%20growth%20of%202.2%25%20would%20be,4.2%25%20hardly%20suggests%20an%20economy%20in%20freefall."
    }
   ],
   "ust": [
    {
     "source": "Oxford Economics",
-    "title": "What would an escalating Iran war mean for bond yields?",
+    "title": "The Model Assistant in action: What would an escalating Iran war mean for bond yields?",
     "url": "https://www.oxfordeconomics.com/resource/the-model-assistant-in-action-what-would-an-escalating-iran-war-mean-for-bond-yields/",
     "date": "2026-10-20",
     "quote": "The war in Iran has already pushed up energy prices and unsettled financial markets. Renewed attacks on shipping and energy infrastructure in the Gulf have lifted oil prices, and global bond markets have sold off sharply. The US 10-year Treasury yield has climbed above 5% for the first time since 2007, and the Federal Reserve raised interest rates in September for the first time since 2023, as we discuss in our latest analysis of the bond sell-off.",
@@ -1101,18 +1116,6 @@
     "link": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html#:~:text=U.S.%20budget%20deficit%20swells%20to%20almost%20%242%20trillion%20for%20fiscal%202026%2C%20up%2012%25%20in%20a%20single%20year"
    },
    {
-    "source": "CNBC Economy",
-    "title": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
-    "url": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
-    "date": "2026-10-13",
-    "quote": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen. The IMF says risks in the government bond market have worsened and that yields could jump sharply and disorderly.",
-    "headline": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
-    "standfirst": "The IMF says risks in the government bond market have worsened and that yields could jump sharply and disorderly.",
-    "tag": "Tail risk",
-    "verified": "publisher feed",
-    "link": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html#:~:text=IMF%20warns%20bond%20yields%20could%20see%20a%20%27disorderly%27%20spike%20as%20debt%2C%20inflation%20risks%20worsen"
-   },
-   {
     "source": "Bruegel",
     "title": "What is driving the global rise in long-term interest rates?",
     "url": "https://www.bruegel.org/analysis/what-driving-global-rise-long-term-interest-rates",
@@ -1127,7 +1130,20 @@
    },
    {
     "source": "Oxford Economics",
-    "title": "What would an escalating Iran war mean for bond yields?",
+    "title": "Why bond yields and term premia are likely to remain high",
+    "url": "https://www.oxfordeconomics.com/resource/why-bond-yields-and-term-premia-are-likely-to-remain-high/",
+    "date": "2026-10-28",
+    "quote": "To understand the recent surge in government bond yields and whether high yields are here to stay, it’s useful to look at the main yield components over a longer horizon. A 10-year government bond yield can be decomposed into the expected path of safe short-term rates and a broadly defined term premium that compensates investors for risks in holding the bond. Since 2020, more than half of the increase in advanced-economy government bond yields came from the term premium.",
+    "tag": null,
+    "pieces": [
+     "To understand the recent surge in government bond yields and whether high yields are here to stay, it’s useful to look at the main yield components over a longer horizon. A 10-year government bond yield can be decomposed into the expected path of safe short-term rates and a broadly defined term premium that compensates investors for risks in holding the bond. Since 2020, more than half of the increase in advanced-economy government bond yields came from the term premium."
+    ],
+    "verified": "page text",
+    "link": "https://www.oxfordeconomics.com/resource/why-bond-yields-and-term-premia-are-likely-to-remain-high/#:~:text=To%20understand%20the%20recent%20surge%20in%20government,bond%20yields%20came%20from%20the%20term%20premium."
+   },
+   {
+    "source": "Oxford Economics",
+    "title": "The Model Assistant in action: What would an escalating Iran war mean for bond yields?",
     "url": "https://www.oxfordeconomics.com/resource/the-model-assistant-in-action-what-would-an-escalating-iran-war-mean-for-bond-yields/",
     "date": "2026-10-20",
     "quote": "Once the scenario had solved, we asked for the impact on US yields, and the assistant returned a chart and a short summary. In our scenario, US 10-year government bond yields are 0.78 percentage points above baseline at their widest gap, in 2028Q2. Higher energy prices and supply-chain stress create inflation pressure and prompt a tighter monetary policy stance, keeping risk premia elevated, lifting yields and tightening financial conditions.",
@@ -1235,16 +1251,16 @@
   "food": [
    {
     "source": "BBC Business",
-    "title": "Budget measures to include fuel duty freeze and food tariff cuts",
-    "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno",
-    "date": "2026-10-27",
-    "quote": "Removing tariffs from 100 food items could save households up to £21 per year when combined with existing tariff suspensions that were introduced in June and applied to products including pasta, fruit juice and tuna, according to the government.",
-    "pieces": [
-     "Removing tariffs from 100 food items could save households up to £21 per year when combined with existing tariff suspensions that were introduced in June and applied to products including pasta, fruit juice and tuna, according to the government."
-    ],
+    "title": "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?",
+    "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno",
+    "date": "2026-10-28",
+    "quote": "The government also plans to remove tariffs from 100 food items, which it calculates could save households up to £21 per year - or 40p a week - when combined with existing tariff suspensions that were introduced in June.",
     "tag": "Tariff cut",
+    "pieces": [
+     "The government also plans to remove tariffs from 100 food items, which it calculates could save households up to £21 per year - or 40p a week - when combined with existing tariff suspensions that were introduced in June."
+    ],
     "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno#:~:text=Removing%20tariffs%20from%20100%20food%20items%20could,juice%20and%20tuna%2C%20according%20to%20the%20government."
+    "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno#:~:text=The%20government%20also%20plans%20to%20remove%20tariffs,tariff%20suspensions%20that%20were%20introduced%20in%20June."
    },
    {
     "source": "BBC Business",
@@ -1274,14 +1290,14 @@
    },
    {
     "source": "BBC Business",
-    "title": "Budget measures to include fuel duty freeze and food tariff cuts",
+    "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
     "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno",
     "date": "2026-10-27",
-    "quote": "The government said removing tariffs on fertiliser aimed to help farmers, while changes to import levies on kerosene is targetted at households that rely on heating oil.",
-    "pieces": [
-     "The government said removing tariffs on fertiliser aimed to help farmers, while changes to import levies on kerosene is targetted at households that rely on heating oil."
-    ],
+    "quote": "The government said removing tariffs on fertiliser aimed to help farmers, while changes to import levies on kerosene is targeted at households that rely on heating oil.",
     "tag": null,
+    "pieces": [
+     "The government said removing tariffs on fertiliser aimed to help farmers, while changes to import levies on kerosene is targeted at households that rely on heating oil."
+    ],
     "verified": "page text",
     "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno#:~:text=The%20government%20said%20removing%20tariffs%20on%20fertiliser,at%20households%20that%20rely%20on%20heating%20oil."
    },
@@ -1317,7 +1333,7 @@
   "fiscal": [
    {
     "source": "BBC Business",
-    "title": "Budget measures to include fuel duty freeze and food tariff cuts",
+    "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
     "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno",
     "date": "2026-10-27",
     "quote": "The government will also freeze fuel duty again in the Budget, the BBC understands. The 5p duty discount is also set to continue. That discount was first introduced in 2022, and was due to last 12 months, but has been extended ever since.",
@@ -1416,16 +1432,16 @@
   "tariff": [
    {
     "source": "BBC Business",
-    "title": "Budget measures to include fuel duty freeze and food tariff cuts",
-    "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno",
-    "date": "2026-10-27",
-    "quote": "Removing tariffs from 100 food items could save households up to £21 per year when combined with existing tariff suspensions that were introduced in June and applied to products including pasta, fruit juice and tuna, according to the government.",
-    "pieces": [
-     "Removing tariffs from 100 food items could save households up to £21 per year when combined with existing tariff suspensions that were introduced in June and applied to products including pasta, fruit juice and tuna, according to the government."
-    ],
+    "title": "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?",
+    "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno",
+    "date": "2026-10-28",
+    "quote": "The government also plans to remove tariffs from 100 food items, which it calculates could save households up to £21 per year - or 40p a week - when combined with existing tariff suspensions that were introduced in June.",
     "tag": "Tariff cut",
+    "pieces": [
+     "The government also plans to remove tariffs from 100 food items, which it calculates could save households up to £21 per year - or 40p a week - when combined with existing tariff suspensions that were introduced in June."
+    ],
     "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno#:~:text=Removing%20tariffs%20from%20100%20food%20items%20could,juice%20and%20tuna%2C%20according%20to%20the%20government."
+    "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno#:~:text=The%20government%20also%20plans%20to%20remove%20tariffs,tariff%20suspensions%20that%20were%20introduced%20in%20June."
    },
    {
     "source": "BBC Business",
