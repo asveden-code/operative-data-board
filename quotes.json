@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T09:48Z",
+ "generated_at": "2026-10-29T10:33Z",
  "window_days": {
   "press": 14,
   "think_tanks": 60
@@ -18,6 +18,33 @@
  ],
  "quotes": {
   "gdp": [
+   {
+    "source": "LSE British Politics and Policy",
+    "title": "The 2026 Budget buys stability and points in the right direction on growth",
+    "url": "https://blogs.lse.ac.uk/politicsandpolicy/the-2026-budget-buys-stability-and-points-in-the-right-direction-on-growth/",
+    "date": "2026-10-29",
+    "quote": "The OBR has upgraded GDP growth projection for this year (from 1.1 per cent to 1.2 per cent). This comes with a downgrade for next year and upgrades later in the forecast period. Business investment is forecast to be 0.5 per cent higher in 2030 than in the March forecast, slightly raising capital deepening and trend productivity. While not mentioned in the speech, the Prime Minister’s recent interest in getting closer to the EU could materially improve the growth outlook – the OBR’s assumption is that Brexit will reduce the level of UK productivity by 4 per cent over 15 years.",
+    "pieces": [
+     "The OBR has upgraded GDP growth projection for this year (from 1.1 per cent to 1.2 per cent). This comes with a downgrade for next year and upgrades later in the forecast period. Business investment is forecast to be 0.5 per cent higher in 2030 than in the March forecast, slightly raising capital deepening and trend productivity. While not mentioned in the speech, the Prime Minister’s recent interest in getting closer to the EU could materially improve the growth outlook – the OBR’s assumption is that Brexit will reduce the level of UK productivity by 4 per cent over 15 years."
+    ],
+    "tag": "Forecast revision",
+    "verified": "page text",
+    "link": "https://blogs.lse.ac.uk/politicsandpolicy/the-2026-budget-buys-stability-and-points-in-the-right-direction-on-growth/#:~:text=The%20OBR%20has%20upgraded%20GDP%20growth%20projection,by%204%20per%20cent%20over%2015%20years."
+   },
+   {
+    "source": "BBC Business",
+    "title": "What we now know about the UK economy in four charts",
+    "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o",
+    "date": "2026-10-28",
+    "quote": "In its first assessment of the UK economy since the Middle East conflict started, the OBR said rising energy prices were the biggest risk to the economy in the near future. […] Despite raising its growth forecast for this year, it sharply cut its prediction for next year from 1.6% to 1%.",
+    "pieces": [
+     "In its first assessment of the UK economy since the Middle East conflict started, the OBR said rising energy prices were the biggest risk to the economy in the near future.",
+     "Despite raising its growth forecast for this year, it sharply cut its prediction for next year from 1.6% to 1%."
+    ],
+    "tag": "Forecast cut to 1%",
+    "verified": "page text",
+    "link": "https://www.bbc.co.uk/news/articles/c9x28350ly07o#:~:text=In%20its%20first%20assessment%20of%20the%20UK,for%20next%20year%20from%201.6%25%20to%201%25."
+   },
    {
     "source": "BBC Business",
     "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
@@ -252,18 +279,32 @@
   "earn": [
    {
     "source": "BBC Business",
-    "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
-    "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno",
-    "date": "2026-10-27",
-    "quote": "The Times reported that the National Minimum Wage for 18-to-20 year-olds is likely to rise by 3.9% from £10.85 an hour to around £11.27. That is a smaller rise than the 26% increase the Labour government has put in place for younger workers since returning to power in 2024. Even after the reported rise, the rate remains below the National Living Wage for older workers, which is currently £12.71 an hour. It is set to rise by 3.9% to £13.20, the Times said.",
-    "tag": "Policy turn",
+    "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+    "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo",
+    "date": "2026-10-28",
+    "quote": "The most telling evidence was that official forecasters predict that while earnings will rise, that is not compensating for higher prices and taxes. […] Even after the extra help is taken into account, households' incomes after inflation and tax are set to be typically lower across the next two years than the start of the parliament. On that basis, it could be the second worse parliament for living standards, after the last one, since the 1950s - a sign of how far the war has blown prosperity off course.",
     "pieces": [
-     "The Times reported that the National Minimum Wage for 18-to-20 year-olds is likely to rise by 3.9% from £10.85 an hour to around £11.27.",
-     "That is a smaller rise than the 26% increase the Labour government has put in place for younger workers since returning to power in 2024.",
-     "Even after the reported rise, the rate remains below the National Living Wage for older workers, which is currently £12.71 an hour. It is set to rise by 3.9% to £13.20, the Times said."
+     "The most telling evidence was that official forecasters predict that while earnings will rise, that is not compensating for higher prices and taxes.",
+     "Even after the extra help is taken into account, households' incomes after inflation and tax are set to be typically lower across the next two years than the start of the parliament. On that basis, it could be the second worse parliament for living standards, after the last one, since the 1950s - a sign of how far the war has blown prosperity off course."
     ],
+    "tag": "Real pay squeeze",
     "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno#:~:text=The%20Times%20reported%20that%20the%20National%20Minimum,by%203.9%25%20to%20%C2%A313.20%2C%20the%20Times%20said."
+    "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo#:~:text=The%20most%20telling%20evidence%20was%20that%20official,the%20war%20has%20blown%20prosperity%20off%20course."
+   },
+   {
+    "source": "BBC Business",
+    "title": "What the Budget offers for under 25s - and what it leaves out",
+    "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo",
+    "date": "2026-10-28",
+    "quote": "If you are an 18-to-20 year-old earning the minimum wage, your pay will go up by 3.9% from next April. […] However, the increase may be lower than you had expected. That is because Healey reversed course on how his Labour predecessor, Rachel Reeves, had been increasing the minimum wage for young people. […] Labour had promised to do away with \"discriminatory age bands\", with all adults entitled to the same minimum wage. This year, 18-20 year-olds will see the same increase as older workers, meaning the disparity will remain. So, for 18-to-20 year-olds, your pay will rise to £11.27, while over-20s will be paid a minimum of £13.21 an hour.",
+    "pieces": [
+     "If you are an 18-to-20 year-old earning the minimum wage, your pay will go up by 3.9% from next April.",
+     "However, the increase may be lower than you had expected. That is because Healey reversed course on how his Labour predecessor, Rachel Reeves, had been increasing the minimum wage for young people.",
+     "Labour had promised to do away with \"discriminatory age bands\", with all adults entitled to the same minimum wage. This year, 18-20 year-olds will see the same increase as older workers, meaning the disparity will remain. So, for 18-to-20 year-olds, your pay will rise to £11.27, while over-20s will be paid a minimum of £13.21 an hour."
+    ],
+    "tag": "Policy turn",
+    "verified": "page text",
+    "link": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo#:~:text=If%20you%20are%20an%2018%2Dto%2D20%20year%2Dold%20earning,paid%20a%20minimum%20of%20%C2%A313.21%20an%20hour."
    },
    {
     "source": "Resolution Foundation",
@@ -329,23 +370,23 @@
     "tag": null,
     "verified": "page text",
     "link": "https://niesr.ac.uk/blog/inflation-could-climb-above-5-early-2027#:~:text=Services%20inflation%20this%20month%20is%20pretty%20much,2026%2C%20came%20in%20at%203.7%20per%20cent."
-   },
-   {
-    "source": "BBC Business",
-    "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
-    "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o",
-    "date": "2026-10-21",
-    "quote": "September's inflation figure is also important because it suggests how benefits will increase next April. It means the state pension will most likely rise by 3.9%, in line with average wage rises from May to July, due to the triple lock.",
-    "pieces": [
-     "September's inflation figure is also important because it suggests how benefits will increase next April.",
-     "It means the state pension will most likely rise by 3.9%, in line with average wage rises from May to July, due to the triple lock."
-    ],
-    "tag": null,
-    "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o#:~:text=September%27s%20inflation%20figure%20is%20also%20important%20because,to%20July%2C%20due%20to%20the%20triple%20lock."
    }
   ],
   "boe": [
+   {
+    "source": "BBC Business",
+    "title": "What we now know about the UK economy in four charts",
+    "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o",
+    "date": "2026-10-28",
+    "quote": "The Bank is widely expected to raise interest rates next week due to higher inflation in recent months. Rates are currently at 3.75%, but the OBR now forecasts they could rise to as high as 4.5% in the coming years. […] It had previously forecast two interest rate cuts this year.",
+    "pieces": [
+     "The Bank is widely expected to raise interest rates next week due to higher inflation in recent months. Rates are currently at 3.75%, but the OBR now forecasts they could rise to as high as 4.5% in the coming years.",
+     "It had previously forecast two interest rate cuts this year."
+    ],
+    "tag": "Rates to 4.5%",
+    "verified": "page text",
+    "link": "https://www.bbc.co.uk/news/articles/c9x28350ly07o#:~:text=The%20Bank%20is%20widely%20expected%20to%20raise,forecast%20two%20interest%20rate%20cuts%20this%20year."
+   },
    {
     "source": "Oxford Economics",
     "title": "How will central banks react to higher bond yields?",
@@ -423,22 +464,24 @@
     "tag": "Divergent forecasts",
     "verified": "page text",
     "link": "https://niesr.ac.uk/blog/return-energy-shock#:~:text=This%20is%20the%20first%20round%20in%20which,at%203.75%20per%20cent%20by%20June%202027."
-   },
-   {
-    "source": "NIESR",
-    "title": "The Return of the Energy Shock",
-    "url": "https://niesr.ac.uk/blog/return-energy-shock",
-    "date": "2026-10-20",
-    "quote": "Read the two classes as the two sides of the Monetary Policy Committee’s own argument. At its 17 September meeting the Committee held at 3.75 per cent by six votes to three, with Megan Greene, Catherine Mann and Huw Pill voting for an immediate quarter-point increase on the grounds that slack “may have already peaked” and that raising rates is “a better risk-management strategy when faced with uncertainty about inflation dynamics and second-round effects”. The six who held pointed to “very limited evidence of emerging second-round effects” and to slack “still evident in a range of indicators”, with Alan Taylor arguing that policy “should respond to evidence of propagation rather than mechanically to volatile ticks in headline energy prices”. The Simple class, which has no measure of slack and reacts to headline energy, is the hawkish minority’s direction of travel. The Intermediate class, which can see weak activity and the restrictiveness of financial conditions, is the majority’s. We do not claim the network understands this debate; we claim that the two feature sets encode the two positions, and that is exactly why we report both rather than only the average.",
-    "pieces": [
-     "Read the two classes as the two sides of the Monetary Policy Committee’s own argument. At its 17 September meeting the Committee held at 3.75 per cent by six votes to three, with Megan Greene, Catherine Mann and Huw Pill voting for an immediate quarter-point increase on the grounds that slack “may have already peaked” and that raising rates is “a better risk-management strategy when faced with uncertainty about inflation dynamics and second-round effects”. The six who held pointed to “very limited evidence of emerging second-round effects” and to slack “still evident in a range of indicators”, with Alan Taylor arguing that policy “should respond to evidence of propagation rather than mechanically to volatile ticks in headline energy prices”. The Simple class, which has no measure of slack and reacts to headline energy, is the hawkish minority’s direction of travel. The Intermediate class, which can see weak activity and the restrictiveness of financial conditions, is the majority’s. We do not claim the network understands this debate; we claim that the two feature sets encode the two positions, and that is exactly why we report both rather than only the average."
-    ],
-    "tag": null,
-    "verified": "page text",
-    "link": "https://niesr.ac.uk/blog/return-energy-shock#:~:text=Read%20the%20two%20classes%20as%20the%20two,report%20both%20rather%20than%20only%20the%20average."
    }
   ],
   "cpi": [
+   {
+    "source": "BBC Business",
+    "title": "What we now know about the UK economy in four charts",
+    "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o",
+    "date": "2026-10-28",
+    "quote": "The OBR now thinks inflation will stay higher for longer than previously forecast, peaking at 3.8% in 2027. […] Despite the cost-of-living support announced by the government, economists at Pantheon Macroeconomics said the measures were \"small beer given the surge in inflation we expect over the winter\". […] High inflation paints a bleak picture when it comes to living standards and the OBR has forecast a dip in the growth in living standards next year as energy bills hit the spending power of households.",
+    "pieces": [
+     "The OBR now thinks inflation will stay higher for longer than previously forecast, peaking at 3.8% in 2027.",
+     "Despite the cost-of-living support announced by the government, economists at Pantheon Macroeconomics said the measures were \"small beer given the surge in inflation we expect over the winter\".",
+     "High inflation paints a bleak picture when it comes to living standards and the OBR has forecast a dip in the growth in living standards next year as energy bills hit the spending power of households."
+    ],
+    "tag": "Forecast peak 3.8%",
+    "verified": "page text",
+    "link": "https://www.bbc.co.uk/news/articles/c9x28350ly07o#:~:text=The%20OBR%20now%20thinks%20inflation%20will%20stay,bills%20hit%20the%20spending%20power%20of%20households."
+   },
    {
     "source": "NIESR",
     "title": "Inflation Could Climb Above 5% in Early 2027",
@@ -509,19 +552,6 @@
     "link": "https://niesr.ac.uk/blog/return-energy-shock#:~:text=We%20must%20state%20two%20things%20about%20this,burst%20of%20price%20pressure%20in%20that%20month."
    },
    {
-    "source": "BBC Business",
-    "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
-    "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno",
-    "date": "2026-10-27",
-    "quote": "The government will also freeze fuel duty again in the Budget, the BBC understands. The 5p duty discount is also set to continue. That discount was first introduced in 2022, and was due to last 12 months, but has been extended ever since.",
-    "pieces": [
-     "The government will also freeze fuel duty again in the Budget, the BBC understands. The 5p duty discount is also set to continue. That discount was first introduced in 2022, and was due to last 12 months, but has been extended ever since."
-    ],
-    "tag": null,
-    "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno#:~:text=The%20government%20will%20also%20freeze%20fuel%20duty,months%2C%20but%20has%20been%20extended%20ever%20since."
-   },
-   {
     "source": "NIESR",
     "title": "The Minimal Credibility Test For The Autumn 2026 Budget",
     "url": "https://niesr.ac.uk/blog/minimal-credibility-test-autumn-2026-budget",
@@ -536,6 +566,47 @@
    }
   ],
   "gilt": [
+   {
+    "source": "LSE British Politics and Policy",
+    "title": "Budget 2026 – continuity with Reeves",
+    "url": "https://blogs.lse.ac.uk/politicsandpolicy/budget-2026-continuity-with-reeves/",
+    "date": "2026-10-29",
+    "quote": "The global backdrop to John Healey’s first Budget was Made in America, crafted by President Trump. Earlier this year, inflation was projected to be heading back to the 2 per cent target, but the Iran War torpedoed that with a huge spike in energy prices. Market jitters over the high and growing US deficit has pushed up bond yields everywhere, and this has added significantly to the cost of servicing UK debt – to the tune of £14bn.",
+    "pieces": [
+     "The global backdrop to John Healey’s first Budget was Made in America, crafted by President Trump. Earlier this year, inflation was projected to be heading back to the 2 per cent target, but the Iran War torpedoed that with a huge spike in energy prices. Market jitters over the high and growing US deficit has pushed up bond yields everywhere, and this has added significantly to the cost of servicing UK debt – to the tune of £14bn."
+    ],
+    "tag": "US spillover",
+    "verified": "page text",
+    "link": "https://blogs.lse.ac.uk/politicsandpolicy/budget-2026-continuity-with-reeves/#:~:text=The%20global%20backdrop%20to%20John%20Healey%E2%80%99s%20first,debt%20%E2%80%93%20to%20the%20tune%20of%20%C2%A314bn."
+   },
+   {
+    "source": "NIESR",
+    "title": "Breathing Space, Not a Strategy",
+    "url": "https://niesr.ac.uk/blog/breathing-space-not-strategy",
+    "date": "2026-10-28",
+    "quote": "Today’s Budget has seen the Chancellor deliver some ‘breathing space’ to households struggling with cost-of-living pressures via a mild fiscal loosening, most obviously through changes to energy bills and council taxes. Against an already difficult domestic and international macroeconomic backdrop, which has created a strain on the public finances, the net effect of today’s measures has been a reduction in the Chancellor’s buffer against his fiscal rules from £23.6 billion in March to £14.5 billion now. Market reaction to the Budget was subsequently muted. Ten-year gilt yields fell by only a few basis points on Wednesday afternoon, while sterling hardly budged. […] Therefore, while today’s Budget appears to have not resulted in a backlash from the markets, maintaining a backloaded path for tax rises and deferring major fiscal decisions on defence and other spending until the 2027 Spending Review to buy time is not a credible fiscal strategy.",
+    "pieces": [
+     "Today’s Budget has seen the Chancellor deliver some ‘breathing space’ to households struggling with cost-of-living pressures via a mild fiscal loosening, most obviously through changes to energy bills and council taxes. Against an already difficult domestic and international macroeconomic backdrop, which has created a strain on the public finances, the net effect of today’s measures has been a reduction in the Chancellor’s buffer against his fiscal rules from £23.6 billion in March to £14.5 billion now. Market reaction to the Budget was subsequently muted. Ten-year gilt yields fell by only a few basis points on Wednesday afternoon, while sterling hardly budged.",
+     "Therefore, while today’s Budget appears to have not resulted in a backlash from the markets, maintaining a backloaded path for tax rises and deferring major fiscal decisions on defence and other spending until the 2027 Spending Review to buy time is not a credible fiscal strategy."
+    ],
+    "tag": "Headroom cut, yields steady",
+    "verified": "page text",
+    "link": "https://niesr.ac.uk/blog/breathing-space-not-strategy#:~:text=Today%E2%80%99s%20Budget%20has%20seen%20the%20Chancellor%20deliver,time%20is%20not%20a%20credible%20fiscal%20strategy."
+   },
+   {
+    "source": "NIESR",
+    "title": "Breathing Space, Not a Strategy",
+    "url": "https://niesr.ac.uk/blog/breathing-space-not-strategy",
+    "date": "2026-10-28",
+    "quote": "The ten-year gilt yield has risen by around 100 basis points since February, to around 5.3 per cent. As explained in this blog, some of that rise can be traced to the war in the Middle East and would presumably unwind if there were a resolution. But over half of it likely reflects other factors, including heavy government borrowing worldwide and the AI investment boom, which have pushed up global long-term real interest rates. These are forces that could exert a persistent effect on gilt yields. […] The DMO’s financing remit for 2026-27 has been modestly revised up today by £7.4 billion, taking planned gilt issuance to £250.6 billion. This means taking on additional debt at what could prove to be a persistently higher cost of borrowing.",
+    "pieces": [
+     "The ten-year gilt yield has risen by around 100 basis points since February, to around 5.3 per cent. As explained in this blog, some of that rise can be traced to the war in the Middle East and would presumably unwind if there were a resolution. But over half of it likely reflects other factors, including heavy government borrowing worldwide and the AI investment boom, which have pushed up global long-term real interest rates. These are forces that could exert a persistent effect on gilt yields.",
+     "The DMO’s financing remit for 2026-27 has been modestly revised up today by £7.4 billion, taking planned gilt issuance to £250.6 billion. This means taking on additional debt at what could prove to be a persistently higher cost of borrowing."
+    ],
+    "tag": "Issuance raised",
+    "verified": "page text",
+    "link": "https://niesr.ac.uk/blog/breathing-space-not-strategy#:~:text=The%20ten%2Dyear%20gilt%20yield%20has%20risen%20by,be%20a%20persistently%20higher%20cost%20of%20borrowing."
+   },
    {
     "source": "NIESR",
     "title": "The Minimal Credibility Test For The Autumn 2026 Budget",
@@ -564,16 +635,18 @@
    },
    {
     "source": "NIESR",
-    "title": "Has Fiscal Policy Adjusted To A World Of Higher Interest Rates?",
-    "url": "https://niesr.ac.uk/blog/has-fiscal-policy-adjusted-world-higher-interest-rates",
-    "date": "2026-10-16",
-    "quote": "The 10-year gilt yield is now 5.3 per cent, its highest level since 2007 (Figure 1). The real yield, which strips out compensation for inflation, is 2.0 per cent, the highest since 2008. For most of the decade after the GFC, the real yield was negative, reaching minus 3 per cent in 2020 and 2021. That was when much of today’s debt stock was issued, and as it matures, it is refinanced at today’s rates.",
+    "title": "Breathing Space, Not a Strategy",
+    "url": "https://niesr.ac.uk/blog/breathing-space-not-strategy",
+    "date": "2026-10-28",
+    "quote": "UK ten-year gilt yields remain the highest in the G7, leaving the public finances exposed to shifts in market sentiment. In our judgement, this strengthens the case for building fiscal buffers. The Chancellor’s decision to reduce headroom by £9 billion therefore leaves the government vulnerable to future shocks. […] This is underscored by the path for debt interest now being higher than was set out in March 2026. By the end of the decade UK debt interest is expected to rise to around £150 billion annually – more than the government currently spends on education. […] A credible fiscal strategy could help to reduce debt interest. Even modest fiscal restraint could deliver a credibility dividend of 10-20 basis points off gilt rates (worth around £1-2 billion a year by the end of the parliament).",
     "pieces": [
-     "The 10-year gilt yield is now 5.3 per cent, its highest level since 2007 (Figure 1). The real yield, which strips out compensation for inflation, is 2.0 per cent, the highest since 2008. For most of the decade after the GFC, the real yield was negative, reaching minus 3 per cent in 2020 and 2021. That was when much of today’s debt stock was issued, and as it matures, it is refinanced at today’s rates."
+     "UK ten-year gilt yields remain the highest in the G7, leaving the public finances exposed to shifts in market sentiment. In our judgement, this strengthens the case for building fiscal buffers. The Chancellor’s decision to reduce headroom by £9 billion therefore leaves the government vulnerable to future shocks.",
+     "This is underscored by the path for debt interest now being higher than was set out in March 2026. By the end of the decade UK debt interest is expected to rise to around £150 billion annually – more than the government currently spends on education.",
+     "A credible fiscal strategy could help to reduce debt interest. Even modest fiscal restraint could deliver a credibility dividend of 10-20 basis points off gilt rates (worth around £1-2 billion a year by the end of the parliament)."
     ],
-    "tag": "Highest since 2007",
+    "tag": null,
     "verified": "page text",
-    "link": "https://niesr.ac.uk/blog/has-fiscal-policy-adjusted-world-higher-interest-rates#:~:text=The%2010%2Dyear%20gilt%20yield%20is%20now%205.3,matures%2C%20it%20is%20refinanced%20at%20today%E2%80%99s%20rates."
+    "link": "https://niesr.ac.uk/blog/breathing-space-not-strategy#:~:text=UK%20ten%2Dyear%20gilt%20yields%20remain%20the%20highest,year%20by%20the%20end%20of%20the%20parliament%29."
    },
    {
     "source": "Oxford Economics",
@@ -587,72 +660,46 @@
     ],
     "verified": "page text",
     "link": "https://www.oxfordeconomics.com/resource/why-bond-yields-and-term-premia-are-likely-to-remain-high/#:~:text=To%20understand%20the%20recent%20surge%20in%20government,bond%20yields%20came%20from%20the%20term%20premium."
-   },
-   {
-    "source": "BBC Business",
-    "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-    "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o",
-    "date": "2026-10-26",
-    "quote": "The bond market's reverse beauty contest, in which investors single out the countries they distrust most, has moved on from Britain. Traders I occasionally hear from who were once focused on UK borrowing costs are now more preoccupied with \"le spread\" - the widening gap between French and German borrowing costs (the former being higher than the latter) - and with America's long-term debt outlook.",
-    "tag": null,
-    "pieces": [
-     "The bond market's reverse beauty contest, in which investors single out the countries they distrust most, has moved on from Britain. Traders I occasionally hear from who were once focused on UK borrowing costs are now more preoccupied with \"le spread\" - the widening gap between French and German borrowing costs (the former being higher than the latter) - and with America's long-term debt outlook."
-    ],
-    "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o#:~:text=The%20bond%20market%27s%20reverse%20beauty%20contest%2C%20in,%2D%20and%20with%20America%27s%20long%2Dterm%20debt%20outlook."
-   },
-   {
-    "source": "NIESR",
-    "title": "Has Fiscal Policy Adjusted To A World Of Higher Interest Rates?",
-    "url": "https://niesr.ac.uk/blog/has-fiscal-policy-adjusted-world-higher-interest-rates",
-    "date": "2026-10-16",
-    "quote": "Since the end of February, around the time of the OBR’s last forecast, the 10-year yield has risen by about a percentage point (Figure 2). At the short end, much of the rise reflects inflation compensation: 55 basis points of the 120-basis point rise at five years. At the long end, it’s almost all real: 60 of the 68 basis points at thirty years. This is just telling us that markets expect the energy shock to pass, but they are pricing in a more persistent increase in real rates. The cleanest way to see this is via the 5-year rate 5-years ahead. This is the real rate financial markets are pricing for 2031-36. It’s useful because it looks through the near-term repricing of Bank Rate and inflation. Since February, it has risen by 75 basis points in the UK and almost 100 basis points in the US, taking both back to, or above, where they were before the financial crisis.",
-    "pieces": [
-     "Since the end of February, around the time of the OBR’s last forecast, the 10-year yield has risen by about a percentage point (Figure 2). At the short end, much of the rise reflects inflation compensation: 55 basis points of the 120-basis point rise at five years. At the long end, it’s almost all real: 60 of the 68 basis points at thirty years. This is just telling us that markets expect the energy shock to pass, but they are pricing in a more persistent increase in real rates.",
-     "The cleanest way to see this is via the 5-year rate 5-years ahead. This is the real rate financial markets are pricing for 2031-36. It’s useful because it looks through the near-term repricing of Bank Rate and inflation. Since February, it has risen by 75 basis points in the UK and almost 100 basis points in the US, taking both back to, or above, where they were before the financial crisis."
-    ],
-    "tag": null,
-    "verified": "page text",
-    "link": "https://niesr.ac.uk/blog/has-fiscal-policy-adjusted-world-higher-interest-rates#:~:text=Since%20the%20end%20of%20February%2C%20around%20the,where%20they%20were%20before%20the%20financial%20crisis."
-   },
-   {
-    "source": "Bruegel",
-    "title": "What is driving the global rise in long-term interest rates?",
-    "url": "https://www.bruegel.org/analysis/what-driving-global-rise-long-term-interest-rates",
-    "date": "2026-09-08",
-    "quote": "The first problem with explanations centred on a breakdown in US institutions is that the rise in long-term rates is not uniquely American. US, German, French, Italian, United Kingdom and Japanese 30-year yields rose by 45-79 basis points in the six months to 28 August, with the US in the middle at 58bp. Relative to weekly history since 2006, the US increase has ranked well above average (Figure 1) but has still been less marked than Japan, the UK and France.",
-    "pieces": [
-     "The first problem with explanations centred on a breakdown in US institutions is that the rise in long-term rates is not uniquely American. US, German, French, Italian, United Kingdom and Japanese 30-year yields rose by 45-79 basis points in the six months to 28 August, with the US in the middle at 58bp. Relative to weekly history since 2006, the US increase has ranked well above average (Figure 1) but has still been less marked than Japan, the UK and France."
-    ],
-    "tag": null,
-    "verified": "page text",
-    "link": "https://www.bruegel.org/analysis/what-driving-global-rise-long-term-interest-rates#:~:text=The%20first%20problem%20with%20explanations%20centred%20on,marked%20than%20Japan%2C%20the%20UK%20and%20France."
    }
   ],
   "brent": [
    {
     "source": "CNBC Economy",
-    "title": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
-    "url": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
-    "date": "2026-10-28",
-    "quote": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries. Oil prices climbed Wednesday as investors weighed the prospect of a prolonged conflict in the Middle East.",
-    "tag": "Escalation",
-    "headline": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
-    "standfirst": "Oil prices climbed Wednesday as investors weighed the prospect of a prolonged conflict in the Middle East.",
+    "title": "Oil prices fall as renewed U.S.-Iran peace efforts ease supply fears",
+    "url": "https://www.cnbc.com/2026/10/29/oil-price-today-wti-brent.html",
+    "date": "2026-10-29",
+    "quote": "Oil prices fall as renewed U.S.-Iran peace efforts ease supply fears. Oil prices declined Thursday as prospects of renewed peace negotiations eased fears of supply disruptions stemming from escalating tensions in the Middle East.",
+    "headline": "Oil prices fall as renewed U.S.-Iran peace efforts ease supply fears",
+    "standfirst": "Oil prices declined Thursday as prospects of renewed peace negotiations eased fears of supply disruptions stemming from escalating tensions in the Middle East.",
+    "tag": "De-escalation",
     "verified": "publisher feed",
-    "link": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html#:~:text=Oil%20prices%20rise%20as%20Houthi%20attacks%20on%20Saudi%20Arabian%20refinery%20raise%20supply%20worries"
+    "link": "https://www.cnbc.com/2026/10/29/oil-price-today-wti-brent.html#:~:text=Oil%20prices%20fall%20as%20renewed%20U.S.%2DIran%20peace%20efforts%20ease%20supply%20fears"
    },
    {
     "source": "CNBC Economy",
-    "title": "Oil prices fall after Iran supreme leader and top security official discuss conditions to end war",
-    "url": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
-    "date": "2026-10-27",
-    "quote": "Oil prices fall after Iran supreme leader and top security official discuss conditions to end war. Renewed diplomatic efforts to end the U.S.-Israeli war with Iran pushed oil prices lower",
-    "tag": "De-escalation",
-    "headline": "Oil prices fall after Iran supreme leader and top security official discuss conditions to end war",
-    "standfirst": "Renewed diplomatic efforts to end the U.S.-Israeli war with Iran pushed oil prices lower",
+    "title": "Oil prices rise as U.S. reportedly tells Gulf countries to prepare for Iran strikes after midterm elections",
+    "url": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
+    "date": "2026-10-28",
+    "quote": "Oil prices rise as U.S. reportedly tells Gulf countries to prepare for Iran strikes after midterm elections. Oil prices climbed Wednesday as investors weighed the prospect of a prolonged conflict in the Middle East.",
+    "headline": "Oil prices rise as U.S. reportedly tells Gulf countries to prepare for Iran strikes after midterm elections",
+    "standfirst": "Oil prices climbed Wednesday as investors weighed the prospect of a prolonged conflict in the Middle East.",
+    "tag": "Escalation",
     "verified": "publisher feed",
-    "link": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html#:~:text=Oil%20prices%20fall%20after%20Iran%20supreme%20leader%20and%20top%20security%20official%20discuss%20conditions%20to%20end%20war"
+    "link": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html#:~:text=Oil%20prices%20rise%20as%20U.S.%20reportedly%20tells%20Gulf%20countries%20to%20prepare%20for%20Iran%20strikes%20after%20midterm%20elections"
+   },
+   {
+    "source": "BBC Business",
+    "title": "Your pay, energy bills and savings: How the Budget affects you",
+    "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo",
+    "date": "2026-10-28",
+    "quote": "Motor fuel prices have risen sharply owing to the continued impact of the Iran war on drivers, with diesel having recently hit new records when it moved above £2 per litre. […] The cost of filling a typical family car with diesel has gone up by around £30 since late February. A tankful of petrol costs about £23 more.",
+    "pieces": [
+     "Motor fuel prices have risen sharply owing to the continued impact of the Iran war on drivers, with diesel having recently hit new records when it moved above £2 per litre.",
+     "The cost of filling a typical family car with diesel has gone up by around £30 since late February. A tankful of petrol costs about £23 more."
+    ],
+    "tag": "Record diesel",
+    "verified": "page text",
+    "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo#:~:text=Motor%20fuel%20prices%20have%20risen%20sharply%20owing,tankful%20of%20petrol%20costs%20about%20%C2%A323%20more."
    },
    {
     "source": "Oxford Economics",
@@ -707,36 +754,51 @@
     "tag": "Escalation",
     "verified": "page text",
     "link": "https://niesr.ac.uk/blog/inflation-could-climb-above-5-early-2027#:~:text=The%20Iran%20war%20makes%20the%20future%20path,the%20world%20as%20we%20move%20into%202027."
-   },
-   {
-    "source": "CNBC Economy",
-    "title": "Diesel squeeze set to last well into 2027 as Iran war disrupts supply, IEA says",
-    "url": "https://www.cnbc.com/2026/10/14/diesel-deal-oil-price-iea-report.html",
-    "date": "2026-10-14",
-    "quote": "Diesel squeeze set to last well into 2027 as Iran war disrupts supply, IEA says. Diesel supply is expected to remain tight into 2027 as Iran war-related disruption, falling inventories and resilient demand strain the market, the IEA said.",
-    "headline": "Diesel squeeze set to last well into 2027 as Iran war disrupts supply, IEA says",
-    "standfirst": "Diesel supply is expected to remain tight into 2027 as Iran war-related disruption, falling inventories and resilient demand strain the market, the IEA said.",
-    "tag": "Prolonged shock",
-    "verified": "publisher feed",
-    "link": "https://www.cnbc.com/2026/10/14/diesel-deal-oil-price-iea-report.html#:~:text=Diesel%20squeeze%20set%20to%20last%20well%20into%202027%20as%20Iran%20war%20disrupts%20supply%2C%20IEA%20says"
    }
   ],
   "gas": [
    {
     "source": "BBC Business",
-    "title": "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?",
-    "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno",
+    "title": "Your pay, energy bills and savings: How the Budget affects you",
+    "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo",
     "date": "2026-10-28",
-    "quote": "Household energy bills are set to see their biggest rise in four years in January, with a typical annual bill forecast to jump by £276. Healey has announced that standing charges for household gas bills will be removed for about 23 million homes. These charges are fixed daily fees that are paid by households no matter how much gas they use, and average £108 a year. The government says energy regulator Ofgem will aim to deliver the removal of these charges in 2027 or \"as soon as possible after\". However, this will be offset by higher unit costs for gas. Overall the Treasury estimates that three-fifths of households will see an average saving of £45 a year. Lower gas users will save more but higher users will end up with bigger bills than they have now.",
-    "tag": "Four-year high",
+    "quote": "The fee for connecting to your gas supply so called standing charges will be scrapped in England, Scotland and Wales, next year \"or as soon as possible after\", the chancellor said. […] These fixed daily charges will then be shifted onto the price you pay for each unit of energy. […] The Treasury calculates that 60% of households will save an average of £45 a year, with lower users gaining the most. But the saving will come after the projected big rise in bills in January. […] Higher users - in the biggest houses but also large, low-income families - will pay more than they currently do.",
     "pieces": [
-     "Household energy bills are set to see their biggest rise in four years in January, with a typical annual bill forecast to jump by £276.",
-     "Healey has announced that standing charges for household gas bills will be removed for about 23 million homes. These charges are fixed daily fees that are paid by households no matter how much gas they use, and average £108 a year.",
-     "The government says energy regulator Ofgem will aim to deliver the removal of these charges in 2027 or \"as soon as possible after\".",
-     "However, this will be offset by higher unit costs for gas. Overall the Treasury estimates that three-fifths of households will see an average saving of £45 a year. Lower gas users will save more but higher users will end up with bigger bills than they have now."
+     "The fee for connecting to your gas supply so called standing charges will be scrapped in England, Scotland and Wales, next year \"or as soon as possible after\", the chancellor said.",
+     "These fixed daily charges will then be shifted onto the price you pay for each unit of energy.",
+     "The Treasury calculates that 60% of households will save an average of £45 a year, with lower users gaining the most. But the saving will come after the projected big rise in bills in January.",
+     "Higher users - in the biggest houses but also large, low-income families - will pay more than they currently do."
     ],
+    "tag": "Standing charges scrapped",
     "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno#:~:text=Household%20energy%20bills%20are%20set%20to%20see,with%20bigger%20bills%20than%20they%20have%20now."
+    "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo#:~:text=The%20fee%20for%20connecting%20to%20your%20gas,will%20pay%20more%20than%20they%20currently%20do."
+   },
+   {
+    "source": "Institute for Government",
+    "title": "John Healey’s underwhelming budget punts big decisions into 2027",
+    "url": "https://www.instituteforgovernment.org.uk/comment/john-healeys-underwhelming-budget",
+    "date": "2026-10-28",
+    "quote": "One clear focus for the chancellor across a range of measures was directly supporting households with cost of living pressures over the next year or two. The most significant part of this was help to deal with the higher energy bills households will face this winter. Among other measures the chancellor extended the temporary VAT cut on domestic electricity, announced a £100 council tax rebate to households in bands A-D and announced a plan to abolish the gas standing charge. These policies mean that all households will receive at least some support, and around 80% will receive the £100 rebate this winter. However, this was not enough to change the overall picture on living standards, with the OBR forecasting that real household disposable incomes will be only 2% higher in 2030 than before the pandemic.",
+    "pieces": [
+     "One clear focus for the chancellor across a range of measures was directly supporting households with cost of living pressures over the next year or two. The most significant part of this was help to deal with the higher energy bills households will face this winter. Among other measures the chancellor extended the temporary VAT cut on domestic electricity, announced a £100 council tax rebate to households in bands A-D and announced a plan to abolish the gas standing charge. These policies mean that all households will receive at least some support, and around 80% will receive the £100 rebate this winter. However, this was not enough to change the overall picture on living standards, with the OBR forecasting that real household disposable incomes will be only 2% higher in 2030 than before the pandemic."
+    ],
+    "tag": "Policy decision",
+    "verified": "page text",
+    "link": "https://www.instituteforgovernment.org.uk/comment/john-healeys-underwhelming-budget#:~:text=One%20clear%20focus%20for%20the%20chancellor%20across,higher%20in%202030%20than%20before%20the%20pandemic."
+   },
+   {
+    "source": "BBC Business",
+    "title": "Will I get the £100 energy payment and when will I receive it?",
+    "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o",
+    "date": "2026-10-28",
+    "quote": "A typical yearly energy bill is forecast to jump by £276 in January, according to consultants Cornwall Insight. […] And some more recent forecasts suggest a typical annual bill could rise by £400 or so to £2,100 in January.",
+    "pieces": [
+     "A typical yearly energy bill is forecast to jump by £276 in January, according to consultants Cornwall Insight.",
+     "And some more recent forecasts suggest a typical annual bill could rise by £400 or so to £2,100 in January."
+    ],
+    "tag": "Bills up £400",
+    "verified": "page text",
+    "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o#:~:text=A%20typical%20yearly%20energy%20bill%20is%20forecast,%C2%A3400%20or%20so%20to%20%C2%A32%2C100%20in%20January."
    },
    {
     "source": "CNBC Economy",
@@ -764,20 +826,6 @@
     "link": "https://www.resolutionfoundation.org/comment/jackdaw-is-a-distraction-from-aberdeens-much-bigger-problem/#:~:text=Now%2C%20Aberdeen%20faces%20a%20new%20problem%3A%20after,will%20generate%20fewer%20than%2030%20permanent%20roles."
    },
    {
-    "source": "BBC Business",
-    "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
-    "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o",
-    "date": "2026-10-21",
-    "quote": "With a week to go until he delivers the Budget, Healey said: \"We know that price rises from conflicts in the Middle East and Europe are hitting Britain and countries worldwide.\" He said the International Monetary Fund last week had praised the UK government for its \"fiscal discipline\", and that the government has just given the go-ahead for getting more gas from the North Sea's Jackdaw field.",
-    "pieces": [
-     "With a week to go until he delivers the Budget, Healey said: \"We know that price rises from conflicts in the Middle East and Europe are hitting Britain and countries worldwide.\"",
-     "He said the International Monetary Fund last week had praised the UK government for its \"fiscal discipline\", and that the government has just given the go-ahead for getting more gas from the North Sea's Jackdaw field."
-    ],
-    "tag": "Policy decision",
-    "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o#:~:text=With%20a%20week%20to%20go%20until%20he,gas%20from%20the%20North%20Sea%27s%20Jackdaw%20field."
-   },
-   {
     "source": "NIESR",
     "title": "The Return of the Energy Shock",
     "url": "https://niesr.ac.uk/blog/return-energy-shock",
@@ -791,46 +839,43 @@
     "link": "https://niesr.ac.uk/blog/return-energy-shock#:~:text=We%20must%20state%20two%20things%20about%20this,burst%20of%20price%20pressure%20in%20that%20month."
    },
    {
-    "source": "BBC Business",
-    "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-    "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o",
-    "date": "2026-10-26",
-    "quote": "Inflation has risen, but not just in Britain. The link between gas and electricity prices has weakened, meaning spikes in gas prices have less impact on electricity bills than they used to and helping to keep inflation lower than it otherwise might have been. The fact that up until now the Iran war has been more of an oil shock than a gas shock (where the UK is more exposed) has been another saving grace. Meanwhile, the significant amount of AI and tech investment in the UK is another boost to the economic numbers.",
-    "tag": null,
+    "source": "LSE British Politics and Policy",
+    "title": "The 2026 Budget buys stability and points in the right direction on growth",
+    "url": "https://blogs.lse.ac.uk/politicsandpolicy/the-2026-budget-buys-stability-and-points-in-the-right-direction-on-growth/",
+    "date": "2026-10-29",
+    "quote": "High energy costs are a problem for UK businesses, particularly energy intensive ones. A key challenge is to ensure that short-term support does not dampen incentives to invest in cheaper, more resilient, clean alternatives. Here, the Chancellor began with an emphasis on longer term energy reforms – including breaking the link between gas prices and the costs of electricity, and pledges to limit policy costs in bills. Such reforms will support electrification as well as reduce costs, and are accompanied by other more immediate support.",
     "pieces": [
-     "Inflation has risen, but not just in Britain. The link between gas and electricity prices has weakened, meaning spikes in gas prices have less impact on electricity bills than they used to and helping to keep inflation lower than it otherwise might have been.",
-     "The fact that up until now the Iran war has been more of an oil shock than a gas shock (where the UK is more exposed) has been another saving grace. Meanwhile, the significant amount of AI and tech investment in the UK is another boost to the economic numbers."
-    ],
-    "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o#:~:text=Inflation%20has%20risen%2C%20but%20not%20just%20in,is%20another%20boost%20to%20the%20economic%20numbers."
-   },
-   {
-    "source": "BBC Business",
-    "title": "Lights will stay on this winter, grid operator says after concerns",
-    "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo",
-    "date": "2026-10-22",
-    "quote": "In a separate report, National Gas, a private company that owns and runs the country's gas network, and is separate from NESO, said it expected to have sufficient supply to meet demand this winter, but forecast gas for power generation to increase at peak demand due to the \"intermittent\" nature of renewables. The release of the two reports comes as Britain's energy generation and security falls under increasing scrutiny, given the wars in the Middle East and eastern Europe have pushed prices up and sparked supply fears.",
-    "pieces": [
-     "In a separate report, National Gas, a private company that owns and runs the country's gas network, and is separate from NESO, said it expected to have sufficient supply to meet demand this winter, but forecast gas for power generation to increase at peak demand due to the \"intermittent\" nature of renewables.",
-     "The release of the two reports comes as Britain's energy generation and security falls under increasing scrutiny, given the wars in the Middle East and eastern Europe have pushed prices up and sparked supply fears."
+     "High energy costs are a problem for UK businesses, particularly energy intensive ones. A key challenge is to ensure that short-term support does not dampen incentives to invest in cheaper, more resilient, clean alternatives. Here, the Chancellor began with an emphasis on longer term energy reforms – including breaking the link between gas prices and the costs of electricity, and pledges to limit policy costs in bills. Such reforms will support electrification as well as reduce costs, and are accompanied by other more immediate support."
     ],
     "tag": null,
     "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo#:~:text=In%20a%20separate%20report%2C%20National%20Gas%2C%20a,pushed%20prices%20up%20and%20sparked%20supply%20fears."
+    "link": "https://blogs.lse.ac.uk/politicsandpolicy/the-2026-budget-buys-stability-and-points-in-the-right-direction-on-growth/#:~:text=High%20energy%20costs%20are%20a%20problem%20for,are%20accompanied%20by%20other%20more%20immediate%20support."
    }
   ],
   "gulf": [
    {
     "source": "CNBC Economy",
-    "title": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
+    "title": "Oil prices fall as renewed U.S.-Iran peace efforts ease supply fears",
+    "url": "https://www.cnbc.com/2026/10/29/oil-price-today-wti-brent.html",
+    "date": "2026-10-29",
+    "quote": "Oil prices fall as renewed U.S.-Iran peace efforts ease supply fears. Oil prices declined Thursday as prospects of renewed peace negotiations eased fears of supply disruptions stemming from escalating tensions in the Middle East.",
+    "headline": "Oil prices fall as renewed U.S.-Iran peace efforts ease supply fears",
+    "standfirst": "Oil prices declined Thursday as prospects of renewed peace negotiations eased fears of supply disruptions stemming from escalating tensions in the Middle East.",
+    "tag": "De-escalation",
+    "verified": "publisher feed",
+    "link": "https://www.cnbc.com/2026/10/29/oil-price-today-wti-brent.html#:~:text=Oil%20prices%20fall%20as%20renewed%20U.S.%2DIran%20peace%20efforts%20ease%20supply%20fears"
+   },
+   {
+    "source": "CNBC Economy",
+    "title": "Oil prices rise as U.S. reportedly tells Gulf countries to prepare for Iran strikes after midterm elections",
     "url": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
     "date": "2026-10-28",
-    "quote": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries. Oil prices climbed Wednesday as investors weighed the prospect of a prolonged conflict in the Middle East.",
-    "tag": "Escalation",
-    "headline": "Oil prices rise as Houthi attacks on Saudi Arabian refinery raise supply worries",
+    "quote": "Oil prices rise as U.S. reportedly tells Gulf countries to prepare for Iran strikes after midterm elections. Oil prices climbed Wednesday as investors weighed the prospect of a prolonged conflict in the Middle East.",
+    "headline": "Oil prices rise as U.S. reportedly tells Gulf countries to prepare for Iran strikes after midterm elections",
     "standfirst": "Oil prices climbed Wednesday as investors weighed the prospect of a prolonged conflict in the Middle East.",
+    "tag": "Escalation",
     "verified": "publisher feed",
-    "link": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html#:~:text=Oil%20prices%20rise%20as%20Houthi%20attacks%20on%20Saudi%20Arabian%20refinery%20raise%20supply%20worries"
+    "link": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html#:~:text=Oil%20prices%20rise%20as%20U.S.%20reportedly%20tells%20Gulf%20countries%20to%20prepare%20for%20Iran%20strikes%20after%20midterm%20elections"
    },
    {
     "source": "Oxford Economics",
@@ -845,18 +890,6 @@
     ],
     "verified": "page text",
     "link": "https://www.oxfordeconomics.com/resource/gcc-recovery-tracker-shows-initial-rebound-has-stalled/#:~:text=The%20GCC%20recovery%20tracker%20indicates%20a%20notable,remains%20at%20only%2077%25%20of%20pre%2Dconflict%20levels."
-   },
-   {
-    "source": "CNBC Economy",
-    "title": "Oil prices fall after Iran supreme leader and top security official discuss conditions to end war",
-    "url": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html",
-    "date": "2026-10-27",
-    "quote": "Oil prices fall after Iran supreme leader and top security official discuss conditions to end war. Renewed diplomatic efforts to end the U.S.-Israeli war with Iran pushed oil prices lower",
-    "tag": "De-escalation",
-    "headline": "Oil prices fall after Iran supreme leader and top security official discuss conditions to end war",
-    "standfirst": "Renewed diplomatic efforts to end the U.S.-Israeli war with Iran pushed oil prices lower",
-    "verified": "publisher feed",
-    "link": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html#:~:text=Oil%20prices%20fall%20after%20Iran%20supreme%20leader%20and%20top%20security%20official%20discuss%20conditions%20to%20end%20war"
    },
    {
     "source": "CNBC Economy",
@@ -911,6 +944,18 @@
    }
   ],
   "ecb": [
+   {
+    "source": "CNBC Economy",
+    "title": "European Central Bank President Lagarde to stand down in Februrary",
+    "url": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
+    "date": "2026-10-29",
+    "quote": "European Central Bank President Lagarde to stand down in Februrary.",
+    "headline": "European Central Bank President Lagarde to stand down in Februrary",
+    "standfirst": "",
+    "tag": "Leadership change",
+    "verified": "publisher feed",
+    "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html#:~:text=European%20Central%20Bank%20President%20Lagarde%20to%20stand%20down%20in%20Februrary"
+   },
    {
     "source": "CNBC Economy",
     "title": "Europe’s debt stress is hitting corporate borrowing costs. Goldman flags who’s vulnerable",
@@ -986,22 +1031,33 @@
     "tag": null,
     "verified": "page text",
     "link": "https://www.bruegel.org/analysis/ahead-presidential-election-france-first-needs-help-itself-debt#:~:text=French%20voters%20are%20increasingly%20concerned%20about%20the,of%20GDP%20%28Direction%20g%C3%A9n%C3%A9rale%20du%20Tr%C3%A9sor%2C%202026%29."
-   },
-   {
-    "source": "Bruegel",
-    "title": "Ahead of a presidential election, France first needs to help itself on debt",
-    "url": "https://www.bruegel.org/analysis/ahead-presidential-election-france-first-needs-help-itself-debt",
-    "date": "2026-10-12",
-    "quote": "The French-German spread indicates how much of the bond repricing is specific to France relative to Germany, but the outright yield is the market variable that matters most for debt dynamics. It determines the marginal rate at which France refinances itself and, over time, the effective interest cost on the debt stock. The government now projects the debt-interest bill to rise from €79.2 billion in 2026 to €91.2 billion in 20271. With gross financing needs running into hundreds of billions of euros per year, a persistently higher clearing yield will gradually raise debt-service costs and make an already difficult fiscal adjustment harder.",
-    "pieces": [
-     "The French-German spread indicates how much of the bond repricing is specific to France relative to Germany, but the outright yield is the market variable that matters most for debt dynamics. It determines the marginal rate at which France refinances itself and, over time, the effective interest cost on the debt stock. The government now projects the debt-interest bill to rise from €79.2 billion in 2026 to €91.2 billion in 20271. With gross financing needs running into hundreds of billions of euros per year, a persistently higher clearing yield will gradually raise debt-service costs and make an already difficult fiscal adjustment harder."
-    ],
-    "tag": null,
-    "verified": "page text",
-    "link": "https://www.bruegel.org/analysis/ahead-presidential-election-france-first-needs-help-itself-debt#:~:text=The%20French%2DGerman%20spread%20indicates%20how%20much%20of,make%20an%20already%20difficult%20fiscal%20adjustment%20harder."
    }
   ],
   "fed": [
+   {
+    "source": "CNBC Economy",
+    "title": "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
+    "url": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
+    "date": "2026-10-29",
+    "quote": "Analysis: Warsh is learning to wield the Fed's power without showing his hand. The new chairman made clear he leans toward higher interest rates, but left himself options depending on how the data comes in.",
+    "headline": "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
+    "standfirst": "The new chairman made clear he leans toward higher interest rates, but left himself options depending on how the data comes in.",
+    "tag": "Hawkish lean",
+    "verified": "publisher feed",
+    "link": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html#:~:text=Analysis%3A%20Warsh%20is%20learning%20to%20wield%20the%20Fed%27s%20power%20without%20showing%20his%20hand"
+   },
+   {
+    "source": "CNBC Economy",
+    "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
+    "url": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
+    "date": "2026-10-28",
+    "quote": "Here are five key takeaways from the Fed rate decision and Warsh news conference. Even though the interest-rate vote went as expected, there were a few surprises out of this week's Federal Open Market Committee meeting.",
+    "headline": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
+    "standfirst": "Even though the interest-rate vote went as expected, there were a few surprises out of this week's Federal Open Market Committee meeting.",
+    "tag": "Decision as expected",
+    "verified": "publisher feed",
+    "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html#:~:text=Here%20are%20five%20key%20takeaways%20from%20the%20Fed%20rate%20decision%20and%20Warsh%20news%20conference"
+   },
    {
     "source": "Oxford Economics",
     "title": "How will central banks react to higher bond yields?",
@@ -1014,18 +1070,6 @@
     ],
     "verified": "page text",
     "link": "https://www.oxfordeconomics.com/resource/how-will-central-banks-react-to-higher-bond-yields/#:~:text=The%20recent%20surge%20in%20government%20bond%20yields,will%20continue%20to%20tighten%20in%20coming%20months."
-   },
-   {
-    "source": "CNBC Economy",
-    "title": "Fed rate hikes are coming, but not this week: CNBC survey",
-    "url": "https://www.cnbc.com/2026/10/27/federal-reserve-rate-hike-timing-expectations.html",
-    "date": "2026-10-27",
-    "quote": "Fed rate hikes are coming, but not this week: CNBC survey. The CNBC Fed Survey shows that 93% of respondent expect a pause at the Federal Reserve meeting taking place this week.",
-    "tag": "Hikes expected",
-    "headline": "Fed rate hikes are coming, but not this week: CNBC survey",
-    "standfirst": "The CNBC Fed Survey shows that 93% of respondent expect a pause at the Federal Reserve meeting taking place this week.",
-    "verified": "publisher feed",
-    "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rate-hike-timing-expectations.html#:~:text=Fed%20rate%20hikes%20are%20coming%2C%20but%20not%20this%20week%3A%20CNBC%20survey"
    },
    {
     "source": "CNBC Economy",
@@ -1075,21 +1119,22 @@
     "tag": "Biggest since 2022",
     "verified": "publisher feed",
     "link": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html#:~:text=Wholesale%20prices%20jumped%206.3%25%20annually%20in%20September%2C%20biggest%20gain%20since%202022"
-   },
-   {
-    "source": "CNBC Economy",
-    "title": "Consumer prices rose 3.7% annually in September as gas prices skyrocket",
-    "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html",
-    "date": "2026-10-14",
-    "quote": "Consumer prices rose 3.7% annually in September as gas prices skyrocket. The consumer price index was expected to increase 0.6% in September on a monthly basis and 3.6% from a year ago, according to the Dow Jones consensus forecast.",
-    "headline": "Consumer prices rose 3.7% annually in September as gas prices skyrocket",
-    "standfirst": "The consumer price index was expected to increase 0.6% in September on a monthly basis and 3.6% from a year ago, according to the Dow Jones consensus forecast.",
-    "tag": "Above forecast",
-    "verified": "publisher feed",
-    "link": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html#:~:text=Consumer%20prices%20rose%203.7%25%20annually%20in%20September%20as%20gas%20prices%20skyrocket"
    }
   ],
   "ust": [
+   {
+    "source": "Oxford Economics",
+    "title": "Higher US gas prices boost odds of a Democratic sweep",
+    "url": "https://www.oxfordeconomics.com/resource/us-higher-gas-prices-boost-odds-of-a-democratic-sweep/",
+    "date": "2026-10-28",
+    "quote": "The odds of a Democratic sweep in the midterms on November 3 continue to rise. Our baseline forecast has long called for a divided government after the midterms, but Democrats flipping both chambers of Congress would raise the probability of downside risks from trade and geopolitical policy and increase the chance of a deficit-financed expansion of federal spending.",
+    "pieces": [
+     "The odds of a Democratic sweep in the midterms on November 3 continue to rise. Our baseline forecast has long called for a divided government after the midterms, but Democrats flipping both chambers of Congress would raise the probability of downside risks from trade and geopolitical policy and increase the chance of a deficit-financed expansion of federal spending."
+    ],
+    "tag": "Election risk",
+    "verified": "page text",
+    "link": "https://www.oxfordeconomics.com/resource/us-higher-gas-prices-boost-odds-of-a-democratic-sweep/#:~:text=The%20odds%20of%20a%20Democratic%20sweep%20in,of%20a%20deficit%2Dfinanced%20expansion%20of%20federal%20spending."
+   },
    {
     "source": "Oxford Economics",
     "title": "The Model Assistant in action: What would an escalating Iran war mean for bond yields?",
@@ -1142,23 +1187,10 @@
     "link": "https://www.oxfordeconomics.com/resource/why-bond-yields-and-term-premia-are-likely-to-remain-high/#:~:text=To%20understand%20the%20recent%20surge%20in%20government,bond%20yields%20came%20from%20the%20term%20premium."
    },
    {
-    "source": "Oxford Economics",
-    "title": "The Model Assistant in action: What would an escalating Iran war mean for bond yields?",
-    "url": "https://www.oxfordeconomics.com/resource/the-model-assistant-in-action-what-would-an-escalating-iran-war-mean-for-bond-yields/",
-    "date": "2026-10-20",
-    "quote": "Once the scenario had solved, we asked for the impact on US yields, and the assistant returned a chart and a short summary. In our scenario, US 10-year government bond yields are 0.78 percentage points above baseline at their widest gap, in 2028Q2. Higher energy prices and supply-chain stress create inflation pressure and prompt a tighter monetary policy stance, keeping risk premia elevated, lifting yields and tightening financial conditions.",
-    "pieces": [
-     "Once the scenario had solved, we asked for the impact on US yields, and the assistant returned a chart and a short summary. In our scenario, US 10-year government bond yields are 0.78 percentage points above baseline at their widest gap, in 2028Q2. Higher energy prices and supply-chain stress create inflation pressure and prompt a tighter monetary policy stance, keeping risk premia elevated, lifting yields and tightening financial conditions."
-    ],
-    "tag": null,
-    "verified": "page text",
-    "link": "https://www.oxfordeconomics.com/resource/the-model-assistant-in-action-what-would-an-escalating-iran-war-mean-for-bond-yields/#:~:text=Once%20the%20scenario%20had%20solved%2C%20we%20asked,elevated%2C%20lifting%20yields%20and%20tightening%20financial%20conditions."
-   },
-   {
     "source": "CNBC Economy",
     "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
     "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-    "date": "2026-10-16",
+    "date": "2026-10-26",
     "quote": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge. Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
     "headline": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
     "standfirst": "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
@@ -1181,6 +1213,19 @@
    }
   ],
   "tfp": [
+   {
+    "source": "LSE British Politics and Policy",
+    "title": "Budget 2026 – continuity with Reeves",
+    "url": "https://blogs.lse.ac.uk/politicsandpolicy/budget-2026-continuity-with-reeves/",
+    "date": "2026-10-29",
+    "quote": "UK growth has been resilient this year, and productivity growth – the fundamental determinant of living standards in the long term – is looking up. Our research shows that since Labour was elected, output per worker growth has been 1.6 per cent, per annum, compared to 0.3 per cent in the previous decade. Moreover, the ONS now reckons that productivity per hour was twice as fast since the 2008-9 global financial crisis than previously thought. This is still about half of the pre-crisis average, but the UK now looks much less of an outlier.",
+    "pieces": [
+     "UK growth has been resilient this year, and productivity growth – the fundamental determinant of living standards in the long term – is looking up. Our research shows that since Labour was elected, output per worker growth has been 1.6 per cent, per annum, compared to 0.3 per cent in the previous decade. Moreover, the ONS now reckons that productivity per hour was twice as fast since the 2008-9 global financial crisis than previously thought. This is still about half of the pre-crisis average, but the UK now looks much less of an outlier."
+    ],
+    "tag": "Data revision",
+    "verified": "page text",
+    "link": "https://blogs.lse.ac.uk/politicsandpolicy/budget-2026-continuity-with-reeves/#:~:text=UK%20growth%20has%20been%20resilient%20this%20year%2C,now%20looks%20much%20less%20of%20an%20outlier."
+   },
    {
     "source": "NIESR",
     "title": "Has Fiscal Policy Adjusted To A World Of Higher Interest Rates?",
@@ -1206,6 +1251,19 @@
     "tag": "Data revision",
     "verified": "page text",
     "link": "https://www.resolutionfoundation.org/comment/winter-is-coming-for-your-wallet/#:~:text=Plus%2C%20we%20found%20out%20that%20about%20half,hour%20less%20important%20than%20we%20previously%20thought."
+   },
+   {
+    "source": "LSE British Politics and Policy",
+    "title": "The 2026 Budget buys stability and points in the right direction on growth",
+    "url": "https://blogs.lse.ac.uk/politicsandpolicy/the-2026-budget-buys-stability-and-points-in-the-right-direction-on-growth/",
+    "date": "2026-10-29",
+    "quote": "Growth is what generates the tax receipts to stabilise public finances and raise living standards. The UK economy has shown resilience, with growth ranking top of the G7 in the first half of the year. Recent productivity data restatements imply that our post financial crisis slowdown was less bad than previously thought, but there’s still significant slowdown that must be addressed. The uptick in productivity (per worker) that we have seen since Q3 2024 suggests that this is possible if business investment is encouraged and confidence maintained.",
+    "pieces": [
+     "Growth is what generates the tax receipts to stabilise public finances and raise living standards. The UK economy has shown resilience, with growth ranking top of the G7 in the first half of the year. Recent productivity data restatements imply that our post financial crisis slowdown was less bad than previously thought, but there’s still significant slowdown that must be addressed. The uptick in productivity (per worker) that we have seen since Q3 2024 suggests that this is possible if business investment is encouraged and confidence maintained."
+    ],
+    "tag": null,
+    "verified": "page text",
+    "link": "https://blogs.lse.ac.uk/politicsandpolicy/the-2026-budget-buys-stability-and-points-in-the-right-direction-on-growth/#:~:text=Growth%20is%20what%20generates%20the%20tax%20receipts,business%20investment%20is%20encouraged%20and%20confidence%20maintained."
    },
    {
     "source": "BBC Business",
@@ -1251,16 +1309,17 @@
   "food": [
    {
     "source": "BBC Business",
-    "title": "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?",
-    "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno",
+    "title": "Restaurants sceptical over 'garlic and gherkins' plan",
+    "url": "https://www.bbc.co.uk/news/articles/cm74pvzzke91o",
     "date": "2026-10-28",
-    "quote": "The government also plans to remove tariffs from 100 food items, which it calculates could save households up to £21 per year - or 40p a week - when combined with existing tariff suspensions that were introduced in June.",
-    "tag": "Tariff cut",
+    "quote": "Garlic, gherkins and plant-based milk are among more than 100 products which should become cheaper due to measures announced in the Budget. […] The Treasury said the removal of import tariffs on dozens of items would save the typical household about £21 a year on their food bill.",
     "pieces": [
-     "The government also plans to remove tariffs from 100 food items, which it calculates could save households up to £21 per year - or 40p a week - when combined with existing tariff suspensions that were introduced in June."
+     "Garlic, gherkins and plant-based milk are among more than 100 products which should become cheaper due to measures announced in the Budget.",
+     "The Treasury said the removal of import tariffs on dozens of items would save the typical household about £21 a year on their food bill."
     ],
+    "tag": "Tariff cut",
     "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno#:~:text=The%20government%20also%20plans%20to%20remove%20tariffs,tariff%20suspensions%20that%20were%20introduced%20in%20June."
+    "link": "https://www.bbc.co.uk/news/articles/cm74pvzzke91o#:~:text=Garlic%2C%20gherkins%20and%20plant%2Dbased%20milk%20are%20among,%C2%A321%20a%20year%20on%20their%20food%20bill."
    },
    {
     "source": "BBC Business",
@@ -1277,16 +1336,19 @@
     "link": "https://www.bbc.co.uk/news/articles/c5rmy84np001o#:~:text=Some%20retailers%20have%20seen%20a%20dramatic%20increase,sales%20of%20tinned%20products%20over%20the%20weekend."
    },
    {
-    "source": "The Economist",
-    "title": "A shortage of sulphur could hurt mines and farms everywhere",
-    "url": "https://www.economist.com/finance-and-economics/2026/10/15/a-shortage-of-sulphur-could-hurt-mines-and-farms-everywhere",
-    "date": "2026-10-15",
-    "quote": "A shortage of sulphur could hurt mines and farms everywhere. Another commodity shock from the Iran war",
-    "headline": "A shortage of sulphur could hurt mines and farms everywhere",
-    "standfirst": "Another commodity shock from the Iran war",
-    "tag": "Supply shock",
-    "verified": "publisher feed",
-    "link": "https://www.economist.com/finance-and-economics/2026/10/15/a-shortage-of-sulphur-could-hurt-mines-and-farms-everywhere#:~:text=A%20shortage%20of%20sulphur%20could%20hurt%20mines%20and%20farms%20everywhere"
+    "source": "BBC Business",
+    "title": "What we now know about the UK economy in four charts",
+    "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o",
+    "date": "2026-10-28",
+    "quote": "High global oil prices have already hit drivers at the pumps, with petrol priced at almost £1.73 per litre on average, while diesel is near £1.99. […] Elevated oil prices over time can lead to prices edging upwards across a host of goods, such as food, as companies pass on the higher expenses they face to consumers. […] Goods are typically transported to destinations by lorries and vans, so high fuel prices can have far-reaching consequences.",
+    "pieces": [
+     "High global oil prices have already hit drivers at the pumps, with petrol priced at almost £1.73 per litre on average, while diesel is near £1.99.",
+     "Elevated oil prices over time can lead to prices edging upwards across a host of goods, such as food, as companies pass on the higher expenses they face to consumers.",
+     "Goods are typically transported to destinations by lorries and vans, so high fuel prices can have far-reaching consequences."
+    ],
+    "tag": null,
+    "verified": "page text",
+    "link": "https://www.bbc.co.uk/news/articles/c9x28350ly07o#:~:text=High%20global%20oil%20prices%20have%20already%20hit,high%20fuel%20prices%20can%20have%20far%2Dreaching%20consequences."
    },
    {
     "source": "BBC Business",
@@ -1332,60 +1394,60 @@
   ],
   "fiscal": [
    {
-    "source": "BBC Business",
-    "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
-    "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno",
-    "date": "2026-10-27",
-    "quote": "The government will also freeze fuel duty again in the Budget, the BBC understands. The 5p duty discount is also set to continue. That discount was first introduced in 2022, and was due to last 12 months, but has been extended ever since.",
-    "pieces": [
-     "The government will also freeze fuel duty again in the Budget, the BBC understands. The 5p duty discount is also set to continue. That discount was first introduced in 2022, and was due to last 12 months, but has been extended ever since."
-    ],
-    "tag": "Policy decision",
-    "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno#:~:text=The%20government%20will%20also%20freeze%20fuel%20duty,months%2C%20but%20has%20been%20extended%20ever%20since."
-   },
-   {
-    "source": "BBC Business",
-    "title": "Healey to shield low-income pensioners from income tax in the Budget",
-    "url": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o",
-    "date": "2026-10-26",
-    "quote": "Pensioners on low incomes will be shielded from income tax by Chancellor John Healey in his first Budget on Wednesday. The full, flat-rate state pension is expected to increase by 3.9% to £13,036.40 a year from April. This would take the payment above the £12,570 personal tax allowance and therefore be liable for income tax if no changes are made. The government had already committed to not taxing people who only get an income from the state pension. Healey will explain this pledge will be met by plans for a new tax allowance for low-income pensioners.",
-    "pieces": [
-     "Pensioners on low incomes will be shielded from income tax by Chancellor John Healey in his first Budget on Wednesday.",
-     "The full, flat-rate state pension is expected to increase by 3.9% to £13,036.40 a year from April. This would take the payment above the £12,570 personal tax allowance and therefore be liable for income tax if no changes are made.",
-     "The government had already committed to not taxing people who only get an income from the state pension. Healey will explain this pledge will be met by plans for a new tax allowance for low-income pensioners."
-    ],
-    "tag": "Policy decision",
-    "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o#:~:text=Pensioners%20on%20low%20incomes%20will%20be%20shielded,a%20new%20tax%20allowance%20for%20low%2Dincome%20pensioners."
-   },
-   {
-    "source": "BBC Business",
-    "title": "Four ways Labour could raise money in the Budget without hiking income tax",
-    "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o",
-    "date": "2026-10-25",
-    "quote": "We're likely to hear a lot about the chancellor's \"headroom\" in this Budget. That is the cash buffer the government has to help meet its own fiscal rules and reduce borrowing. Economists think the buffer might have halved in the last six months from around £24bn to as low as £11bn, in part because of rising interest rates the government has been paying to borrow money from private investors.",
-    "tag": "Headroom halved",
-    "pieces": [
-     "We're likely to hear a lot about the chancellor's \"headroom\" in this Budget.",
-     "That is the cash buffer the government has to help meet its own fiscal rules and reduce borrowing.",
-     "Economists think the buffer might have halved in the last six months from around £24bn to as low as £11bn, in part because of rising interest rates the government has been paying to borrow money from private investors."
-    ],
-    "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o#:~:text=We%27re%20likely%20to%20hear%20a%20lot%20about,paying%20to%20borrow%20money%20from%20private%20investors."
-   },
-   {
     "source": "NIESR",
-    "title": "The Minimal Credibility Test For The Autumn 2026 Budget",
-    "url": "https://niesr.ac.uk/blog/minimal-credibility-test-autumn-2026-budget",
-    "date": "2026-10-23",
-    "quote": "The ground has been prepared for a quiet Budget, albeit one in which the Chancellor’s buffer against the fiscal rules comes in perhaps £10 billion lower than the £23 billion the OBR found in March. This so-called “headroom” is nothing more than the margin by which the OBR expects the current budget to be in surplus three years out, the point at which the fiscal rules are now tested. Running it down means a higher expected level of borrowing three years from now than previously planned (and nothing about the years in between).",
+    "title": "Breathing Space, Not a Strategy",
+    "url": "https://niesr.ac.uk/blog/breathing-space-not-strategy",
+    "date": "2026-10-28",
+    "quote": "Today’s Budget has seen the Chancellor deliver some ‘breathing space’ to households struggling with cost-of-living pressures via a mild fiscal loosening, most obviously through changes to energy bills and council taxes. Against an already difficult domestic and international macroeconomic backdrop, which has created a strain on the public finances, the net effect of today’s measures has been a reduction in the Chancellor’s buffer against his fiscal rules from £23.6 billion in March to £14.5 billion now. Market reaction to the Budget was subsequently muted. Ten-year gilt yields fell by only a few basis points on Wednesday afternoon, while sterling hardly budged. […] Therefore, while today’s Budget appears to have not resulted in a backlash from the markets, maintaining a backloaded path for tax rises and deferring major fiscal decisions on defence and other spending until the 2027 Spending Review to buy time is not a credible fiscal strategy.",
     "pieces": [
-     "The ground has been prepared for a quiet Budget, albeit one in which the Chancellor’s buffer against the fiscal rules comes in perhaps £10 billion lower than the £23 billion the OBR found in March. This so-called “headroom” is nothing more than the margin by which the OBR expects the current budget to be in surplus three years out, the point at which the fiscal rules are now tested. Running it down means a higher expected level of borrowing three years from now than previously planned (and nothing about the years in between)."
+     "Today’s Budget has seen the Chancellor deliver some ‘breathing space’ to households struggling with cost-of-living pressures via a mild fiscal loosening, most obviously through changes to energy bills and council taxes. Against an already difficult domestic and international macroeconomic backdrop, which has created a strain on the public finances, the net effect of today’s measures has been a reduction in the Chancellor’s buffer against his fiscal rules from £23.6 billion in March to £14.5 billion now. Market reaction to the Budget was subsequently muted. Ten-year gilt yields fell by only a few basis points on Wednesday afternoon, while sterling hardly budged.",
+     "Therefore, while today’s Budget appears to have not resulted in a backlash from the markets, maintaining a backloaded path for tax rises and deferring major fiscal decisions on defence and other spending until the 2027 Spending Review to buy time is not a credible fiscal strategy."
     ],
     "tag": "Headroom cut",
     "verified": "page text",
-    "link": "https://niesr.ac.uk/blog/minimal-credibility-test-autumn-2026-budget#:~:text=The%20ground%20has%20been%20prepared%20for%20a,%28and%20nothing%20about%20the%20years%20in%20between%29."
+    "link": "https://niesr.ac.uk/blog/breathing-space-not-strategy#:~:text=Today%E2%80%99s%20Budget%20has%20seen%20the%20Chancellor%20deliver,time%20is%20not%20a%20credible%20fiscal%20strategy."
+   },
+   {
+    "source": "NIESR",
+    "title": "Breathing Space, Not a Strategy",
+    "url": "https://niesr.ac.uk/blog/breathing-space-not-strategy",
+    "date": "2026-10-28",
+    "quote": "The OBR forecasts that policies announced in this budget will lead to increased borrowing over the next three years of £12.4 billion, which will then be followed by a reduction of £7 billion on average in the years after. Based on the forecast paths laid out by the OBR today we can see that our minimal test of credibility was not met with Public Sector Net Debt peaking at around 97 per cent of GDP in 2028-29 before falling only slightly to 96 per cent of GDP in 2031-32, higher than the ratio in August this year of 94 per cent.",
+    "pieces": [
+     "The OBR forecasts that policies announced in this budget will lead to increased borrowing over the next three years of £12.4 billion, which will then be followed by a reduction of £7 billion on average in the years after. Based on the forecast paths laid out by the OBR today we can see that our minimal test of credibility was not met with Public Sector Net Debt peaking at around 97 per cent of GDP in 2028-29 before falling only slightly to 96 per cent of GDP in 2031-32, higher than the ratio in August this year of 94 per cent."
+    ],
+    "tag": "Debt not falling",
+    "verified": "page text",
+    "link": "https://niesr.ac.uk/blog/breathing-space-not-strategy#:~:text=The%20OBR%20forecasts%20that%20policies%20announced%20in,August%20this%20year%20of%2094%20per%20cent."
+   },
+   {
+    "source": "Institute for Government",
+    "title": "John Healey’s underwhelming budget punts big decisions into 2027",
+    "url": "https://www.instituteforgovernment.org.uk/comment/john-healeys-underwhelming-budget",
+    "date": "2026-10-28",
+    "quote": "Many small changes could have cumulated to a big overall change in fiscal stance. But they mostly cancelled out. On the forecast, the cost to the exchequer from slightly lower real growth is offset by higher tax receipts, helped in large part by tax thresholds remaining frozen. Higher interest rates means forecast borrowing increased, and Healey allowed the bigger fiscal buffer Reeves had built up to fall to absorb that shock. That leaves him only a 56% chance, based on past forecast errors, of meeting his main fiscal rule of a current budget surplus in 2029/30, down from 59% at the last budget.",
+    "pieces": [
+     "Many small changes could have cumulated to a big overall change in fiscal stance. But they mostly cancelled out. On the forecast, the cost to the exchequer from slightly lower real growth is offset by higher tax receipts, helped in large part by tax thresholds remaining frozen. Higher interest rates means forecast borrowing increased, and Healey allowed the bigger fiscal buffer Reeves had built up to fall to absorb that shock. That leaves him only a 56% chance, based on past forecast errors, of meeting his main fiscal rule of a current budget surplus in 2029/30, down from 59% at the last budget."
+    ],
+    "tag": "56% chance on rule",
+    "verified": "page text",
+    "link": "https://www.instituteforgovernment.org.uk/comment/john-healeys-underwhelming-budget#:~:text=Many%20small%20changes%20could%20have%20cumulated%20to,down%20from%2059%25%20at%20the%20last%20budget."
+   },
+   {
+    "source": "BBC Business",
+    "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+    "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo",
+    "date": "2026-10-28",
+    "quote": "Overall, this Budget has the tax burden - the proportion of the nation's income going to the tax office - rising to a new historic high of 38.6% […] However, a more generous package of help would have been hard to pull off. The impact of higher inflation and debt have increased borrowing costs by £14bn in the past year alone. […] The Chancellor had to prove to the markets which lend the government money that he has a plan to bring down future debt to avoid those costs climbing further. […] As it stands, debt interest repayments are due to be £160bn in 2032, more than double the amount spent on schools in England.",
+    "pieces": [
+     "Overall, this Budget has the tax burden - the proportion of the nation's income going to the tax office - rising to a new historic high of 38.6%",
+     "However, a more generous package of help would have been hard to pull off. The impact of higher inflation and debt have increased borrowing costs by £14bn in the past year alone.",
+     "The Chancellor had to prove to the markets which lend the government money that he has a plan to bring down future debt to avoid those costs climbing further.",
+     "As it stands, debt interest repayments are due to be £160bn in 2032, more than double the amount spent on schools in England."
+    ],
+    "tag": "Record tax burden",
+    "verified": "page text",
+    "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo#:~:text=Overall%2C%20this%20Budget%20has%20the%20tax%20burden,the%20amount%20spent%20on%20schools%20in%20England."
    },
    {
     "source": "BBC Business",
@@ -1403,45 +1465,60 @@
     "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o#:~:text=But%20the%20inflation%20figure%20came%20as%20the,line%20with%20its%20fiscal%20rules%20%2D%20fell."
    },
    {
-    "source": "NIESR",
-    "title": "Has Fiscal Policy Adjusted To A World Of Higher Interest Rates?",
-    "url": "https://niesr.ac.uk/blog/has-fiscal-policy-adjusted-world-higher-interest-rates",
-    "date": "2026-10-16",
-    "quote": "In this week’s blog, I look at what this means for the UK’s public finances and for our ability to keep the debt ratio stable over the medium term. My argument in a nutshell is this. The government’s plans already contain a £100 billion planned consolidation, roughly of the scale needed to stabilise debt at the interest rates prevailing in February. But much of it is back-loaded to around the next election, and is unlikely to be delivered. If the rise in rates since February persists, debt interest will be around £15 billion a year higher by the end of the decade than the OBR assumed, which means more tightening on top. This has the feel of a slow-motion car crash: each year, cheap debt issued when rates were low is refinanced at today’s rates.",
+    "source": "LSE British Politics and Policy",
+    "title": "Budget 2026 – continuity with Reeves",
+    "url": "https://blogs.lse.ac.uk/politicsandpolicy/budget-2026-continuity-with-reeves/",
+    "date": "2026-10-29",
+    "quote": "The Budget has giveaways of 0.25 per cent of GDP 2026/27, most eye-catchingly the £2.6bn in £100 payments to households to help with their energy bills. These giveaways were balanced by tax rises: a temporary 3 per cent increase in the Bank Surcharge (raising £1bn next year) and 2 per cent more on savings and property taxes (£1bn p.a.).",
     "pieces": [
-     "In this week’s blog, I look at what this means for the UK’s public finances and for our ability to keep the debt ratio stable over the medium term. My argument in a nutshell is this. The government’s plans already contain a £100 billion planned consolidation, roughly of the scale needed to stabilise debt at the interest rates prevailing in February. But much of it is back-loaded to around the next election, and is unlikely to be delivered. If the rise in rates since February persists, debt interest will be around £15 billion a year higher by the end of the decade than the OBR assumed, which means more tightening on top. This has the feel of a slow-motion car crash: each year, cheap debt issued when rates were low is refinanced at today’s rates."
-    ],
-    "tag": "Expectation",
-    "verified": "page text",
-    "link": "https://niesr.ac.uk/blog/has-fiscal-policy-adjusted-world-higher-interest-rates#:~:text=In%20this%20week%E2%80%99s%20blog%2C%20I%20look%20at,were%20low%20is%20refinanced%20at%20today%E2%80%99s%20rates."
-   },
-   {
-    "source": "NIESR",
-    "title": "The Minimal Credibility Test For The Autumn 2026 Budget",
-    "url": "https://niesr.ac.uk/blog/minimal-credibility-test-autumn-2026-budget",
-    "date": "2026-10-23",
-    "quote": "The interest rate on new government borrowing is now above the growth rate of the economy, which turns the debt arithmetic from a tailwind into a headwind: the primary surplus needed simply to hold the debt ratio steady has risen, and every pound borrowed at today’s rates adds to that bill. With interest rates at 5 per cent, say, and a primary deficit of -1.5 per cent of GDP, the economy would need to grow in cash terms by 6.5 per cent annually to keep debt stable.",
-    "pieces": [
-     "The interest rate on new government borrowing is now above the growth rate of the economy, which turns the debt arithmetic from a tailwind into a headwind: the primary surplus needed simply to hold the debt ratio steady has risen, and every pound borrowed at today’s rates adds to that bill. With interest rates at 5 per cent, say, and a primary deficit of -1.5 per cent of GDP, the economy would need to grow in cash terms by 6.5 per cent annually to keep debt stable."
+     "The Budget has giveaways of 0.25 per cent of GDP 2026/27, most eye-catchingly the £2.6bn in £100 payments to households to help with their energy bills. These giveaways were balanced by tax rises: a temporary 3 per cent increase in the Bank Surcharge (raising £1bn next year) and 2 per cent more on savings and property taxes (£1bn p.a.)."
     ],
     "tag": null,
     "verified": "page text",
-    "link": "https://niesr.ac.uk/blog/minimal-credibility-test-autumn-2026-budget#:~:text=The%20interest%20rate%20on%20new%20government%20borrowing,per%20cent%20annually%20to%20keep%20debt%20stable."
+    "link": "https://blogs.lse.ac.uk/politicsandpolicy/budget-2026-continuity-with-reeves/#:~:text=The%20Budget%20has%20giveaways%20of%200.25%20per,on%20savings%20and%20property%20taxes%20%28%C2%A31bn%20p.a.%29."
+   },
+   {
+    "source": "LSE British Politics and Policy",
+    "title": "The 2026 Budget buys stability and points in the right direction on growth",
+    "url": "https://blogs.lse.ac.uk/politicsandpolicy/the-2026-budget-buys-stability-and-points-in-the-right-direction-on-growth/",
+    "date": "2026-10-29",
+    "quote": "The Chancellor’s first Budget had to do three things at once in a challenging and uncertain context: maintain a credible fiscal buffer against future shocks, support households struggling with a prolonged cost of living crisis, and nurture the green shoots of growth that have emerged despite global headwinds (or, more like storms – as the Chancellor put it). […] On the first two, the OBR confirmed that the Chancellor is forecast to meet the fiscal rules by 2029-30 with headroom of £15bn against the stability rule (rising to £22bn in 2030-31) which seems reasonable given the context and market expectations; and a package of household support has been set out to provide “breathing space” (though this could have been better targeted). The harder test is the third. Increasing the quantity and quality of public investment, measures to boost business investment, and a successful programme of devolution will be crucial for shaping prosperity.",
+    "pieces": [
+     "The Chancellor’s first Budget had to do three things at once in a challenging and uncertain context: maintain a credible fiscal buffer against future shocks, support households struggling with a prolonged cost of living crisis, and nurture the green shoots of growth that have emerged despite global headwinds (or, more like storms – as the Chancellor put it).",
+     "On the first two, the OBR confirmed that the Chancellor is forecast to meet the fiscal rules by 2029-30 with headroom of £15bn against the stability rule (rising to £22bn in 2030-31) which seems reasonable given the context and market expectations; and a package of household support has been set out to provide “breathing space” (though this could have been better targeted). The harder test is the third. Increasing the quantity and quality of public investment, measures to boost business investment, and a successful programme of devolution will be crucial for shaping prosperity."
+    ],
+    "tag": null,
+    "verified": "page text",
+    "link": "https://blogs.lse.ac.uk/politicsandpolicy/the-2026-budget-buys-stability-and-points-in-the-right-direction-on-growth/#:~:text=The%20Chancellor%E2%80%99s%20first%20Budget%20had%20to%20do,devolution%20will%20be%20crucial%20for%20shaping%20prosperity."
    }
   ],
   "tariff": [
    {
     "source": "BBC Business",
-    "title": "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?",
-    "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno",
+    "title": "Restaurants sceptical over 'garlic and gherkins' plan",
+    "url": "https://www.bbc.co.uk/news/articles/cm74pvzzke91o",
     "date": "2026-10-28",
-    "quote": "The government also plans to remove tariffs from 100 food items, which it calculates could save households up to £21 per year - or 40p a week - when combined with existing tariff suspensions that were introduced in June.",
-    "tag": "Tariff cut",
+    "quote": "Garlic, gherkins and plant-based milk are among more than 100 products which should become cheaper due to measures announced in the Budget. […] The Treasury said the removal of import tariffs on dozens of items would save the typical household about £21 a year on their food bill.",
     "pieces": [
-     "The government also plans to remove tariffs from 100 food items, which it calculates could save households up to £21 per year - or 40p a week - when combined with existing tariff suspensions that were introduced in June."
+     "Garlic, gherkins and plant-based milk are among more than 100 products which should become cheaper due to measures announced in the Budget.",
+     "The Treasury said the removal of import tariffs on dozens of items would save the typical household about £21 a year on their food bill."
     ],
+    "tag": "Tariff cut",
     "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno#:~:text=The%20government%20also%20plans%20to%20remove%20tariffs,tariff%20suspensions%20that%20were%20introduced%20in%20June."
+    "link": "https://www.bbc.co.uk/news/articles/cm74pvzzke91o#:~:text=Garlic%2C%20gherkins%20and%20plant%2Dbased%20milk%20are%20among,%C2%A321%20a%20year%20on%20their%20food%20bill."
+   },
+   {
+    "source": "Oxford Economics",
+    "title": "Higher US gas prices boost odds of a Democratic sweep",
+    "url": "https://www.oxfordeconomics.com/resource/us-higher-gas-prices-boost-odds-of-a-democratic-sweep/",
+    "date": "2026-10-28",
+    "quote": "The odds of a Democratic sweep in the midterms on November 3 continue to rise. Our baseline forecast has long called for a divided government after the midterms, but Democrats flipping both chambers of Congress would raise the probability of downside risks from trade and geopolitical policy and increase the chance of a deficit-financed expansion of federal spending.",
+    "pieces": [
+     "The odds of a Democratic sweep in the midterms on November 3 continue to rise. Our baseline forecast has long called for a divided government after the midterms, but Democrats flipping both chambers of Congress would raise the probability of downside risks from trade and geopolitical policy and increase the chance of a deficit-financed expansion of federal spending."
+    ],
+    "tag": "Election risk",
+    "verified": "page text",
+    "link": "https://www.oxfordeconomics.com/resource/us-higher-gas-prices-boost-odds-of-a-democratic-sweep/#:~:text=The%20odds%20of%20a%20Democratic%20sweep%20in,of%20a%20deficit%2Dfinanced%20expansion%20of%20federal%20spending."
    },
    {
     "source": "BBC Business",
@@ -1487,19 +1564,6 @@
     "title": "Trump Tariffs: Tracking the Economic Impact of the Trump Trade War",
     "url": "https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/",
     "date": "2026-09-10",
-    "quote": "According to the World Bank, the US’s weighted average applied tariff was 1.5 percent in 2022. We estimate that under the new US tariffs imposed and scheduled to take effect in 2026, the applied rate rises to 11.8 percent. In the days prior to the Supreme Court’s Learning Resources decision, we estimate the applied tariff rate was 14.8 percent, and that it fell to 10.8 percent under the temporary Section 122 replacement tariffs. The applied tariff rate under the current tariffs is below its peak reached prior to the Court decision.",
-    "pieces": [
-     "According to the World Bank, the US’s weighted average applied tariff was 1.5 percent in 2022. We estimate that under the new US tariffs imposed and scheduled to take effect in 2026, the applied rate rises to 11.8 percent. In the days prior to the Supreme Court’s Learning Resources decision, we estimate the applied tariff rate was 14.8 percent, and that it fell to 10.8 percent under the temporary Section 122 replacement tariffs. The applied tariff rate under the current tariffs is below its peak reached prior to the Court decision."
-    ],
-    "tag": "Regime change",
-    "verified": "page text",
-    "link": "https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/#:~:text=According%20to%20the%20World%20Bank%2C%20the%20US%E2%80%99s,peak%20reached%20prior%20to%20the%20Court%20decision."
-   },
-   {
-    "source": "Tax Foundation",
-    "title": "Trump Tariffs: Tracking the Economic Impact of the Trump Trade War",
-    "url": "https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/",
-    "date": "2026-09-10",
     "quote": "In calendar year 2024, the US federal government collected $79 billion in customs duties. Collections rose to $264 billion in calendar year 2025 after the Trump administration imposed several rounds of new tariffs. In February 2026, however, the Supreme Court struck down the IEEPA tariffs, and the illegally collected revenues (plus interest) were required to be returned to importers. Refunds of the illegally collected duties accelerated in May 2026, offsetting customs duties revenue collections such that the government refunded more than it brought in.",
     "pieces": [
      "In calendar year 2024, the US federal government collected $79 billion in customs duties. Collections rose to $264 billion in calendar year 2025 after the Trump administration imposed several rounds of new tariffs. In February 2026, however, the Supreme Court struck down the IEEPA tariffs, and the illegally collected revenues (plus interest) were required to be returned to importers. Refunds of the illegally collected duties accelerated in May 2026, offsetting customs duties revenue collections such that the government refunded more than it brought in."
@@ -1509,18 +1573,17 @@
     "link": "https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/#:~:text=In%20calendar%20year%202024%2C%20the%20US%20federal,government%20refunded%20more%20than%20it%20brought%20in."
    },
    {
-    "source": "BBC Business",
-    "title": "Donald Trump's biggest economic problem looks strangely familiar",
-    "url": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o",
-    "date": "2026-10-27",
-    "quote": "Trump's \"Liberation Day\" tariffs, announced in April 2025, have added to costs for consumers. A study by the Federal Reserve Bank of New York found the tariffs increased consumer goods prices by about 2.9%.",
+    "source": "Tax Foundation",
+    "title": "Trump Tariffs: Tracking the Economic Impact of the Trump Trade War",
+    "url": "https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/",
+    "date": "2026-09-10",
+    "quote": "According to the World Bank, the US’s weighted average applied tariff was 1.5 percent in 2022. We estimate that under the new US tariffs imposed and scheduled to take effect in 2026, the applied rate rises to 11.8 percent. In the days prior to the Supreme Court’s Learning Resources decision, we estimate the applied tariff rate was 14.8 percent, and that it fell to 10.8 percent under the temporary Section 122 replacement tariffs. The applied tariff rate under the current tariffs is below its peak reached prior to the Court decision.",
     "pieces": [
-     "Trump's \"Liberation Day\" tariffs, announced in April 2025, have added to costs for consumers.",
-     "A study by the Federal Reserve Bank of New York found the tariffs increased consumer goods prices by about 2.9%."
+     "According to the World Bank, the US’s weighted average applied tariff was 1.5 percent in 2022. We estimate that under the new US tariffs imposed and scheduled to take effect in 2026, the applied rate rises to 11.8 percent. In the days prior to the Supreme Court’s Learning Resources decision, we estimate the applied tariff rate was 14.8 percent, and that it fell to 10.8 percent under the temporary Section 122 replacement tariffs. The applied tariff rate under the current tariffs is below its peak reached prior to the Court decision."
     ],
-    "tag": null,
+    "tag": "Regime change",
     "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o#:~:text=Trump%27s%20%22Liberation%20Day%22%20tariffs%2C%20announced%20in%20April,increased%20consumer%20goods%20prices%20by%20about%202.9%25."
+    "link": "https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/#:~:text=According%20to%20the%20World%20Bank%2C%20the%20US%E2%80%99s,peak%20reached%20prior%20to%20the%20Court%20decision."
    }
   ]
  }
