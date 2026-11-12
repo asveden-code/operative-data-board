@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T09:32Z",
+ "generated_at": "2026-11-12T10:02Z",
  "window_days": {
   "press": 14,
   "think_tanks": 60
@@ -18,6 +18,22 @@
  ],
  "quotes": {
   "gdp": [
+   {
+    "source": "BBC Business",
+    "title": "UK economy grows at fastest rate for more than two years",
+    "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o",
+    "date": "2026-11-12",
+    "quote": "Between July and September, the economy expanded by 0.7%, accelerating from the three months previously, official figures show. […] The robust growth suggests a far more resilient economy than expected over the summer, despite the impact of higher energy prices from the Iran war. […] Strong growth in the services sector - the largest part of the economy, which includes non-physical goods such as consultancy services and computer programming as well as hotels and restaurants - helped boost the numbers. […] Within services, computer programming registered its fastest growth for the past three years, helped by AI linked spending.",
+    "tag": "Fastest in two years",
+    "verified": "page text",
+    "pieces": [
+     "Between July and September, the economy expanded by 0.7%, accelerating from the three months previously, official figures show.",
+     "The robust growth suggests a far more resilient economy than expected over the summer, despite the impact of higher energy prices from the Iran war.",
+     "Strong growth in the services sector - the largest part of the economy, which includes non-physical goods such as consultancy services and computer programming as well as hotels and restaurants - helped boost the numbers.",
+     "Within services, computer programming registered its fastest growth for the past three years, helped by AI linked spending."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o#:~:text=Between%20July%20and%20September%2C%20the%20economy%20expanded,three%20years%2C%20helped%20by%20AI%20linked%20spending."
+   },
    {
     "source": "Resolution Foundation",
     "title": "Ignore the rate rise, worry about the forecast",
@@ -61,20 +77,6 @@
     "link": "https://blogs.lse.ac.uk/politicsandpolicy/the-2026-budget-buys-stability-and-points-in-the-right-direction-on-growth/#:~:text=The%20OBR%20has%20upgraded%20GDP%20growth%20projection,by%204%20per%20cent%20over%2015%20years."
    },
    {
-    "source": "BBC Business",
-    "title": "What we now know about the UK economy in four charts",
-    "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o",
-    "date": "2026-10-28",
-    "quote": "In its first assessment of the UK economy since the Middle East conflict started, the OBR said rising energy prices were the biggest risk to the economy in the near future. […] Despite raising its growth forecast for this year, it sharply cut its prediction for next year from 1.6% to 1%.",
-    "pieces": [
-     "In its first assessment of the UK economy since the Middle East conflict started, the OBR said rising energy prices were the biggest risk to the economy in the near future.",
-     "Despite raising its growth forecast for this year, it sharply cut its prediction for next year from 1.6% to 1%."
-    ],
-    "tag": "Forecast cut to 1%",
-    "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/c9x28350ly07o#:~:text=In%20its%20first%20assessment%20of%20the%20UK,for%20next%20year%20from%201.6%25%20to%201%25."
-   },
-   {
     "source": "NIESR",
     "title": "The Minimal Credibility Test For The Autumn 2026 Budget",
     "url": "https://niesr.ac.uk/blog/minimal-credibility-test-autumn-2026-budget",
@@ -88,18 +90,19 @@
     "link": "https://niesr.ac.uk/blog/minimal-credibility-test-autumn-2026-budget#:~:text=Growth%20has%20proved%20far%20more%20resilient%20than,percentage%20point%20below%20the%20OBR%E2%80%99s%20March%20forecast."
    },
    {
-    "source": "NIESR",
-    "title": "Has Fiscal Policy Adjusted To A World Of Higher Interest Rates?",
-    "url": "https://niesr.ac.uk/blog/has-fiscal-policy-adjusted-world-higher-interest-rates",
-    "date": "2026-10-16",
-    "quote": "The benign reading of higher real rates is that they reflect stronger expected growth, in which case r minus g might not have moved much. There’s some support for this in the UK. GDP grew by 0.7 per cent in the three months to August, the eighth consecutive three-month rise, and was 1.8 per cent higher than a year earlier, comfortably above most estimates of trend growth. Last month, the ONS also revised up post-crisis productivity growth from 0.7 to 1.3 per cent a year. But that revision came from lower estimates of hours worked rather than higher output, so GDP is unchanged and the implications for future growth are unclear. GDP growth so far this year is running close to our pre-war NIESR February forecast of 1.4 per cent, significantly stronger than the forecast we made once the war had begun. Is that telling us that the underlying growth capacity is stronger than we thought, perhaps because the AI capex boom is lifting growth everywhere? Or that the effects of the war have been smaller than feared, or have yet to be felt in full (inflation in the UK won’t peak until the new year).",
-    "pieces": [
-     "The benign reading of higher real rates is that they reflect stronger expected growth, in which case r minus g might not have moved much. There’s some support for this in the UK. GDP grew by 0.7 per cent in the three months to August, the eighth consecutive three-month rise, and was 1.8 per cent higher than a year earlier, comfortably above most estimates of trend growth. Last month, the ONS also revised up post-crisis productivity growth from 0.7 to 1.3 per cent a year. But that revision came from lower estimates of hours worked rather than higher output, so GDP is unchanged and the implications for future growth are unclear.",
-     "GDP growth so far this year is running close to our pre-war NIESR February forecast of 1.4 per cent, significantly stronger than the forecast we made once the war had begun. Is that telling us that the underlying growth capacity is stronger than we thought, perhaps because the AI capex boom is lifting growth everywhere? Or that the effects of the war have been smaller than feared, or have yet to be felt in full (inflation in the UK won’t peak until the new year)."
-    ],
+    "source": "BBC Business",
+    "title": "UK economy grows at fastest rate for more than two years",
+    "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o",
+    "date": "2026-11-12",
+    "quote": "The latest figures put the UK on course to be the second fastest growing economy across the major G7 countries which also includes Canada, Japan, Germany, Italy and France. […] However, Jake Finney, senior economist at consultancy PwC, cautioned that growth was likely to slow over the coming months \"unless energy markets stabilise\". […] A sharp rise in energy bills is forecast for January, which is likely to hit consumer spending and confidence, he said.",
     "tag": null,
     "verified": "page text",
-    "link": "https://niesr.ac.uk/blog/has-fiscal-policy-adjusted-world-higher-interest-rates#:~:text=The%20benign%20reading%20of%20higher%20real%20rates,UK%20won%E2%80%99t%20peak%20until%20the%20new%20year%29."
+    "pieces": [
+     "The latest figures put the UK on course to be the second fastest growing economy across the major G7 countries which also includes Canada, Japan, Germany, Italy and France.",
+     "However, Jake Finney, senior economist at consultancy PwC, cautioned that growth was likely to slow over the coming months \"unless energy markets stabilise\".",
+     "A sharp rise in energy bills is forecast for January, which is likely to hit consumer spending and confidence, he said."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o#:~:text=The%20latest%20figures%20put%20the%20UK%20on,hit%20consumer%20spending%20and%20confidence%2C%20he%20said."
    }
   ],
   "unemp": [
@@ -294,20 +297,6 @@
      "Calling the increases ‘conservative’ might sound peculiar, given that the 3.9 per cent increase in the adult rate is bigger than the 3.7 per cent increase the LPC estimated would be needed back in April for an ‘on-course rate’ (i.e. to stick to the two-thirds of median hourly wages bit of its remit). But it’s true, because new data published last week1 showed median hourly pay growth of 5.9 per cent in the year to April 2026 (see the chart below). Had it stuck doggedly to that part of its remit, this would have led to a 5.7 per cent National Living Wage (NLW) increase. As you can see in the chart, such a figure would have been way ahead of current average earnings growth (3.7 per cent in the three months to August 20262) and even further ahead of where pay growth is expected to be next year (the median forecast for 2027 among external forecasters is 3.3 per cent)."
     ],
     "link": "https://www.resolutionfoundation.org/comment/its-good-to-be-flexible/#:~:text=Calling%20the%20increases%20%E2%80%98conservative%E2%80%99%20might%20sound%20peculiar%2C,among%20external%20forecasters%20is%203.3%20per%20cent%29."
-   },
-   {
-    "source": "BBC Business",
-    "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-    "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo",
-    "date": "2026-10-28",
-    "quote": "The most telling evidence was that official forecasters predict that while earnings will rise, that is not compensating for higher prices and taxes. […] Even after the extra help is taken into account, households' incomes after inflation and tax are set to be typically lower across the next two years than the start of the parliament. On that basis, it could be the second worse parliament for living standards, after the last one, since the 1950s - a sign of how far the war has blown prosperity off course.",
-    "pieces": [
-     "The most telling evidence was that official forecasters predict that while earnings will rise, that is not compensating for higher prices and taxes.",
-     "Even after the extra help is taken into account, households' incomes after inflation and tax are set to be typically lower across the next two years than the start of the parliament. On that basis, it could be the second worse parliament for living standards, after the last one, since the 1950s - a sign of how far the war has blown prosperity off course."
-    ],
-    "tag": "Real pay squeeze",
-    "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo#:~:text=The%20most%20telling%20evidence%20was%20that%20official,the%20war%20has%20blown%20prosperity%20off%20course."
    },
    {
     "source": "Resolution Foundation",
@@ -677,19 +666,6 @@
     "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o#:~:text=The%20Bank%27s%20forecasts%20indicate%20inflation%20is%20heading,retreat%20or%20deescalate%20from%20the%20Iran%20war."
    },
    {
-    "source": "Oxford Economics",
-    "title": "MENA region braces for military escalation after the US midterms",
-    "url": "https://www.oxfordeconomics.com/resource/mena-region-braces-for-military-escalation-after-the-us-midterms/",
-    "date": "2026-11-03",
-    "quote": "Political betting markets suggest a growing likelihood of US military action, with probabilities exceeding 50% by late November and reaching 73% by year-end. Oil prices have surged, with Brent crude surpassing $115 per barrel, reflecting concerns over supply disruptions despite increased exports from the region.",
-    "tag": "Strike odds 73%",
-    "verified": "page text",
-    "pieces": [
-     "Political betting markets suggest a growing likelihood of US military action, with probabilities exceeding 50% by late November and reaching 73% by year-end. Oil prices have surged, with Brent crude surpassing $115 per barrel, reflecting concerns over supply disruptions despite increased exports from the region."
-    ],
-    "link": "https://www.oxfordeconomics.com/resource/mena-region-braces-for-military-escalation-after-the-us-midterms/#:~:text=Political%20betting%20markets%20suggest%20a%20growing%20likelihood,disruptions%20despite%20increased%20exports%20from%20the%20region."
-   },
-   {
     "source": "CNBC Economy",
     "title": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms",
     "url": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
@@ -700,20 +676,6 @@
     "headline": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms",
     "standfirst": "Oil fell Monday, amid news that both the U.S. and Iran are pursuing diplomacy amid ongoing Mideast tensions",
     "link": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html#:~:text=Crude%20oil%20prices%20sell%20off%20more%20than%207%25%20on%20Iran%20peace%20talk%20hopes%20ahead%20of%20U.S.%20midterms"
-   },
-   {
-    "source": "BBC Business",
-    "title": "Your pay, energy bills and savings: How the Budget affects you",
-    "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo",
-    "date": "2026-10-28",
-    "quote": "Motor fuel prices have risen sharply owing to the continued impact of the Iran war on drivers, with diesel having recently hit new records when it moved above £2 per litre. […] The cost of filling a typical family car with diesel has gone up by around £30 since late February. A tankful of petrol costs about £23 more.",
-    "pieces": [
-     "Motor fuel prices have risen sharply owing to the continued impact of the Iran war on drivers, with diesel having recently hit new records when it moved above £2 per litre.",
-     "The cost of filling a typical family car with diesel has gone up by around £30 since late February. A tankful of petrol costs about £23 more."
-    ],
-    "tag": "Record diesel",
-    "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo#:~:text=Motor%20fuel%20prices%20have%20risen%20sharply%20owing,tankful%20of%20petrol%20costs%20about%20%C2%A323%20more."
    }
   ],
   "gas": [
@@ -1044,17 +1006,16 @@
     "link": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html#:~:text=Analysis%3A%20Kevin%20Warsh%20is%20keeping%20Wall%20Street%20guessing.%20It%20may%20be%20his%20most%20powerful%20tool"
    },
    {
-    "source": "Oxford Economics",
-    "title": "The Model Assistant in action: What would an escalating Iran war mean for bond yields?",
-    "url": "https://www.oxfordeconomics.com/resource/the-model-assistant-in-action-what-would-an-escalating-iran-war-mean-for-bond-yields/",
-    "date": "2026-10-20",
-    "quote": "The war in Iran has already pushed up energy prices and unsettled financial markets. Renewed attacks on shipping and energy infrastructure in the Gulf have lifted oil prices, and global bond markets have sold off sharply. The US 10-year Treasury yield has climbed above 5% for the first time since 2007, and the Federal Reserve raised interest rates in September for the first time since 2023, as we discuss in our latest analysis of the bond sell-off.",
-    "pieces": [
-     "The war in Iran has already pushed up energy prices and unsettled financial markets. Renewed attacks on shipping and energy infrastructure in the Gulf have lifted oil prices, and global bond markets have sold off sharply. The US 10-year Treasury yield has climbed above 5% for the first time since 2007, and the Federal Reserve raised interest rates in September for the first time since 2023, as we discuss in our latest analysis of the bond sell-off."
-    ],
-    "tag": "Policy turn",
-    "verified": "page text",
-    "link": "https://www.oxfordeconomics.com/resource/the-model-assistant-in-action-what-would-an-escalating-iran-war-mean-for-bond-yields/#:~:text=The%20war%20in%20Iran%20has%20already%20pushed,our%20latest%20analysis%20of%20the%20bond%20sell%2Doff."
+    "source": "CNBC Economy",
+    "title": "Consumers are showing signs of strain even as they keep spending, CNBC/NRF Retail Monitor shows",
+    "url": "https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html",
+    "date": "2026-11-11",
+    "quote": "Consumers are showing signs of strain even as they keep spending, CNBC/NRF Retail Monitor shows. Retail sales rose at their slowest pace in nearly a year in October as American consumers showed signs of strain from high prices.",
+    "tag": null,
+    "verified": "publisher feed",
+    "headline": "Consumers are showing signs of strain even as they keep spending, CNBC/NRF Retail Monitor shows",
+    "standfirst": "Retail sales rose at their slowest pace in nearly a year in October as American consumers showed signs of strain from high prices.",
+    "link": "https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html#:~:text=Consumers%20are%20showing%20signs%20of%20strain%20even%20as%20they%20keep%20spending%2C%20CNBC%2FNRF%20Retail%20Monitor%20shows"
    },
    {
     "source": "BBC Business",
@@ -1266,17 +1227,17 @@
   "food": [
    {
     "source": "BBC Business",
-    "title": "Restaurants sceptical over 'garlic and gherkins' plan",
-    "url": "https://www.bbc.co.uk/news/articles/cm74pvzzke91o",
-    "date": "2026-10-28",
-    "quote": "Garlic, gherkins and plant-based milk are among more than 100 products which should become cheaper due to measures announced in the Budget. […] The Treasury said the removal of import tariffs on dozens of items would save the typical household about £21 a year on their food bill.",
-    "pieces": [
-     "Garlic, gherkins and plant-based milk are among more than 100 products which should become cheaper due to measures announced in the Budget.",
-     "The Treasury said the removal of import tariffs on dozens of items would save the typical household about £21 a year on their food bill."
-    ],
-    "tag": "Tariff cut",
+    "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
+    "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o",
+    "date": "2026-11-10",
+    "quote": "Sales of essential goods such as bottled water and canned food soared in the 10 days following the launch of the government's \"Be Ready\" emergency preparedness campaign on 22 October, research indicates. […] Hand sanitiser sales were up 83%, sales of bottled water rose 67% and tinned and jarred goods climbed 37%, according to data from retail research firm Worldpanel by Numerator.",
+    "tag": "Stockpiling",
     "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/cm74pvzzke91o#:~:text=Garlic%2C%20gherkins%20and%20plant%2Dbased%20milk%20are%20among,%C2%A321%20a%20year%20on%20their%20food%20bill."
+    "pieces": [
+     "Sales of essential goods such as bottled water and canned food soared in the 10 days following the launch of the government's \"Be Ready\" emergency preparedness campaign on 22 October, research indicates.",
+     "Hand sanitiser sales were up 83%, sales of bottled water rose 67% and tinned and jarred goods climbed 37%, according to data from retail research firm Worldpanel by Numerator."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o#:~:text=Sales%20of%20essential%20goods%20such%20as%20bottled,from%20retail%20research%20firm%20Worldpanel%20by%20Numerator."
    },
    {
     "source": "BBC Business",
@@ -1292,21 +1253,6 @@
      "But the Bank said there was \"limited evidence\" this had happened so far for goods, such as food, with some firms absorbing cost increases and accepting lower margins."
     ],
     "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo#:~:text=Prices%20rose%203.5%25%20in%20the%20year%20to,absorbing%20cost%20increases%20and%20accepting%20lower%20margins."
-   },
-   {
-    "source": "BBC Business",
-    "title": "What we now know about the UK economy in four charts",
-    "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o",
-    "date": "2026-10-28",
-    "quote": "High global oil prices have already hit drivers at the pumps, with petrol priced at almost £1.73 per litre on average, while diesel is near £1.99. […] Elevated oil prices over time can lead to prices edging upwards across a host of goods, such as food, as companies pass on the higher expenses they face to consumers. […] Goods are typically transported to destinations by lorries and vans, so high fuel prices can have far-reaching consequences.",
-    "pieces": [
-     "High global oil prices have already hit drivers at the pumps, with petrol priced at almost £1.73 per litre on average, while diesel is near £1.99.",
-     "Elevated oil prices over time can lead to prices edging upwards across a host of goods, such as food, as companies pass on the higher expenses they face to consumers.",
-     "Goods are typically transported to destinations by lorries and vans, so high fuel prices can have far-reaching consequences."
-    ],
-    "tag": null,
-    "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/c9x28350ly07o#:~:text=High%20global%20oil%20prices%20have%20already%20hit,high%20fuel%20prices%20can%20have%20far%2Dreaching%20consequences."
    }
   ],
   "fiscal": [
@@ -1389,22 +1335,6 @@
     "tag": "56% chance on rule",
     "verified": "page text",
     "link": "https://www.instituteforgovernment.org.uk/comment/john-healeys-underwhelming-budget#:~:text=Many%20small%20changes%20could%20have%20cumulated%20to,down%20from%2059%25%20at%20the%20last%20budget."
-   },
-   {
-    "source": "BBC Business",
-    "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-    "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo",
-    "date": "2026-10-28",
-    "quote": "Overall, this Budget has the tax burden - the proportion of the nation's income going to the tax office - rising to a new historic high of 38.6% […] However, a more generous package of help would have been hard to pull off. The impact of higher inflation and debt have increased borrowing costs by £14bn in the past year alone. […] The Chancellor had to prove to the markets which lend the government money that he has a plan to bring down future debt to avoid those costs climbing further. […] As it stands, debt interest repayments are due to be £160bn in 2032, more than double the amount spent on schools in England.",
-    "pieces": [
-     "Overall, this Budget has the tax burden - the proportion of the nation's income going to the tax office - rising to a new historic high of 38.6%",
-     "However, a more generous package of help would have been hard to pull off. The impact of higher inflation and debt have increased borrowing costs by £14bn in the past year alone.",
-     "The Chancellor had to prove to the markets which lend the government money that he has a plan to bring down future debt to avoid those costs climbing further.",
-     "As it stands, debt interest repayments are due to be £160bn in 2032, more than double the amount spent on schools in England."
-    ],
-    "tag": "Record tax burden",
-    "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo#:~:text=Overall%2C%20this%20Budget%20has%20the%20tax%20burden,the%20amount%20spent%20on%20schools%20in%20England."
    }
   ],
   "tariff": [
@@ -1435,18 +1365,17 @@
     "link": "https://taxfoundation.org/blog/democratic-congress-tax-policy-2027/#:~:text=Some%20Democratic%20policymakers%20have%20opposed%20the%20Trump,the%20issue%20in%20the%20next%20two%20years."
    },
    {
-    "source": "BBC Business",
-    "title": "Restaurants sceptical over 'garlic and gherkins' plan",
-    "url": "https://www.bbc.co.uk/news/articles/cm74pvzzke91o",
-    "date": "2026-10-28",
-    "quote": "Garlic, gherkins and plant-based milk are among more than 100 products which should become cheaper due to measures announced in the Budget. […] The Treasury said the removal of import tariffs on dozens of items would save the typical household about £21 a year on their food bill.",
-    "pieces": [
-     "Garlic, gherkins and plant-based milk are among more than 100 products which should become cheaper due to measures announced in the Budget.",
-     "The Treasury said the removal of import tariffs on dozens of items would save the typical household about £21 a year on their food bill."
-    ],
-    "tag": "Tariff cut",
+    "source": "Institute for Government",
+    "title": "The UK-EU summit will be a test of the political salience of Brexit",
+    "url": "https://www.instituteforgovernment.org.uk/comment/uk-eu-summit-brexit-burnham",
+    "date": "2026-11-12",
+    "quote": "Since the initial Common Understanding was agreed, a new problem has emerged for the prime minister – the risk to UK manufacturing supply chains of the EU’s more protectionist Made in Europe stance. This is not aimed at the UK – but it risks being collateral damage unless the prime minister can convince the EU that the UK (and potentially other third country trade partners too) should sneak inside the EU’s protective wall. But that will not be costless. A proposal from German chancellor Friedrich Merz and French president Emmanuel Macron would see the UK exempted from Made in Europe restrictions on cars, provided it agreed to align its external tariff with the EU’s to prevent it being a backdoor route for Chinese EVs into the EU.",
+    "tag": null,
     "verified": "page text",
-    "link": "https://www.bbc.co.uk/news/articles/cm74pvzzke91o#:~:text=Garlic%2C%20gherkins%20and%20plant%2Dbased%20milk%20are%20among,%C2%A321%20a%20year%20on%20their%20food%20bill."
+    "pieces": [
+     "Since the initial Common Understanding was agreed, a new problem has emerged for the prime minister – the risk to UK manufacturing supply chains of the EU’s more protectionist Made in Europe stance. This is not aimed at the UK – but it risks being collateral damage unless the prime minister can convince the EU that the UK (and potentially other third country trade partners too) should sneak inside the EU’s protective wall. But that will not be costless. A proposal from German chancellor Friedrich Merz and French president Emmanuel Macron would see the UK exempted from Made in Europe restrictions on cars, provided it agreed to align its external tariff with the EU’s to prevent it being a backdoor route for Chinese EVs into the EU."
+    ],
+    "link": "https://www.instituteforgovernment.org.uk/comment/uk-eu-summit-brexit-burnham#:~:text=Since%20the%20initial%20Common%20Understanding%20was%20agreed%2C,route%20for%20Chinese%20EVs%20into%20the%20EU."
    },
    {
     "source": "Tax Foundation",
