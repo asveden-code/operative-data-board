@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T10:02Z",
+ "generated_at": "2026-11-13T09:54Z",
  "window_days": {
   "press": 14,
   "think_tanks": 60
@@ -23,16 +23,16 @@
     "title": "UK economy grows at fastest rate for more than two years",
     "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o",
     "date": "2026-11-12",
-    "quote": "Between July and September, the economy expanded by 0.7%, accelerating from the three months previously, official figures show. […] The robust growth suggests a far more resilient economy than expected over the summer, despite the impact of higher energy prices from the Iran war. […] Strong growth in the services sector - the largest part of the economy, which includes non-physical goods such as consultancy services and computer programming as well as hotels and restaurants - helped boost the numbers. […] Within services, computer programming registered its fastest growth for the past three years, helped by AI linked spending.",
+    "quote": "Between July and September, the economy expanded by 0.7%, accelerating from the previous three months, official figures show. […] The robust growth suggests a far more resilient economy than expected over the summer, despite the impact of higher energy prices from the Iran war. […] Strong growth in the services sector - the largest part of the economy, which includes non-physical goods such as consultancy services and computer programming as well as hotels and restaurants - helped boost the numbers. […] Within services, computer programming registered its fastest growth for the past three years, helped by cloud computing and AI-linked spending.",
     "tag": "Fastest in two years",
     "verified": "page text",
     "pieces": [
-     "Between July and September, the economy expanded by 0.7%, accelerating from the three months previously, official figures show.",
+     "Between July and September, the economy expanded by 0.7%, accelerating from the previous three months, official figures show.",
      "The robust growth suggests a far more resilient economy than expected over the summer, despite the impact of higher energy prices from the Iran war.",
      "Strong growth in the services sector - the largest part of the economy, which includes non-physical goods such as consultancy services and computer programming as well as hotels and restaurants - helped boost the numbers.",
-     "Within services, computer programming registered its fastest growth for the past three years, helped by AI linked spending."
+     "Within services, computer programming registered its fastest growth for the past three years, helped by cloud computing and AI-linked spending."
     ],
-    "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o#:~:text=Between%20July%20and%20September%2C%20the%20economy%20expanded,three%20years%2C%20helped%20by%20AI%20linked%20spending."
+    "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o#:~:text=Between%20July%20and%20September%2C%20the%20economy%20expanded,helped%20by%20cloud%20computing%20and%20AI%2Dlinked%20spending."
    },
    {
     "source": "Resolution Foundation",
@@ -47,21 +47,6 @@
      "And getting inflation down won’t come cheap. In the Bank’s forecast, it hikes interest rates to nearly 5 per cent (although it has been at pains to stress that this is not a guide to future policy). Higher rates mean that growth is now expected to average a feeble 1.1 per cent annual pace over the next two years. More inflation and less growth add up to a nasty outlook for pay. Private-sector earnings are forecast to fall by 0.5 per cent in real terms next year, meaning the average worker in 2027 is set to be paid £390 less in real terms than they were in 2025."
     ],
     "link": "https://www.resolutionfoundation.org/comment/ignore-the-rate-rise-worry-about-the-forecast/#:~:text=The%20bigger%20story%20this%20week%20wasn%E2%80%99t%20the,real%20terms%20than%20they%20were%20in%202025."
-   },
-   {
-    "source": "BBC Business",
-    "title": "Faisal Islam: How high will interest rates go?",
-    "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o",
-    "date": "2026-11-05",
-    "quote": "The other notable factor is that the UK economy is performing much better than forecasts and expectations. This is underlined by the Bank of England's latest forecasts. […] Growth has been 0.6%, and 0.5% in the first two quarters of the year. It is heading for 0.7%, the Bank said, between July and September, before slowing in the three months to the end of the year. Unemployment has stabilised, actually falling a little. […] Some of this has fed through into a better performing currency, with sterling at its highest level since the Brexit referendum, when measured against a basket of currencies. This can help rein in inflation by making imports cheaper.",
-    "tag": "Above forecast",
-    "verified": "page text",
-    "pieces": [
-     "The other notable factor is that the UK economy is performing much better than forecasts and expectations. This is underlined by the Bank of England's latest forecasts.",
-     "Growth has been 0.6%, and 0.5% in the first two quarters of the year. It is heading for 0.7%, the Bank said, between July and September, before slowing in the three months to the end of the year. Unemployment has stabilised, actually falling a little.",
-     "Some of this has fed through into a better performing currency, with sterling at its highest level since the Brexit referendum, when measured against a basket of currencies. This can help rein in inflation by making imports cheaper."
-    ],
-    "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o#:~:text=The%20other%20notable%20factor%20is%20that%20the,rein%20in%20inflation%20by%20making%20imports%20cheaper."
    },
    {
     "source": "LSE British Politics and Policy",
@@ -103,6 +88,21 @@
      "A sharp rise in energy bills is forecast for January, which is likely to hit consumer spending and confidence, he said."
     ],
     "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o#:~:text=The%20latest%20figures%20put%20the%20UK%20on,hit%20consumer%20spending%20and%20confidence%2C%20he%20said."
+   },
+   {
+    "source": "BBC Business",
+    "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+    "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo",
+    "date": "2026-11-12",
+    "quote": "Spending on AI and tech have driven the surprise upside over the year. While the AI data centre boom may at any point turn to bust, these figures suggest that spending across the economy on investing in these technologies is helping to boost  growth. Consumers have been resilient, at least till the autumn, perhaps helped by better economic vibes. […] While there has been an understandable focus on high UK borrowing costs, another measure of the international standing of the UK economy, sterling's value, reached post Brexit referendum highs last week. […] Productivity and investment is also looking stronger, especially after recent revisions. Some of the most encouraging figures are in private sector business investment.",
+    "tag": null,
+    "verified": "page text",
+    "pieces": [
+     "Spending on AI and tech have driven the surprise upside over the year. While the AI data centre boom may at any point turn to bust, these figures suggest that spending across the economy on investing in these technologies is helping to boost  growth. Consumers have been resilient, at least till the autumn, perhaps helped by better economic vibes.",
+     "While there has been an understandable focus on high UK borrowing costs, another measure of the international standing of the UK economy, sterling's value, reached post Brexit referendum highs last week.",
+     "Productivity and investment is also looking stronger, especially after recent revisions. Some of the most encouraging figures are in private sector business investment."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo#:~:text=Spending%20on%20AI%20and%20tech%20have%20driven,figures%20are%20in%20private%20sector%20business%20investment."
    }
   ],
   "unemp": [
@@ -215,6 +215,19 @@
     "tag": "Contested estimate",
     "verified": "page text",
     "link": "https://blogs.lse.ac.uk/politicsandpolicy/does-falling-migration-spell-trouble-for-the-budget/#:~:text=Our%20data%20and%20knowledge%20is%20simply%20not,it%20succumbed%20to%20the%20temptations%20of%20short%2Dtermism."
+   },
+   {
+    "source": "Institute for Government",
+    "title": "Shabana Mahmood’s immigration plans have been badly handled from the start",
+    "url": "https://www.instituteforgovernment.org.uk/comment/shabana-mahmoods-immigration-plans-badly-handled",
+    "date": "2026-11-12",
+    "quote": "It would have been clear to the home secretary a year ago, as it was to onlookers, that net migration was already plummeting and that creating a policy with the purpose of delaying settlement for care workers would create opposition in the sector and among the public. But Mahmood’s ambition to drive down net migration led her to pursue sweeping changes to the settlement system, with little precedent and without buy-in from the cabinet or Labour backbenches.",
+    "tag": null,
+    "verified": "page text",
+    "pieces": [
+     "It would have been clear to the home secretary a year ago, as it was to onlookers, that net migration was already plummeting and that creating a policy with the purpose of delaying settlement for care workers would create opposition in the sector and among the public. But Mahmood’s ambition to drive down net migration led her to pursue sweeping changes to the settlement system, with little precedent and without buy-in from the cabinet or Labour backbenches."
+    ],
+    "link": "https://www.instituteforgovernment.org.uk/comment/shabana-mahmoods-immigration-plans-badly-handled#:~:text=It%20would%20have%20been%20clear%20to%20the,buy%2Din%20from%20the%20cabinet%20or%20Labour%20backbenches."
    },
    {
     "source": "LSE British Politics and Policy",
@@ -615,6 +628,20 @@
   ],
   "brent": [
    {
+    "source": "BBC Business",
+    "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+    "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo",
+    "date": "2026-11-12",
+    "quote": "The Iran conflict remains the big unknown and whether post the US midterm elections there could be a durable end to the conflict in the Gulf. […] Some oil and gas production there is starting to normalise. It could bring down petrol prices, energy bills, government borrowing costs, and mortgage costs too.",
+    "tag": "Supply normalising",
+    "verified": "page text",
+    "pieces": [
+     "The Iran conflict remains the big unknown and whether post the US midterm elections there could be a durable end to the conflict in the Gulf.",
+     "Some oil and gas production there is starting to normalise. It could bring down petrol prices, energy bills, government borrowing costs, and mortgage costs too."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo#:~:text=The%20Iran%20conflict%20remains%20the%20big%20unknown,government%20borrowing%20costs%2C%20and%20mortgage%20costs%20too."
+   },
+   {
     "source": "CNBC Economy",
     "title": "Brent crude briefly dips below $90 for first time since August on Iran hopes",
     "url": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html",
@@ -778,6 +805,20 @@
   ],
   "gulf": [
    {
+    "source": "BBC Business",
+    "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+    "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo",
+    "date": "2026-11-12",
+    "quote": "The Iran conflict remains the big unknown and whether post the US midterm elections there could be a durable end to the conflict in the Gulf. […] Some oil and gas production there is starting to normalise. It could bring down petrol prices, energy bills, government borrowing costs, and mortgage costs too.",
+    "tag": "Supply normalising",
+    "verified": "page text",
+    "pieces": [
+     "The Iran conflict remains the big unknown and whether post the US midterm elections there could be a durable end to the conflict in the Gulf.",
+     "Some oil and gas production there is starting to normalise. It could bring down petrol prices, energy bills, government borrowing costs, and mortgage costs too."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo#:~:text=The%20Iran%20conflict%20remains%20the%20big%20unknown,government%20borrowing%20costs%2C%20and%20mortgage%20costs%20too."
+   },
+   {
     "source": "CNBC Economy",
     "title": "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes",
     "url": "https://www.cnbc.com/2026/11/10/trump-iran-war-hormuz-.html",
@@ -851,18 +892,6 @@
     ],
     "verified": "page text",
     "link": "https://www.oxfordeconomics.com/resource/gcc-recovery-tracker-shows-initial-rebound-has-stalled/#:~:text=The%20GCC%20recovery%20tracker%20indicates%20a%20notable,remains%20at%20only%2077%25%20of%20pre%2Dconflict%20levels."
-   },
-   {
-    "source": "CNBC Economy",
-    "title": "Brent crude briefly dips below $90 for first time since August on Iran hopes",
-    "url": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html",
-    "date": "2026-11-10",
-    "quote": "Brent crude briefly dips below $90 for first time since August on Iran hopes. President Trump said Monday he thought the conflict was \"going to be ending fairly soon,\" but some analysts still see little chance of a lasting peace deal.",
-    "tag": null,
-    "verified": "publisher feed",
-    "headline": "Brent crude briefly dips below $90 for first time since August on Iran hopes",
-    "standfirst": "President Trump said Monday he thought the conflict was \"going to be ending fairly soon,\" but some analysts still see little chance of a lasting peace deal.",
-    "link": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html#:~:text=Brent%20crude%20briefly%20dips%20below%20%2490%20for%20first%20time%20since%20August%20on%20Iran%20hopes"
    }
   ],
   "ecb": [
@@ -903,30 +932,6 @@
     "link": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html#:~:text=Euro%20zone%20economy%20slows%20to%200.4%25%20growth%20in%20Q3%20as%20crisis%2Dhit%20France%20contracts"
    },
    {
-    "source": "CNBC Economy",
-    "title": "European Central Bank keeps key interest rate on hold at 2.5%",
-    "url": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
-    "date": "2026-10-29",
-    "quote": "European Central Bank keeps key interest rate on hold at 2.5%. Markets saw the decision as a hawkish pause and were last pricing in a 67% chance of a December rate hike.",
-    "tag": "Hawkish pause",
-    "verified": "publisher feed",
-    "headline": "European Central Bank keeps key interest rate on hold at 2.5%",
-    "standfirst": "Markets saw the decision as a hawkish pause and were last pricing in a 67% chance of a December rate hike.",
-    "link": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html#:~:text=European%20Central%20Bank%20keeps%20key%20interest%20rate%20on%20hold%20at%202.5%25"
-   },
-   {
-    "source": "CNBC Economy",
-    "title": "The politics of President Lagarde's European Central Bank early exit  — and who could replace her",
-    "url": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
-    "date": "2026-10-29",
-    "quote": "The politics of President Lagarde's European Central Bank early exit  — and who could replace her. European Central Bank President Christine Lagarde will step down on Feb. 7 next year, she announced Thursday.",
-    "tag": "Leadership change",
-    "verified": "publisher feed",
-    "headline": "The politics of President Lagarde's European Central Bank early exit  — and who could replace her",
-    "standfirst": "European Central Bank President Christine Lagarde will step down on Feb. 7 next year, she announced Thursday.",
-    "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html#:~:text=The%20politics%20of%20President%20Lagarde%27s%20European%20Central%20Bank%20early%20exit%20%20%E2%80%94%20and%20who%20could%20replace%20her"
-   },
-   {
     "source": "Bruegel",
     "title": "Ahead of a presidential election, France first needs to help itself on debt",
     "url": "https://www.bruegel.org/analysis/ahead-presidential-election-france-first-needs-help-itself-debt",
@@ -939,6 +944,20 @@
     "tag": "Sovereign stress",
     "verified": "page text",
     "link": "https://www.bruegel.org/analysis/ahead-presidential-election-france-first-needs-help-itself-debt#:~:text=Of%20all%20the%20sovereigns%20facing%20rising%20rates%2C,public%20debt%20and%20the%20French%20social%20model."
+   },
+   {
+    "source": "Bruegel",
+    "title": "Ahead of a presidential election, France first needs to help itself on debt",
+    "url": "https://www.bruegel.org/analysis/ahead-presidential-election-france-first-needs-help-itself-debt",
+    "date": "2026-10-12",
+    "quote": "The euro area is far better equipped for sovereign stress than it was in 2010-12, when concerns about government solvency spilled into banks and fragmented financing conditions across the currency union. Banks are now better capitalised, and the ECB has additional tools. But what the ECB can legitimately do in terms of bond purchases is narrow. Outright Monetary Transactions, under which the ECB could purchase short-term sovereign bonds, would require a European Stability Mechanism programme and associated conditionality for France. A French request for such a programme before the election is politically hard to imagine unless the crisis becomes extreme. […] That leaves the more-recent Transmission Protection Instrument (TPI) and other minor tweaks in current ECB policy and operations at the Governing Council’s disposal. The ECB could for instance decide to pause or slow the shrinking of its balance sheet in the face of rising yields across the euro area, similarly to the Bank of England for British government debt.",
+    "tag": null,
+    "verified": "page text",
+    "pieces": [
+     "The euro area is far better equipped for sovereign stress than it was in 2010-12, when concerns about government solvency spilled into banks and fragmented financing conditions across the currency union. Banks are now better capitalised, and the ECB has additional tools. But what the ECB can legitimately do in terms of bond purchases is narrow. Outright Monetary Transactions, under which the ECB could purchase short-term sovereign bonds, would require a European Stability Mechanism programme and associated conditionality for France6. A French request for such a programme before the election is politically hard to imagine unless the crisis becomes extreme.",
+     "That leaves the more-recent Transmission Protection Instrument (TPI) and other minor tweaks in current ECB policy and operations at the Governing Council’s disposal. The ECB could for instance decide to pause or slow the shrinking of its balance sheet in the face of rising yields across the euro area, similarly to the Bank of England for British government debt7."
+    ],
+    "link": "https://www.bruegel.org/analysis/ahead-presidential-election-france-first-needs-help-itself-debt#:~:text=The%20euro%20area%20is%20far%20better%20equipped,Bank%20of%20England%20for%20British%20government%20debt7."
    }
   ],
   "fed": [
@@ -980,30 +999,6 @@
     "headline": "A disturbing employment trend is hiding beneath the latest strong job numbers",
     "standfirst": "The average jobless worker's bout of unemployment surpassed 27 weeks in October, the highest outside of the pandemic period in a decade.",
     "link": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html#:~:text=A%20disturbing%20employment%20trend%20is%20hiding%20beneath%20the%20latest%20strong%20job%20numbers"
-   },
-   {
-    "source": "CNBC Economy",
-    "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
-    "url": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
-    "date": "2026-10-29",
-    "quote": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates. The personal consumption expenditures price index was projected to increase 0.5% in September for an annual rate of 3.7%, according to the Dow Jones consensus.",
-    "tag": "Above forecast",
-    "verified": "publisher feed",
-    "headline": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
-    "standfirst": "The personal consumption expenditures price index was projected to increase 0.5% in September for an annual rate of 3.7%, according to the Dow Jones consensus.",
-    "link": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html#:~:text=Third%2Dquarter%20U.S.%20GDP%20increases%20a%20better%2Dthan%2Dexpected%203.4%25%20as%20September%20inflation%20accelerates"
-   },
-   {
-    "source": "CNBC Economy",
-    "title": "Analysis: Kevin Warsh is keeping Wall Street guessing. It may be his most powerful tool",
-    "url": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
-    "date": "2026-10-29",
-    "quote": "Analysis: Kevin Warsh is keeping Wall Street guessing. It may be his most powerful tool. The new chairman made clear he leans toward higher interest rates, but left himself options depending on how the data comes in.",
-    "tag": "Hawkish lean",
-    "verified": "publisher feed",
-    "headline": "Analysis: Kevin Warsh is keeping Wall Street guessing. It may be his most powerful tool",
-    "standfirst": "The new chairman made clear he leans toward higher interest rates, but left himself options depending on how the data comes in.",
-    "link": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html#:~:text=Analysis%3A%20Kevin%20Warsh%20is%20keeping%20Wall%20Street%20guessing.%20It%20may%20be%20his%20most%20powerful%20tool"
    },
    {
     "source": "CNBC Economy",
@@ -1183,6 +1178,21 @@
     "link": "https://www.resolutionfoundation.org/comment/winter-is-coming-for-your-wallet/#:~:text=Plus%2C%20we%20found%20out%20that%20about%20half,hour%20less%20important%20than%20we%20previously%20thought."
    },
    {
+    "source": "BBC Business",
+    "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+    "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo",
+    "date": "2026-11-12",
+    "quote": "Spending on AI and tech have driven the surprise upside over the year. While the AI data centre boom may at any point turn to bust, these figures suggest that spending across the economy on investing in these technologies is helping to boost  growth. Consumers have been resilient, at least till the autumn, perhaps helped by better economic vibes. […] While there has been an understandable focus on high UK borrowing costs, another measure of the international standing of the UK economy, sterling's value, reached post Brexit referendum highs last week. […] Productivity and investment is also looking stronger, especially after recent revisions. Some of the most encouraging figures are in private sector business investment.",
+    "tag": null,
+    "verified": "page text",
+    "pieces": [
+     "Spending on AI and tech have driven the surprise upside over the year. While the AI data centre boom may at any point turn to bust, these figures suggest that spending across the economy on investing in these technologies is helping to boost  growth. Consumers have been resilient, at least till the autumn, perhaps helped by better economic vibes.",
+     "While there has been an understandable focus on high UK borrowing costs, another measure of the international standing of the UK economy, sterling's value, reached post Brexit referendum highs last week.",
+     "Productivity and investment is also looking stronger, especially after recent revisions. Some of the most encouraging figures are in private sector business investment."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo#:~:text=Spending%20on%20AI%20and%20tech%20have%20driven,figures%20are%20in%20private%20sector%20business%20investment."
+   },
+   {
     "source": "Oxford Economics",
     "title": "Which sectors are the winners from the AI breakthrough",
     "url": "https://www.oxfordeconomics.com/resource/which-sectors-are-the-winners-from-the-ai-breakthrough/",
@@ -1209,19 +1219,6 @@
     "tag": null,
     "verified": "page text",
     "link": "https://blogs.lse.ac.uk/politicsandpolicy/the-2026-budget-buys-stability-and-points-in-the-right-direction-on-growth/#:~:text=Growth%20is%20what%20generates%20the%20tax%20receipts,business%20investment%20is%20encouraged%20and%20confidence%20maintained."
-   },
-   {
-    "source": "LSE British Politics and Policy",
-    "title": "Does falling migration spell trouble for the Budget?",
-    "url": "https://blogs.lse.ac.uk/politicsandpolicy/does-falling-migration-spell-trouble-for-the-budget/",
-    "date": "2026-10-20",
-    "quote": "The OBR estimates may also be optimistic in their baseline assumption that investment responds positively to higher migration, leaving the long-run capital-labour ratio unaffected. If this was right, we should be in the middle of an investment boom right now – net migration was about 2.5 per cent of population in 2021/23 – if the capital-output ratio is about 4 this requires extra investment of 10 per cent of GDP to maintain the capital labour ratio. But we do not seem to be experiencing an investment boom. The latest flash productivity estimates show productivity per worker falling in the period of very high net migration and now growing again with lower migration. Some commentators are arguing that higher productivity growth is because of the type of reductions in migration– I don’t think we have enough evidence to be so confident but it is an argument that needs to be taken seriously and, if true, also implies that the fiscal cost of reductions in net migration is much lower than thought, perhaps not negative at all.",
-    "pieces": [
-     "The OBR estimates may also be optimistic in their baseline assumption that investment responds positively to higher migration, leaving the long-run capital-labour ratio unaffected. If this was right, we should be in the middle of an investment boom right now – net migration was about 2.5 per cent of population in 2021/23 – if the capital-output ratio is about 4 this requires extra investment of 10 per cent of GDP to maintain the capital labour ratio. But we do not seem to be experiencing an investment boom. The latest flash productivity estimates show productivity per worker falling in the period of very high net migration and now growing again with lower migration. Some commentators are arguing that higher productivity growth is because of the type of reductions in migration– I don’t think we have enough evidence to be so confident but it is an argument that needs to be taken seriously and, if true, also implies that the fiscal cost of reductions in net migration is much lower than thought, perhaps not negative at all."
-    ],
-    "tag": null,
-    "verified": "page text",
-    "link": "https://blogs.lse.ac.uk/politicsandpolicy/does-falling-migration-spell-trouble-for-the-budget/#:~:text=The%20OBR%20estimates%20may%20also%20be%20optimistic,than%20thought%2C%20perhaps%20not%20negative%20at%20all."
    }
   ],
   "food": [
