@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T09:54Z",
+ "generated_at": "2026-11-16T10:21Z",
  "window_days": {
   "press": 14,
   "think_tanks": 60
@@ -18,6 +18,19 @@
  ],
  "quotes": {
   "gdp": [
+   {
+    "source": "NIESR",
+    "title": "Are We In The ‘Foothills’ Of AI-Driven Growth?",
+    "url": "https://niesr.ac.uk/blog/are-we-foothills-ai-driven-growth",
+    "date": "2026-11-13",
+    "quote": "It seems we finally have some good economic news to cheer about. GDP grew by 0.7 per cent in Q3, making the UK the second-fastest-growing economy in the G7, behind only the US. This was the fastest quarterly growth since the end of 2017 excluding the post-pandemic recovery (although growth at this rate was normal before the pandemic). So, in this post we dig into whether we are seeing the start of an AI-driven growth boom as some in government have claimed, drawing out the implications for the labour market and interest rates as well as the broader economy.",
+    "tag": "Fastest since 2017",
+    "verified": "page text",
+    "pieces": [
+     "It seems we finally have some good economic news to cheer about. GDP grew by 0.7 per cent in Q3, making the UK the second-fastest-growing economy in the G7, behind only the US. This was the fastest quarterly growth since the end of 2017 excluding the post-pandemic recovery (although growth at this rate was normal before the pandemic). So, in this post we dig into whether we are seeing the start of an AI-driven growth boom as some in government have claimed, drawing out the implications for the labour market and interest rates as well as the broader economy."
+    ],
+    "link": "https://niesr.ac.uk/blog/are-we-foothills-ai-driven-growth#:~:text=It%20seems%20we%20finally%20have%20some%20good,rates%20as%20well%20as%20the%20broader%20economy."
+   },
    {
     "source": "BBC Business",
     "title": "UK economy grows at fastest rate for more than two years",
@@ -75,19 +88,17 @@
     "link": "https://niesr.ac.uk/blog/minimal-credibility-test-autumn-2026-budget#:~:text=Growth%20has%20proved%20far%20more%20resilient%20than,percentage%20point%20below%20the%20OBR%E2%80%99s%20March%20forecast."
    },
    {
-    "source": "BBC Business",
-    "title": "UK economy grows at fastest rate for more than two years",
-    "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o",
-    "date": "2026-11-12",
-    "quote": "The latest figures put the UK on course to be the second fastest growing economy across the major G7 countries which also includes Canada, Japan, Germany, Italy and France. […] However, Jake Finney, senior economist at consultancy PwC, cautioned that growth was likely to slow over the coming months \"unless energy markets stabilise\". […] A sharp rise in energy bills is forecast for January, which is likely to hit consumer spending and confidence, he said.",
+    "source": "NIESR",
+    "title": "Are We In The ‘Foothills’ Of AI-Driven Growth?",
+    "url": "https://niesr.ac.uk/blog/are-we-foothills-ai-driven-growth",
+    "date": "2026-11-13",
+    "quote": "The first place to look for the effect of AI is in the investment needed for its infrastructure. Spending on data centres, servers, semiconductors, connections to the power grid, and the software itself should show up as a boost to investment. In that context, it’s encouraging that investment has been strong in recent quarters – contributing around half of GDP growth in Q3. More compellingly, if we look at the assets that are being invested in – as shown in Figure 1 – it’s ICT equipment and buildings where investment is concentrated. So this picture is at least consistent with a growth bump from AI investment, albeit this is very much circumstantial evidence. It’s also important to stress that the contribution to UK GDP will depend on the extent to which this new infrastructure is imported, and how much is produced at home and in that context, it’s striking that net trade was a drag on GDP in the latest data. This is something that we should expect to continue.",
     "tag": null,
     "verified": "page text",
     "pieces": [
-     "The latest figures put the UK on course to be the second fastest growing economy across the major G7 countries which also includes Canada, Japan, Germany, Italy and France.",
-     "However, Jake Finney, senior economist at consultancy PwC, cautioned that growth was likely to slow over the coming months \"unless energy markets stabilise\".",
-     "A sharp rise in energy bills is forecast for January, which is likely to hit consumer spending and confidence, he said."
+     "The first place to look for the effect of AI is in the investment needed for its infrastructure. Spending on data centres, servers, semiconductors, connections to the power grid, and the software itself should show up as a boost to investment. In that context, it’s encouraging that investment has been strong in recent quarters – contributing around half of GDP growth in Q3. More compellingly, if we look at the assets that are being invested in – as shown in Figure 1 – it’s ICT equipment and buildings where investment is concentrated. So this picture is at least consistent with a growth bump from AI investment, albeit this is very much circumstantial evidence. It’s also important to stress that the contribution to UK GDP will depend on the extent to which this new infrastructure is imported, and how much is produced at home and in that context, it’s striking that net trade was a drag on GDP in the latest data. This is something that we should expect to continue."
     ],
-    "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o#:~:text=The%20latest%20figures%20put%20the%20UK%20on,hit%20consumer%20spending%20and%20confidence%2C%20he%20said."
+    "link": "https://niesr.ac.uk/blog/are-we-foothills-ai-driven-growth#:~:text=The%20first%20place%20to%20look%20for%20the,something%20that%20we%20should%20expect%20to%20continue."
    },
    {
     "source": "BBC Business",
@@ -106,6 +117,34 @@
    }
   ],
   "unemp": [
+   {
+    "source": "BBC Business",
+    "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
+    "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko",
+    "date": "2026-11-16",
+    "quote": "To help create more jobs for under-25s, national Insurance (NI) paid by businesses on these workers should be gradually lowered, a major report will urge. […] There are nearly one million16-24 year-olds not in employment, education or training (Neets) in the UK, official figures show. […] Reducing NI costs for firms starting with retail and hospitality firms - which provide almost 40% of jobs for these people - will help improve their opportunities, the report will suggest.",
+    "tag": "Milburn review",
+    "verified": "page text",
+    "pieces": [
+     "To help create more jobs for under-25s, national Insurance (NI) paid by businesses on these workers should be gradually lowered, a major report will urge.",
+     "There are nearly one million16-24 year-olds not in employment, education or training (Neets) in the UK, official figures show.",
+     "Reducing NI costs for firms starting with retail and hospitality firms - which provide almost 40% of jobs for these people - will help improve their opportunities, the report will suggest."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko#:~:text=To%20help%20create%20more%20jobs%20for%20under%2D25s%2C,improve%20their%20opportunities%2C%20the%20report%20will%20suggest."
+   },
+   {
+    "source": "NIESR",
+    "title": "Are We In The ‘Foothills’ Of AI-Driven Growth?",
+    "url": "https://niesr.ac.uk/blog/are-we-foothills-ai-driven-growth",
+    "date": "2026-11-13",
+    "quote": "The other potential dark cloud to the silver lining of AI-driven growth could come from the labour market. The context here is the warning issued this week from central banks that AI – among other factors – is leading to lower labour demand, putting downward pressure on hiring. Figure 5 provides some extra evidence here, showing that around one in ten businesses expect AI to reduce their headcount in the future, roughly double the 6 per cent already reporting AI-related reductions. By contrast, only 2 per cent anticipate a positive impact. In short, if we are in the foothills of AI-driven growth, then we are likely also at the very beginning of the labour market churn that comes with it.",
+    "tag": "Lower labour demand",
+    "verified": "page text",
+    "pieces": [
+     "The other potential dark cloud to the silver lining of AI-driven growth could come from the labour market. The context here is the warning issued this week from central banks that AI – among other factors – is leading to lower labour demand, putting downward pressure on hiring. Figure 5 provides some extra evidence here, showing that around one in ten businesses expect AI to reduce their headcount in the future, roughly double the 6 per cent already reporting AI-related reductions. By contrast, only 2 per cent anticipate a positive impact. In short, if we are in the foothills of AI-driven growth, then we are likely also at the very beginning of the labour market churn that comes with it."
+    ],
+    "link": "https://niesr.ac.uk/blog/are-we-foothills-ai-driven-growth#:~:text=The%20other%20potential%20dark%20cloud%20to%20the,labour%20market%20churn%20that%20comes%20with%20it."
+   },
    {
     "source": "BBC Business",
     "title": "Faisal Islam: How high will interest rates go?",
@@ -162,19 +201,6 @@
     "link": "https://blogs.lse.ac.uk/politicsandpolicy/the-budget-should-not-price-young-people-out-of-work/#:~:text=If%20you%20raise%20the%20price%20of%20a,anything%20in%20the%20Commission%E2%80%99s%20known%20evidence%20base."
    },
    {
-    "source": "NIESR",
-    "title": "The Minimal Credibility Test For The Autumn 2026 Budget",
-    "url": "https://niesr.ac.uk/blog/minimal-credibility-test-autumn-2026-budget",
-    "date": "2026-10-23",
-    "quote": "Growth has proved far more resilient than almost anyone expected in March. GDP has grown by 1.8 per cent so far this year, with four months still to go. That is remarkable, and it exceeds anyone’s estimate of trend; our own is 1.3 per cent. The labour market tells the same story. Unemployment has fallen since the start of the year and is now half a percentage point below the OBR’s March forecast.",
-    "pieces": [
-     "Growth has proved far more resilient than almost anyone expected in March. GDP has grown by 1.8 per cent so far this year, with four months still to go. That is remarkable, and it exceeds anyone’s estimate of trend; our own is 1.3 per cent. The labour market tells the same story. Unemployment has fallen since the start of the year and is now half a percentage point below the OBR’s March forecast."
-    ],
-    "tag": "Below forecast",
-    "verified": "page text",
-    "link": "https://niesr.ac.uk/blog/minimal-credibility-test-autumn-2026-budget#:~:text=Growth%20has%20proved%20far%20more%20resilient%20than,percentage%20point%20below%20the%20OBR%E2%80%99s%20March%20forecast."
-   },
-   {
     "source": "Resolution Foundation",
     "title": "Is the minimum wage to blame for falling youth employment?",
     "url": "https://www.resolutionfoundation.org/comment/is-the-minimum-wage-to-blame-for-falling-youth-employment/",
@@ -187,19 +213,6 @@
     "tag": "Structural shift",
     "verified": "page text",
     "link": "https://www.resolutionfoundation.org/comment/is-the-minimum-wage-to-blame-for-falling-youth-employment/#:~:text=Employment%20rates%20among%2018%2D24%20and%2025%2D64%2Dyear%2Dolds%20fully,participation%2C%20or%20by%20population%20or%20migration%20changes."
-   },
-   {
-    "source": "Resolution Foundation",
-    "title": "Is the minimum wage to blame for falling youth employment?",
-    "url": "https://www.resolutionfoundation.org/comment/is-the-minimum-wage-to-blame-for-falling-youth-employment/",
-    "date": "2026-10-20",
-    "quote": "What if this is all structural change, not policy? Perhaps the shape of the economy shifted against the young. Retail and wholesale jobs never recovered post-Covid and have been falling since 2022, while hospitality jobs have fallen since 2023. Together those sectors account for 2-in-5 youth jobs, and they stopped adding jobs just as more young people needed work. You can tell a story of big forces here: online shopping; automated warehouses; and a preference for screens to seeing our mates.",
-    "pieces": [
-     "What if this is all structural change, not policy? Perhaps the shape of the economy shifted against the young. Retail and wholesale jobs never recovered post-Covid and have been falling since 2022, while hospitality jobs have fallen since 2023. Together those sectors account for 2-in-5 youth jobs, and they stopped adding jobs just as more young people needed work. You can tell a story of big forces here: online shopping; automated warehouses; and a preference for screens to seeing our mates."
-    ],
-    "tag": null,
-    "verified": "page text",
-    "link": "https://www.resolutionfoundation.org/comment/is-the-minimum-wage-to-blame-for-falling-youth-employment/#:~:text=What%20if%20this%20is%20all%20structural%20change%2C,preference%20for%20screens%20to%20seeing%20our%20mates."
    }
   ],
   "pop": [
@@ -257,6 +270,19 @@
    }
   ],
   "earn": [
+   {
+    "source": "Resolution Foundation",
+    "title": "You’ve got mail (finally): your Milburn cram sheet inside",
+    "url": "https://www.resolutionfoundation.org/comment/youve-got-mail-finally-your-milburn-cram-sheet-inside/",
+    "date": "2026-11-13",
+    "quote": "GDP grew 0.7 per cent in Q3, putting our year-to-date growth second in the G7, behind only the US. Sadly, household incomes aren’t following – while real GDP per person has grown by 2.6% over the past two years, real household disposable income per person has been essentially flat.",
+    "tag": "Incomes flat",
+    "verified": "page text",
+    "pieces": [
+     "GDP grew 0.7 per cent in Q3, putting our year-to-date growth second in the G7, behind only the US. Sadly, household incomes aren’t following – while real GDP per person has grown by 2.6% over the past two years, real household disposable income per person has been essentially flat."
+    ],
+    "link": "https://www.resolutionfoundation.org/comment/youve-got-mail-finally-your-milburn-cram-sheet-inside/#:~:text=GDP%20grew%200.7%20per%20cent%20in%20Q3%2C,income%20per%20person%20has%20been%20essentially%20flat."
+   },
    {
     "source": "Resolution Foundation",
     "title": "Ignore the rate rise, worry about the forecast",
@@ -531,6 +557,19 @@
   "gilt": [
    {
     "source": "NIESR",
+    "title": "Are We In The ‘Foothills’ Of AI-Driven Growth?",
+    "url": "https://niesr.ac.uk/blog/are-we-foothills-ai-driven-growth",
+    "date": "2026-11-13",
+    "quote": "Indeed, as set out in our recent Market Anatomy, around a third of the rise in gilt yields since February seems likely to be attributed to the rise in demand from AI investment. If we are only a tenth of the way through the buildout, there will be more upward pressure on interest rates, tightening financial conditions and dampening UK economic activity. An implication of this is that the Chancellor should certainly not bank on a fall in the cost of borrowing providing a substantial boost to the public finances in the near future.",
+    "tag": "AI demand lifts yields",
+    "verified": "page text",
+    "pieces": [
+     "Indeed, as set out in our recent Market Anatomy, around a third of the rise in gilt yields since February seems likely to be attributed to the rise in demand from AI investment. If we are only a tenth of the way through the buildout, there will be more upward pressure on interest rates, tightening financial conditions and dampening UK economic activity. An implication of this is that the Chancellor should certainly not bank on a fall in the cost of borrowing providing a substantial boost to the public finances in the near future."
+    ],
+    "link": "https://niesr.ac.uk/blog/are-we-foothills-ai-driven-growth#:~:text=Indeed%2C%20as%20set%20out%20in%20our%20recent,the%20public%20finances%20in%20the%20near%20future."
+   },
+   {
+    "source": "NIESR",
     "title": "How Is The UK’s Deficit Reduction Plan (Actually) Likely To Proceed?",
     "url": "https://niesr.ac.uk/blog/how-uks-deficit-reduction-plan-actually-likely-proceed",
     "date": "2026-10-30",
@@ -609,24 +648,21 @@
      "The prize here would be lower gilt yields. NIESR’s Laubach-style regression results suggest that each percentage point of projected deficit adds 15-20 basis points on the 10-year gilt yield. So a plan that credible delivers 1.5-2 points of primary surplus relative to the credible path could be expected to take 25 to 40 basis points off gilt yields, worth over £10bn each year in debt interest—with wider effects for the whole economy. That would be a credibility dividend worth buying."
     ],
     "link": "https://niesr.ac.uk/blog/how-uks-deficit-reduction-plan-actually-likely-proceed#:~:text=The%20prize%20here%20would%20be%20lower%20gilt,would%20be%20a%20credibility%20dividend%20worth%20buying."
-   },
-   {
-    "source": "NIESR",
-    "title": "Breathing Space, Not a Strategy",
-    "url": "https://niesr.ac.uk/blog/breathing-space-not-strategy",
-    "date": "2026-10-28",
-    "quote": "UK ten-year gilt yields remain the highest in the G7, leaving the public finances exposed to shifts in market sentiment. In our judgement, this strengthens the case for building fiscal buffers. The Chancellor’s decision to reduce headroom by £9 billion therefore leaves the government vulnerable to future shocks. […] This is underscored by the path for debt interest now being higher than was set out in March 2026. By the end of the decade UK debt interest is expected to rise to around £150 billion annually – more than the government currently spends on education. […] A credible fiscal strategy could help to reduce debt interest. Even modest fiscal restraint could deliver a credibility dividend of 10-20 basis points off gilt rates (worth around £1-2 billion a year by the end of the parliament).",
-    "pieces": [
-     "UK ten-year gilt yields remain the highest in the G7, leaving the public finances exposed to shifts in market sentiment. In our judgement, this strengthens the case for building fiscal buffers. The Chancellor’s decision to reduce headroom by £9 billion therefore leaves the government vulnerable to future shocks.",
-     "This is underscored by the path for debt interest now being higher than was set out in March 2026. By the end of the decade UK debt interest is expected to rise to around £150 billion annually – more than the government currently spends on education.",
-     "A credible fiscal strategy could help to reduce debt interest. Even modest fiscal restraint could deliver a credibility dividend of 10-20 basis points off gilt rates (worth around £1-2 billion a year by the end of the parliament)."
-    ],
-    "tag": null,
-    "verified": "page text",
-    "link": "https://niesr.ac.uk/blog/breathing-space-not-strategy#:~:text=UK%20ten%2Dyear%20gilt%20yields%20remain%20the%20highest,year%20by%20the%20end%20of%20the%20parliament%29."
    }
   ],
   "brent": [
+   {
+    "source": "CNBC Economy",
+    "title": "Russian crude production rebounds after Trump diesel deal, IEA says as oil markets return to surplus",
+    "url": "https://www.cnbc.com/2026/11/13/russia-oil-exports-iea-diesel-deal.html",
+    "date": "2026-11-13",
+    "quote": "Russian crude production rebounds after Trump diesel deal, IEA says as oil markets return to surplus. Russia’s crude output rose to 8.73 million barrels a day in October as recovering Gulf exports pushed global supply above demand, the IEA said.",
+    "tag": "Market in surplus",
+    "verified": "publisher feed",
+    "headline": "Russian crude production rebounds after Trump diesel deal, IEA says as oil markets return to surplus",
+    "standfirst": "Russia’s crude output rose to 8.73 million barrels a day in October as recovering Gulf exports pushed global supply above demand, the IEA said.",
+    "link": "https://www.cnbc.com/2026/11/13/russia-oil-exports-iea-diesel-deal.html#:~:text=Russian%20crude%20production%20rebounds%20after%20Trump%20diesel%20deal%2C%20IEA%20says%20as%20oil%20markets%20return%20to%20surplus"
+   },
    {
     "source": "BBC Business",
     "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
@@ -708,6 +744,21 @@
   "gas": [
    {
     "source": "BBC Business",
+    "title": "Gas starts flowing from Jackdaw after government green light",
+    "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po",
+    "date": "2026-11-16",
+    "quote": "Adura has said Jackdaw will provide about 6% of UK gas production, enough to power 1.4 million homes. After imports are included, that amounts to about 2% of total UK demand. […] The gas will be pumped to the existing Shearwater platform for processing – known as a tie-back in industry terms – before being piped to the St Fergus gas terminal in Aberdeenshire. […] The UK government said that over its expected 11-year lifespan, Jackdaw would support the UK's gas supply, protect hundreds of jobs and add £2.9bn to the economy.",
+    "tag": "Jackdaw onstream",
+    "verified": "page text",
+    "pieces": [
+     "Adura has said Jackdaw will provide about 6% of UK gas production, enough to power 1.4 million homes. After imports are included, that amounts to about 2% of total UK demand.",
+     "The gas will be pumped to the existing Shearwater platform for processing – known as a tie-back in industry terms – before being piped to the St Fergus gas terminal in Aberdeenshire.",
+     "The UK government said that over its expected 11-year lifespan, Jackdaw would support the UK's gas supply, protect hundreds of jobs and add £2.9bn to the economy."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po#:~:text=Adura%20has%20said%20Jackdaw%20will%20provide%20about,jobs%20and%20add%20%C2%A32.9bn%20to%20the%20economy."
+   },
+   {
+    "source": "BBC Business",
     "title": "The superpower battle over energy – and what it means for your bills",
     "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o",
     "date": "2026-11-10",
@@ -748,18 +799,6 @@
      "And yet on the day they have announced the rate rise, the oil price is actually 13% lower than that having fallen in the run up and after the US mid term elections, reflecting expectations or guesses that President Trump will now retreat or deescalate from the Iran war."
     ],
     "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o#:~:text=The%20Bank%27s%20forecasts%20indicate%20inflation%20is%20heading,retreat%20or%20deescalate%20from%20the%20Iran%20war."
-   },
-   {
-    "source": "CNBC Economy",
-    "title": "A cold winter risks another gas price shock in Europe as stocks dwindle to record lows",
-    "url": "https://www.cnbc.com/2026/10/30/europe-gas-prices-winter-energy-costs.html",
-    "date": "2026-10-30",
-    "quote": "A cold winter risks another gas price shock in Europe as stocks dwindle to record lows. Gas prices topped 100 euros per MWh as EU storage hovers at record lows, raising the risk of sharper price swings in the event of a harsher winter.",
-    "tag": "Record low storage",
-    "verified": "publisher feed",
-    "headline": "A cold winter risks another gas price shock in Europe as stocks dwindle to record lows",
-    "standfirst": "Gas prices topped 100 euros per MWh as EU storage hovers at record lows, raising the risk of sharper price swings in the event of a harsher winter.",
-    "link": "https://www.cnbc.com/2026/10/30/europe-gas-prices-winter-energy-costs.html#:~:text=A%20cold%20winter%20risks%20another%20gas%20price%20shock%20in%20Europe%20as%20stocks%20dwindle%20to%20record%20lows"
    },
    {
     "source": "Resolution Foundation",
@@ -804,6 +843,18 @@
    }
   ],
   "gulf": [
+   {
+    "source": "CNBC Economy",
+    "title": "Russian crude production rebounds after Trump diesel deal, IEA says as oil markets return to surplus",
+    "url": "https://www.cnbc.com/2026/11/13/russia-oil-exports-iea-diesel-deal.html",
+    "date": "2026-11-13",
+    "quote": "Russian crude production rebounds after Trump diesel deal, IEA says as oil markets return to surplus. Russia’s crude output rose to 8.73 million barrels a day in October as recovering Gulf exports pushed global supply above demand, the IEA said.",
+    "tag": "Gulf exports recovering",
+    "verified": "publisher feed",
+    "headline": "Russian crude production rebounds after Trump diesel deal, IEA says as oil markets return to surplus",
+    "standfirst": "Russia’s crude output rose to 8.73 million barrels a day in October as recovering Gulf exports pushed global supply above demand, the IEA said.",
+    "link": "https://www.cnbc.com/2026/11/13/russia-oil-exports-iea-diesel-deal.html#:~:text=Russian%20crude%20production%20rebounds%20after%20Trump%20diesel%20deal%2C%20IEA%20says%20as%20oil%20markets%20return%20to%20surplus"
+   },
    {
     "source": "BBC Business",
     "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
@@ -868,18 +919,6 @@
     "link": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html#:~:text=U.S.%20strikes%20Iran%E2%80%99s%20Qeshm%20Island%20as%20Vance%20hopes%20for%20%E2%80%98negotiated%20settlement%E2%80%99%20with%20Tehran"
    },
    {
-    "source": "CNBC Economy",
-    "title": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
-    "url": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
-    "date": "2026-10-30",
-    "quote": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz. Soaring freight rates are giving tankers a big financial incentive to run the gauntlet through the Strait of Hormuz.",
-    "tag": "Freight rates soar",
-    "verified": "publisher feed",
-    "headline": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
-    "standfirst": "Soaring freight rates are giving tankers a big financial incentive to run the gauntlet through the Strait of Hormuz.",
-    "link": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html#:~:text=Tankers%20defy%20sharp%20escalation%20of%20Iranian%20attacks%20to%20keep%20crude%20oil%20flowing%20through%20Strait%20of%20Hormuz"
-   },
-   {
     "source": "Oxford Economics",
     "title": "GCC recovery tracker shows initial rebound has stalled",
     "url": "https://www.oxfordeconomics.com/resource/gcc-recovery-tracker-shows-initial-rebound-has-stalled/",
@@ -920,18 +959,6 @@
     "link": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html#:~:text=Euro%20zone%20inflation%20hits%204%25%20for%20first%20time%20in%20three%20years%20as%20interest%20rate%20hike%20looms"
    },
    {
-    "source": "CNBC Economy",
-    "title": "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
-    "url": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html",
-    "date": "2026-10-30",
-    "quote": "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts. The euro zone showed surprising resilience, but weak productivity, industrial competitiveness challenges and demographic pressures remain, analysts said.",
-    "tag": "France contracts",
-    "verified": "publisher feed",
-    "headline": "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
-    "standfirst": "The euro zone showed surprising resilience, but weak productivity, industrial competitiveness challenges and demographic pressures remain, analysts said.",
-    "link": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html#:~:text=Euro%20zone%20economy%20slows%20to%200.4%25%20growth%20in%20Q3%20as%20crisis%2Dhit%20France%20contracts"
-   },
-   {
     "source": "Bruegel",
     "title": "Ahead of a presidential election, France first needs to help itself on debt",
     "url": "https://www.bruegel.org/analysis/ahead-presidential-election-france-first-needs-help-itself-debt",
@@ -961,6 +988,30 @@
    }
   ],
   "fed": [
+   {
+    "source": "CNBC Economy",
+    "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
+    "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
+    "date": "2026-11-13",
+    "quote": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years. The producer price index was expected to increase 0.4% in October, according to the Dow Jones consensus.",
+    "tag": "PPI highest in 4 years",
+    "verified": "publisher feed",
+    "headline": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
+    "standfirst": "The producer price index was expected to increase 0.4% in October, according to the Dow Jones consensus.",
+    "link": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html#:~:text=Wholesale%20prices%20rose%200.3%25%20in%20October%2C%20putting%20annual%20rate%20at%206.5%25%2C%20the%20highest%20in%20nearly%20four%20years"
+   },
+   {
+    "source": "CNBC Economy",
+    "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
+    "url": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
+    "date": "2026-11-13",
+    "quote": "AI risks are the biggest threat to the financial system, Fed survey finds. The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers.",
+    "tag": "Stability warning",
+    "verified": "publisher feed",
+    "headline": "AI risks are the biggest threat to the financial system, Fed survey finds",
+    "standfirst": "The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers.",
+    "link": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html#:~:text=AI%20risks%20are%20the%20biggest%20threat%20to%20the%20financial%20system%2C%20Fed%20survey%20finds"
+   },
    {
     "source": "BBC Business",
     "title": "US inflation higher than expected in October - here's what is happening with prices",
@@ -1165,17 +1216,30 @@
     "link": "https://niesr.ac.uk/blog/has-fiscal-policy-adjusted-world-higher-interest-rates#:~:text=The%20benign%20reading%20of%20higher%20real%20rates,the%20implications%20for%20future%20growth%20are%20unclear."
    },
    {
-    "source": "Resolution Foundation",
-    "title": "Winter is coming (for your wallet)",
-    "url": "https://www.resolutionfoundation.org/comment/winter-is-coming-for-your-wallet/",
-    "date": "2026-09-18",
-    "quote": "Plus, we found out that about half the UK’s productivity puzzle is now thought to evaporate, as the hours everyone was working were being overestimated. Of course, total output, living standards and government revenues remain the same – so we aren’t any better off as a result. But in our post-financial crisis economic history, fewer hours per job looks to be a more important, and declining output per hour less important than we previously thought.",
-    "pieces": [
-     "Plus, we found out that about half the UK’s productivity puzzle is now thought to evaporate, as the hours everyone was working were being overestimated. Of course, total output, living standards and government revenues remain the same – so we aren’t any better off as a result. But in our post-financial crisis economic history, fewer hours per job looks to be a more important, and declining output per hour less important than we previously thought."
-    ],
-    "tag": "Data revision",
+    "source": "NIESR",
+    "title": "Are We In The ‘Foothills’ Of AI-Driven Growth?",
+    "url": "https://niesr.ac.uk/blog/are-we-foothills-ai-driven-growth",
+    "date": "2026-11-13",
+    "quote": "To put some flesh on the bones of our AI-related inferences, we can look to the ONS Business Insights and Conditions Survey, which has tracked AI adoption across firms since late-2023. Unsurprisingly, the ICT sector leads the pack with 60 per cent of firms confirming their use of AI in the latest vintage, up from 30 per cent in the first. Professional services follow in second place, at two-fifths of firms. At the other end of the scale, fewer than 20 per cent of firms in the hospitality and construction sectors report AI usage. Figure 4 shows that differences in adoption have broadly mapped onto output growth over the past year: not only have AI-intensive sectors led growth, but year-on-year declines in output have been concentrated in sectors with fewer than one in five firms using AI.",
+    "tag": null,
     "verified": "page text",
-    "link": "https://www.resolutionfoundation.org/comment/winter-is-coming-for-your-wallet/#:~:text=Plus%2C%20we%20found%20out%20that%20about%20half,hour%20less%20important%20than%20we%20previously%20thought."
+    "pieces": [
+     "To put some flesh on the bones of our AI-related inferences, we can look to the ONS Business Insights and Conditions Survey, which has tracked AI adoption across firms since late-2023. Unsurprisingly, the ICT sector leads the pack with 60 per cent of firms confirming their use of AI in the latest vintage, up from 30 per cent in the first. Professional services follow in second place, at two-fifths of firms. At the other end of the scale, fewer than 20 per cent of firms in the hospitality and construction sectors report AI usage. Figure 4 shows that differences in adoption have broadly mapped onto output growth over the past year: not only have AI-intensive sectors led growth, but year-on-year declines in output have been concentrated in sectors with fewer than one in five firms using AI."
+    ],
+    "link": "https://niesr.ac.uk/blog/are-we-foothills-ai-driven-growth#:~:text=To%20put%20some%20flesh%20on%20the%20bones,than%20one%20in%20five%20firms%20using%20AI."
+   },
+   {
+    "source": "NIESR",
+    "title": "Are We In The ‘Foothills’ Of AI-Driven Growth?",
+    "url": "https://niesr.ac.uk/blog/are-we-foothills-ai-driven-growth",
+    "date": "2026-11-13",
+    "quote": "Seeing early signs of AI-related activity is particularly encouraging given that there are good reasons to think such gains should emerge slowly. Any company starting to use a new technology may initially see productivity fall given time taken to understand how to use the technology and, for example, make the complementary investments required to realise its potential. This includes significant complementary investments in intangible capital, including redesigning processes, training workers, restructuring the organisation and developing new products and approaches. This means AI may actively reduce measured output and productivity in the near term. But, as firms exploit the technology the gains should become apparent. Academic work for the US that digs into this AI J-curve finds that unmeasured intangible investment associated with computer hardware and software raises so-called total factor productivity. As Robert Solow put it during the ICT boom of the 1990s: “you can see the computer age everywhere but in the productivity statistics”",
+    "tag": null,
+    "verified": "page text",
+    "pieces": [
+     "Seeing early signs of AI-related activity is particularly encouraging given that there are good reasons to think such gains should emerge slowly. Any company starting to use a new technology may initially see productivity fall given time taken to understand how to use the technology and, for example, make the complementary investments required to realise its potential. This includes significant complementary investments in intangible capital, including redesigning processes, training workers, restructuring the organisation and developing new products and approaches. This means AI may actively reduce measured output and productivity in the near term. But, as firms exploit the technology the gains should become apparent. Academic work for the US that digs into this AI J-curve finds that unmeasured intangible investment associated with computer hardware and software raises so-called total factor productivity. As Robert Solow put it during the ICT boom of the 1990s: “you can see the computer age everywhere but in the productivity statistics”"
+    ],
+    "link": "https://niesr.ac.uk/blog/are-we-foothills-ai-driven-growth#:~:text=Seeing%20early%20signs%20of%20AI%2Drelated%20activity%20is,age%20everywhere%20but%20in%20the%20productivity%20statistics%E2%80%9D"
    },
    {
     "source": "BBC Business",
@@ -1206,22 +1270,24 @@
      "The report highlights that the 2030s will be pivotal, with substantial productivity gains anticipated as AI adoption becomes mainstream. Financial and business services are expected to lead this growth, while sectors like manufacturing and agriculture may lag behind, with less than half of their projected gains realised by 2035."
     ],
     "link": "https://www.oxfordeconomics.com/resource/which-sectors-are-the-winners-from-the-ai-breakthrough/#:~:text=Knowledge%2Dintensive%20service%20sectors%20are%20set%20to%20benefit,of%20their%20projected%20gains%20realised%20by%202035."
-   },
-   {
-    "source": "LSE British Politics and Policy",
-    "title": "The 2026 Budget buys stability and points in the right direction on growth",
-    "url": "https://blogs.lse.ac.uk/politicsandpolicy/the-2026-budget-buys-stability-and-points-in-the-right-direction-on-growth/",
-    "date": "2026-10-29",
-    "quote": "Growth is what generates the tax receipts to stabilise public finances and raise living standards. The UK economy has shown resilience, with growth ranking top of the G7 in the first half of the year. Recent productivity data restatements imply that our post financial crisis slowdown was less bad than previously thought, but there’s still significant slowdown that must be addressed. The uptick in productivity (per worker) that we have seen since Q3 2024 suggests that this is possible if business investment is encouraged and confidence maintained.",
-    "pieces": [
-     "Growth is what generates the tax receipts to stabilise public finances and raise living standards. The UK economy has shown resilience, with growth ranking top of the G7 in the first half of the year. Recent productivity data restatements imply that our post financial crisis slowdown was less bad than previously thought, but there’s still significant slowdown that must be addressed. The uptick in productivity (per worker) that we have seen since Q3 2024 suggests that this is possible if business investment is encouraged and confidence maintained."
-    ],
-    "tag": null,
-    "verified": "page text",
-    "link": "https://blogs.lse.ac.uk/politicsandpolicy/the-2026-budget-buys-stability-and-points-in-the-right-direction-on-growth/#:~:text=Growth%20is%20what%20generates%20the%20tax%20receipts,business%20investment%20is%20encouraged%20and%20confidence%20maintained."
    }
   ],
   "food": [
+   {
+    "source": "BBC Business",
+    "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+    "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo",
+    "date": "2026-11-15",
+    "quote": "The UK will have a \"voice in the room\" but no vote on European Union food policies as part of a so-called \"Brexit reset\" to reduce red tape, EU relations minister Hamish Falconer has told the BBC. […] Prime Minister Andy Burnham hopes to agree a deal at a summit on Friday but critics have said a reset will make the UK \"a rule taker\" but not a rule maker. […] Falconer said the UK will be involved in a process to shape the rules and said the deal could help bring down prices for shoppers.",
+    "tag": "Brexit reset deal",
+    "verified": "page text",
+    "pieces": [
+     "The UK will have a \"voice in the room\" but no vote on European Union food policies as part of a so-called \"Brexit reset\" to reduce red tape, EU relations minister Hamish Falconer has told the BBC.",
+     "Prime Minister Andy Burnham hopes to agree a deal at a summit on Friday but critics have said a reset will make the UK \"a rule taker\" but not a rule maker.",
+     "Falconer said the UK will be involved in a process to shape the rules and said the deal could help bring down prices for shoppers."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo#:~:text=The%20UK%20will%20have%20a%20%22voice%20in,could%20help%20bring%20down%20prices%20for%20shoppers."
+   },
    {
     "source": "BBC Business",
     "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
@@ -1332,9 +1398,37 @@
     "tag": "56% chance on rule",
     "verified": "page text",
     "link": "https://www.instituteforgovernment.org.uk/comment/john-healeys-underwhelming-budget#:~:text=Many%20small%20changes%20could%20have%20cumulated%20to,down%20from%2059%25%20at%20the%20last%20budget."
+   },
+   {
+    "source": "NIESR",
+    "title": "Are We In The ‘Foothills’ Of AI-Driven Growth?",
+    "url": "https://niesr.ac.uk/blog/are-we-foothills-ai-driven-growth",
+    "date": "2026-11-13",
+    "quote": "Indeed, as set out in our recent Market Anatomy, around a third of the rise in gilt yields since February seems likely to be attributed to the rise in demand from AI investment. If we are only a tenth of the way through the buildout, there will be more upward pressure on interest rates, tightening financial conditions and dampening UK economic activity. An implication of this is that the Chancellor should certainly not bank on a fall in the cost of borrowing providing a substantial boost to the public finances in the near future.",
+    "tag": null,
+    "verified": "page text",
+    "pieces": [
+     "Indeed, as set out in our recent Market Anatomy, around a third of the rise in gilt yields since February seems likely to be attributed to the rise in demand from AI investment. If we are only a tenth of the way through the buildout, there will be more upward pressure on interest rates, tightening financial conditions and dampening UK economic activity. An implication of this is that the Chancellor should certainly not bank on a fall in the cost of borrowing providing a substantial boost to the public finances in the near future."
+    ],
+    "link": "https://niesr.ac.uk/blog/are-we-foothills-ai-driven-growth#:~:text=Indeed%2C%20as%20set%20out%20in%20our%20recent,the%20public%20finances%20in%20the%20near%20future."
    }
   ],
   "tariff": [
+   {
+    "source": "BBC Business",
+    "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+    "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo",
+    "date": "2026-11-15",
+    "quote": "The UK will have a \"voice in the room\" but no vote on European Union food policies as part of a so-called \"Brexit reset\" to reduce red tape, EU relations minister Hamish Falconer has told the BBC. […] Prime Minister Andy Burnham hopes to agree a deal at a summit on Friday but critics have said a reset will make the UK \"a rule taker\" but not a rule maker. […] Falconer said the UK will be involved in a process to shape the rules and said the deal could help bring down prices for shoppers.",
+    "tag": "Brexit reset deal",
+    "verified": "page text",
+    "pieces": [
+     "The UK will have a \"voice in the room\" but no vote on European Union food policies as part of a so-called \"Brexit reset\" to reduce red tape, EU relations minister Hamish Falconer has told the BBC.",
+     "Prime Minister Andy Burnham hopes to agree a deal at a summit on Friday but critics have said a reset will make the UK \"a rule taker\" but not a rule maker.",
+     "Falconer said the UK will be involved in a process to shape the rules and said the deal could help bring down prices for shoppers."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo#:~:text=The%20UK%20will%20have%20a%20%22voice%20in,could%20help%20bring%20down%20prices%20for%20shoppers."
+   },
    {
     "source": "CNBC Economy",
     "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade",
@@ -1360,6 +1454,18 @@
      "Many Democrats oppose the way President Trump imposed tariffs—unilaterally, on wide swaths of goods, and on economic adversaries and allies alike, with rapid, chaotic changes. However, some support tariffs on specific goods, such as aluminum and steel. Even if Democrats muster the votes to roll back some or all of Trump’s tariffs, it’s unlikely Congress could assemble a veto-proof majority on the issue in the next two years."
     ],
     "link": "https://taxfoundation.org/blog/democratic-congress-tax-policy-2027/#:~:text=Some%20Democratic%20policymakers%20have%20opposed%20the%20Trump,the%20issue%20in%20the%20next%20two%20years."
+   },
+   {
+    "source": "CNBC Economy",
+    "title": "‘We will sue them’: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans",
+    "url": "https://www.cnbc.com/2026/11/13/canada-stellantis-auto-trump-tariffs-jeep.html",
+    "date": "2026-11-13",
+    "quote": "‘We will sue them’: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans. The dispute comes after Stellantis scrapped planned Jeep Compass production in Brampton and shifted future output to Illinois amid U.S. auto tariffs.",
+    "tag": null,
+    "verified": "publisher feed",
+    "headline": "‘We will sue them’: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans",
+    "standfirst": "The dispute comes after Stellantis scrapped planned Jeep Compass production in Brampton and shifted future output to Illinois amid U.S. auto tariffs.",
+    "link": "https://www.cnbc.com/2026/11/13/canada-stellantis-auto-trump-tariffs-jeep.html#:~:text=%E2%80%98We%20will%20sue%20them%E2%80%99%3A%20Canada%20threatens%20Stellantis%20as%20Trump%20trade%20war%20reshapes%20Jeep%20production%20plans"
    },
    {
     "source": "Institute for Government",
@@ -1402,35 +1508,6 @@
      "Overall, the Fed found that every percentage point increase in average tariffs led to nearly a 0.25% price increase for consumer goods after one year."
     ],
     "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o#:~:text=Higher%20tariffs%20%2D%20which%20are%20levies%20that,increase%20for%20consumer%20goods%20after%20one%20year."
-   },
-   {
-    "source": "BBC Business",
-    "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
-    "url": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo",
-    "date": "2026-11-06",
-    "quote": "The government is negotiating a deal on food standards in a bid to cut costs for British companies trading with Europe. […] Labour ministers have been keen to talk up the potential economic benefits of the agreement, which could be announced at a summit later this month. […] But the deal's requirement for Britain to adopt EU food rules in a wide range of areas has threatened to reignite sovereignty debates from the Brexit era.",
-    "tag": null,
-    "verified": "page text",
-    "pieces": [
-     "The government is negotiating a deal on food standards in a bid to cut costs for British companies trading with Europe.",
-     "Labour ministers have been keen to talk up the potential economic benefits of the agreement, which could be announced at a summit later this month.",
-     "But the deal's requirement for Britain to adopt EU food rules in a wide range of areas has threatened to reignite sovereignty debates from the Brexit era."
-    ],
-    "link": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo#:~:text=The%20government%20is%20negotiating%20a%20deal%20on,reignite%20sovereignty%20debates%20from%20the%20Brexit%20era."
-   },
-   {
-    "source": "Tax Foundation",
-    "title": "UK Autumn Budget Prioritizes Short-Term Relief over Long-Term Growth",
-    "url": "https://taxfoundation.org/blog/2026-uk-budget-tax-proposals/",
-    "date": "2026-11-04",
-    "quote": "The import tariff suspensions are projected to relieve consumers by a volume of £60 million and businesses by a volume of £145 million in tariff burdens annually until 2028-29. […] However, the government also plans to remove the £135 customs duty relief threshold for commercial transactions and introduce new customs arrangements from October 2028, expected to raise only £215 million in the fiscal year 2028-29, with prospective revenues turning slightly negative by 2030.",
-    "tag": null,
-    "verified": "page text",
-    "pieces": [
-     "The import tariff suspensions are projected to relieve consumers by a volume of £60 million and businesses by a volume of £145 million in tariff burdens annually until 2028-29.",
-     "However, the government also plans to remove the £135 customs duty relief threshold for commercial transactions and introduce new customs arrangements from October 2028, expected to raise only £215 million in the fiscal year 2028-29, with prospective revenues turning slightly negative by 2030."
-    ],
-    "link": "https://taxfoundation.org/blog/2026-uk-budget-tax-proposals/#:~:text=The%20import%20tariff%20suspensions%20are%20projected%20to,prospective%20revenues%20turning%20slightly%20negative%20by%202030."
    }
   ]
  }
