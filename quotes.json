@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T12:19Z",
+ "generated_at": "2026-11-18T09:14Z",
  "window_days": {
   "press": 14,
   "think_tanks": 60
@@ -62,19 +62,6 @@
     "link": "https://www.resolutionfoundation.org/comment/ignore-the-rate-rise-worry-about-the-forecast/#:~:text=The%20bigger%20story%20this%20week%20wasn%E2%80%99t%20the,real%20terms%20than%20they%20were%20in%202025."
    },
    {
-    "source": "LSE British Politics and Policy",
-    "title": "The 2026 Budget buys stability and points in the right direction on growth",
-    "url": "https://blogs.lse.ac.uk/politicsandpolicy/the-2026-budget-buys-stability-and-points-in-the-right-direction-on-growth/",
-    "date": "2026-10-29",
-    "quote": "The OBR has upgraded GDP growth projection for this year (from 1.1 per cent to 1.2 per cent). This comes with a downgrade for next year and upgrades later in the forecast period. Business investment is forecast to be 0.5 per cent higher in 2030 than in the March forecast, slightly raising capital deepening and trend productivity. While not mentioned in the speech, the Prime Minister’s recent interest in getting closer to the EU could materially improve the growth outlook – the OBR’s assumption is that Brexit will reduce the level of UK productivity by 4 per cent over 15 years.",
-    "pieces": [
-     "The OBR has upgraded GDP growth projection for this year (from 1.1 per cent to 1.2 per cent). This comes with a downgrade for next year and upgrades later in the forecast period. Business investment is forecast to be 0.5 per cent higher in 2030 than in the March forecast, slightly raising capital deepening and trend productivity. While not mentioned in the speech, the Prime Minister’s recent interest in getting closer to the EU could materially improve the growth outlook – the OBR’s assumption is that Brexit will reduce the level of UK productivity by 4 per cent over 15 years."
-    ],
-    "tag": "Forecast revision",
-    "verified": "page text",
-    "link": "https://blogs.lse.ac.uk/politicsandpolicy/the-2026-budget-buys-stability-and-points-in-the-right-direction-on-growth/#:~:text=The%20OBR%20has%20upgraded%20GDP%20growth%20projection,by%204%20per%20cent%20over%2015%20years."
-   },
-   {
     "source": "NIESR",
     "title": "The Minimal Credibility Test For The Autumn 2026 Budget",
     "url": "https://niesr.ac.uk/blog/minimal-credibility-test-autumn-2026-budget",
@@ -118,34 +105,33 @@
   ],
   "unemp": [
    {
-    "source": "BBC Business",
-    "title": "Where has the most jobs for 18-24 year-olds? Use our look-up to find out",
-    "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko",
+    "source": "Resolution Foundation",
+    "title": "Three figures we should all pay attention to in the Milburn Review",
+    "url": "https://www.resolutionfoundation.org/comment/three-figures-we-should-all-pay-attention-to-in-the-milburn-review/",
     "date": "2026-11-17",
-    "quote": "There is no official measure of how many vacancies are suitable for young people, but across the whole economy there were 690,000 jobs available in the August to October period this year, which is the lowest number since early 2021. […] The Covid pandemic led to huge swings in the number of job vacancies available as companies reacted to shutdowns and then reopened as restrictions were lifted. […] Stripping out the fluctuations seen during the pandemic, the number of vacancies is now at its lowest level for 12 years.",
-    "tag": "Vacancies 12-year low",
+    "quote": "The Milburn Review concludes that a combination of early intervention, improved health support, more education and training investment and active labour market policies would result in a ‘big bang’ when it comes to youth employment. By 2036-37, the Review estimates 440,000 more young people would be in employment as a result, and that this would save the state £2.4 billion in 2036-37 as higher taxes and lower benefits are paid. […] But achieving that outcome, too, may prove quite the task. Dividing the £5.8 billion of extra support by the 440,000 extra young people the report says will get into employment as a result suggests the average cost of getting each additional young person into work will be around £13,000. Sounds like a lot? It’s not. Past employment support schemes have spent around £30,000 per additional young person employed. Milburn’s £5.8 billion on employment, health and other support would have to be about three times as effective to get 440,000 additional young people into work.",
+    "tag": "440,000 jobs target",
     "verified": "page text",
     "pieces": [
-     "There is no official measure of how many vacancies are suitable for young people, but across the whole economy there were 690,000 jobs available in the August to October period this year, which is the lowest number since early 2021.",
-     "The Covid pandemic led to huge swings in the number of job vacancies available as companies reacted to shutdowns and then reopened as restrictions were lifted.",
-     "Stripping out the fluctuations seen during the pandemic, the number of vacancies is now at its lowest level for 12 years."
+     "The Milburn Review concludes that a combination of early intervention, improved health support, more education and training investment and active labour market policies would result in a ‘big bang’ when it comes to youth employment. By 2036-37, the Review estimates 440,000 more young people would be in employment as a result, and that this would save the state £2.4 billion in 2036-37 as higher taxes and lower benefits are paid.",
+     "But achieving that outcome, too, may prove quite the task. Dividing the £5.8 billion of extra support by the 440,000 extra young people the report says will get into employment as a result suggests the average cost of getting each additional young person into work will be around £13,000. Sounds like a lot? It’s not. Past employment support schemes have spent around £30,000 per additional young person employed. Milburn’s £5.8 billion on employment, health and other support would have to be about three times as effective to get 440,000 additional young people into work."
     ],
-    "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko#:~:text=There%20is%20no%20official%20measure%20of%20how,at%20its%20lowest%20level%20for%2012%20years."
+    "link": "https://www.resolutionfoundation.org/comment/three-figures-we-should-all-pay-attention-to-in-the-milburn-review/#:~:text=The%20Milburn%20Review%20concludes%20that%20a%20combination,get%20440%2C000%20additional%20young%20people%20into%20work."
    },
    {
     "source": "BBC Business",
-    "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-    "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko",
-    "date": "2026-11-16",
-    "quote": "National Insurance (NI) paid by firms on under-25s should be gradually lowered to help create more jobs, a major report will urge. […] There are nearly one million 16-24 year-olds not in employment, education or training (Neets) in the UK, official figures show. […] Reducing NI costs for firms starting with retail and hospitality firms - which provide almost 40% of jobs for these people - will help improve their opportunities, the report will suggest.",
-    "tag": "Milburn review",
+    "title": "Where are the most jobs for 18-24 year-olds?",
+    "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko",
+    "date": "2026-11-17",
+    "quote": "Across the whole economy there were 690,000 jobs available in the August to October period this year, which is the lowest number since early 2021. […] The Covid pandemic led to huge swings in the number of job vacancies available as companies reacted to shutdowns and then reopened as restrictions were lifted. […] Stripping out the fluctuations seen during the pandemic, the number of vacancies is now at its lowest level for 12 years.",
+    "tag": "Vacancies 12-year low",
     "verified": "page text",
     "pieces": [
-     "National Insurance (NI) paid by firms on under-25s should be gradually lowered to help create more jobs, a major report will urge.",
-     "There are nearly one million 16-24 year-olds not in employment, education or training (Neets) in the UK, official figures show.",
-     "Reducing NI costs for firms starting with retail and hospitality firms - which provide almost 40% of jobs for these people - will help improve their opportunities, the report will suggest."
+     "Across the whole economy there were 690,000 jobs available in the August to October period this year, which is the lowest number since early 2021.",
+     "The Covid pandemic led to huge swings in the number of job vacancies available as companies reacted to shutdowns and then reopened as restrictions were lifted.",
+     "Stripping out the fluctuations seen during the pandemic, the number of vacancies is now at its lowest level for 12 years."
     ],
-    "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko#:~:text=National%20Insurance%20%28NI%29%20paid%20by%20firms%20on,improve%20their%20opportunities%2C%20the%20report%20will%20suggest."
+    "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko#:~:text=Across%20the%20whole%20economy%20there%20were%20690%2C000,at%20its%20lowest%20level%20for%2012%20years."
    },
    {
     "source": "NIESR",
@@ -190,19 +176,6 @@
     "link": "https://www.resolutionfoundation.org/comment/its-good-to-be-flexible/#:~:text=If%20the%20LPC%20had%20done%20something%20similar,and%20it%E2%80%99s%20not%20worth%20taking%20the%20risk."
    },
    {
-    "source": "LSE British Politics and Policy",
-    "title": "The Budget should not price young people out of work",
-    "url": "https://blogs.lse.ac.uk/politicsandpolicy/the-budget-should-not-price-young-people-out-of-work/",
-    "date": "2026-10-26",
-    "quote": "If you raise the price of a worker whose tasks a machine can do, some of that work can move to the machine. In 2017 it was older factory workers. In 2026 it is younger professional workers, and also possibly school leavers on tills and counters that self-service machines can replace. In fact, the Bank of England’s agents report warehouse operators looking to automate after recent labour cost inflation, and retail and hospitality have shed 117,000 employees in a year, more than all other industries combined. Out-of-work benefit claims have risen most among 18 to 20-year-olds, from 7.2 to 9.4 per cent between 2022 and 2025. Meanwhile the 18 to 20 minimum wage rate has risen 45 per cent in three years, from £7.49 to £10.85, taking it from 72 to 85 per cent of the adult rate. A price rise of that size, for workers who have just become substitutable, lies outside anything in the Commission’s known evidence base.",
-    "pieces": [
-     "If you raise the price of a worker whose tasks a machine can do, some of that work can move to the machine. In 2017 it was older factory workers. In 2026 it is younger professional workers, and also possibly school leavers on tills and counters that self-service machines can replace. In fact, the Bank of England’s agents report warehouse operators looking to automate after recent labour cost inflation, and retail and hospitality have shed 117,000 employees in a year, more than all other industries combined. Out-of-work benefit claims have risen most among 18 to 20-year-olds, from 7.2 to 9.4 per cent between 2022 and 2025. Meanwhile the 18 to 20 minimum wage rate has risen 45 per cent in three years, from £7.49 to £10.85, taking it from 72 to 85 per cent of the adult rate. A price rise of that size, for workers who have just become substitutable, lies outside anything in the Commission’s known evidence base."
-    ],
-    "tag": "117,000 jobs shed",
-    "verified": "page text",
-    "link": "https://blogs.lse.ac.uk/politicsandpolicy/the-budget-should-not-price-young-people-out-of-work/#:~:text=If%20you%20raise%20the%20price%20of%20a,anything%20in%20the%20Commission%E2%80%99s%20known%20evidence%20base."
-   },
-   {
     "source": "Resolution Foundation",
     "title": "Is the minimum wage to blame for falling youth employment?",
     "url": "https://www.resolutionfoundation.org/comment/is-the-minimum-wage-to-blame-for-falling-youth-employment/",
@@ -215,22 +188,22 @@
     "tag": "Structural shift",
     "verified": "page text",
     "link": "https://www.resolutionfoundation.org/comment/is-the-minimum-wage-to-blame-for-falling-youth-employment/#:~:text=Employment%20rates%20among%2018%2D24%20and%2025%2D64%2Dyear%2Dolds%20fully,participation%2C%20or%20by%20population%20or%20migration%20changes."
+   },
+   {
+    "source": "Institute for Government",
+    "title": "Milburn’s ambitious NEETs reform vision leaves difficult questions unanswered",
+    "url": "https://www.instituteforgovernment.org.uk/comment/milburns-neets-reform-difficult-questions",
+    "date": "2026-11-17",
+    "quote": "The review proposes a ‘Youth Opportunity Service’ in every area of England by 2029. This would engage people early, and create a personalised ‘Participation Plan’ for each young person who is NEET (similar to the ‘Personalised Support Plan’ the IfG recently recommended). It would bring together services – including health, skills and employment support – and act as a single front door for both young people and employers. The review also recommends significant expansion of apprenticeships and further education provision and £1.1bn of subsidies to encourage employers to hire young people – with the Youth Opportunity Service connecting people to job opportunities and this support.",
+    "tag": null,
+    "verified": "page text",
+    "pieces": [
+     "The review proposes a ‘Youth Opportunity Service’ in every area of England by 2029. This would engage people early, and create a personalised ‘Participation Plan’ for each young person who is NEET (similar to the ‘Personalised Support Plan’ the IfG recently recommended). It would bring together services – including health, skills and employment support – and act as a single front door for both young people and employers. The review also recommends significant expansion of apprenticeships and further education provision and £1.1bn of subsidies to encourage employers to hire young people – with the Youth Opportunity Service connecting people to job opportunities and this support."
+    ],
+    "link": "https://www.instituteforgovernment.org.uk/comment/milburns-neets-reform-difficult-questions#:~:text=The%20review%20proposes%20a%20%E2%80%98Youth%20Opportunity%20Service%E2%80%99,people%20to%20job%20opportunities%20and%20this%20support."
    }
   ],
   "pop": [
-   {
-    "source": "LSE British Politics and Policy",
-    "title": "Does falling migration spell trouble for the Budget?",
-    "url": "https://blogs.lse.ac.uk/politicsandpolicy/does-falling-migration-spell-trouble-for-the-budget/",
-    "date": "2026-10-20",
-    "quote": "Our data and knowledge is simply not good enough to be very confident about the fiscal consequences of the recent reductions in net migration. The £7bn cost is almost certainly a large over-estimate and it is conceivable there is actually a benefit. Even if the reductions in net migration have a small fiscal cost over the forecast horizon they are of migrants who, on average, are likely to be fiscally negative over their lifetime. Immigration of this type is akin to borrowing – it gives you more resources today at the expense of less in the future. Where fiscal rules constrain literal borrowing this migration as disguised borrowing has been an attractive policy for successive governments. But this would not be the first government if it succumbed to the temptations of short-termism.",
-    "pieces": [
-     "Our data and knowledge is simply not good enough to be very confident about the fiscal consequences of the recent reductions in net migration. The £7bn cost is almost certainly a large over-estimate and it is conceivable there is actually a benefit. Even if the reductions in net migration have a small fiscal cost over the forecast horizon they are of migrants who, on average, are likely to be fiscally negative over their lifetime. Immigration of this type is akin to borrowing – it gives you more resources today at the expense of less in the future. Where fiscal rules constrain literal borrowing this migration as disguised borrowing has been an attractive policy for successive governments. But this would not be the first government if it succumbed to the temptations of short-termism."
-    ],
-    "tag": "Contested estimate",
-    "verified": "page text",
-    "link": "https://blogs.lse.ac.uk/politicsandpolicy/does-falling-migration-spell-trouble-for-the-budget/#:~:text=Our%20data%20and%20knowledge%20is%20simply%20not,it%20succumbed%20to%20the%20temptations%20of%20short%2Dtermism."
-   },
    {
     "source": "Institute for Government",
     "title": "Shabana Mahmood’s immigration plans have been badly handled from the start",
@@ -243,32 +216,6 @@
      "It would have been clear to the home secretary a year ago, as it was to onlookers, that net migration was already plummeting and that creating a policy with the purpose of delaying settlement for care workers would create opposition in the sector and among the public. But Mahmood’s ambition to drive down net migration led her to pursue sweeping changes to the settlement system, with little precedent and without buy-in from the cabinet or Labour backbenches."
     ],
     "link": "https://www.instituteforgovernment.org.uk/comment/shabana-mahmoods-immigration-plans-badly-handled#:~:text=It%20would%20have%20been%20clear%20to%20the,buy%2Din%20from%20the%20cabinet%20or%20Labour%20backbenches."
-   },
-   {
-    "source": "LSE British Politics and Policy",
-    "title": "Does falling migration spell trouble for the Budget?",
-    "url": "https://blogs.lse.ac.uk/politicsandpolicy/does-falling-migration-spell-trouble-for-the-budget/",
-    "date": "2026-10-20",
-    "quote": "The March 2024 OBR estimates also do not take into account who the migrants are, how much they work and how much they earn. They assume migrants are the same as the average Brit of the same age and sex (broadly consistent with the data we have). But migrants vary a lot in their employment and earnings, so it’s important to think about the types of migrants that make up the reduction in net migration. The big reductions in migration have come from falls in care workers and their dependents, the dependents of Masters’ students, some family, nurses, and some other work migrants (mostly the lower-paid). Since the 2024 OBR report we know the first three groups have low levels of earnings, in some cases not much above minimum wage and that lower-paid migrants are more likely to stay. Taking account of this would again reduce the cost of the reduction in migration, though how much is uncertain, given the data. What’s more, nurses’ salaries are paid by the Government, so there is an extra expenditure associated with them.",
-    "pieces": [
-     "The March 2024 OBR estimates also do not take into account who the migrants are, how much they work and how much they earn. They assume migrants are the same as the average Brit of the same age and sex (broadly consistent with the data we have). But migrants vary a lot in their employment and earnings, so it’s important to think about the types of migrants that make up the reduction in net migration. The big reductions in migration have come from falls in care workers and their dependents, the dependents of Masters’ students, some family, nurses, and some other work migrants (mostly the lower-paid). Since the 2024 OBR report we know the first three groups have low levels of earnings, in some cases not much above minimum wage and that lower-paid migrants are more likely to stay. Taking account of this would again reduce the cost of the reduction in migration, though how much is uncertain, given the data. What’s more, nurses’ salaries are paid by the Government, so there is an extra expenditure associated with them."
-    ],
-    "tag": null,
-    "verified": "page text",
-    "link": "https://blogs.lse.ac.uk/politicsandpolicy/does-falling-migration-spell-trouble-for-the-budget/#:~:text=The%20March%202024%20OBR%20estimates%20also%20do,is%20an%20extra%20expenditure%20associated%20with%20them."
-   },
-   {
-    "source": "LSE British Politics and Policy",
-    "title": "Does falling migration spell trouble for the Budget?",
-    "url": "https://blogs.lse.ac.uk/politicsandpolicy/does-falling-migration-spell-trouble-for-the-budget/",
-    "date": "2026-10-20",
-    "quote": "First, the OBR itself came to recognise that migration required more public expenditure that its March 2024 estimates implied if it was not to have some implicit austerity. In their September 2024 Fiscal risks and sustainability report, the OBR argued that extra public investment of £20k per person would be needed to maintain the public sector capital stock (the hospitals, schools roads etc) in per capita terms (though they also gave some reasons why this might be too high). But if migration is 100k lower for 5 years, then the saving from lower required public sector investment would be £10bn(100k migrants requires investment of £2bn, multiplied by 5 years) – i.e. this could conceivably wipe out the £7bn cost in the March 2024 estimates. At the very least it substantially reduces it.",
-    "pieces": [
-     "First, the OBR itself came to recognise that migration required more public expenditure that its March 2024 estimates implied if it was not to have some implicit austerity. In their September 2024 Fiscal risks and sustainability report, the OBR argued that extra public investment of £20k per person would be needed to maintain the public sector capital stock (the hospitals, schools roads etc) in per capita terms (though they also gave some reasons why this might be too high). But if migration is 100k lower for 5 years, then the saving from lower required public sector investment would be £10bn(100k migrants requires investment of £2bn, multiplied by 5 years) – i.e. this could conceivably wipe out the £7bn cost in the March 2024 estimates. At the very least it substantially reduces it."
-    ],
-    "tag": null,
-    "verified": "page text",
-    "link": "https://blogs.lse.ac.uk/politicsandpolicy/does-falling-migration-spell-trouble-for-the-budget/#:~:text=First%2C%20the%20OBR%20itself%20came%20to%20recognise,the%20very%20least%20it%20substantially%20reduces%20it."
    }
   ],
   "earn": [
@@ -368,6 +315,21 @@
   ],
   "boe": [
    {
+    "source": "BBC Business",
+    "title": "Higher petrol and diesel prices push UK inflation to 3.6%",
+    "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo",
+    "date": "2026-11-18",
+    "quote": "Core inflation, which strips out energy and food costs, and services inflation were little changed on last month. The figure is closely watched by the Bank of England when setting interest rates. […] It could mean the Bank opts to hold off on a further rate rise in December, though policymakers believe inflation could peak at 4.9% in the middle of next year and not return to 2% until 2028. […] In an \"adverse scenario\", where the US-Iran war could escalate further and send oil prices higher, inflation could reach 6.2% in 2027, it has suggested.",
+    "tag": "December hold possible",
+    "verified": "page text",
+    "pieces": [
+     "Core inflation, which strips out energy and food costs, and services inflation were little changed on last month. The figure is closely watched by the Bank of England when setting interest rates.",
+     "It could mean the Bank opts to hold off on a further rate rise in December, though policymakers believe inflation could peak at 4.9% in the middle of next year and not return to 2% until 2028.",
+     "In an \"adverse scenario\", where the US-Iran war could escalate further and send oil prices higher, inflation could reach 6.2% in 2027, it has suggested."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo#:~:text=Core%20inflation%2C%20which%20strips%20out%20energy%20and,reach%206.2%25%20in%202027%2C%20it%20has%20suggested."
+   },
+   {
     "source": "NIESR",
     "title": "How Worried Is The MPC About The Risk Of ‘Sticky’ Inflation?",
     "url": "https://niesr.ac.uk/blog/how-worried-mpc-about-risk-sticky-inflation",
@@ -457,6 +419,36 @@
   "cpi": [
    {
     "source": "BBC Business",
+    "title": "Higher petrol and diesel prices push UK inflation to 3.6%",
+    "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo",
+    "date": "2026-11-18",
+    "quote": "Higher petrol and diesel prices pushed the UK's inflation rate up again last month, official figures show. […] Prices rose 3.6% in the year to October, up from 3.5% in September, the Office for National Statistics (ONS) said. […] Elevated oil prices also affected the wider economy, the ONS said, continuing to drive up the cost of raw materials and goods leaving factories. […] Inflation risks being pushed higher in the coming months. Gas and electricity bills are forecast to jump by 26% in January, according to consultancy Cornwall Insight, adding £443 to annual household energy costs when a new price cap comes into force.",
+    "tag": "Up to 3.6%",
+    "verified": "page text",
+    "pieces": [
+     "Higher petrol and diesel prices pushed the UK's inflation rate up again last month, official figures show.",
+     "Prices rose 3.6% in the year to October, up from 3.5% in September, the Office for National Statistics (ONS) said.",
+     "Elevated oil prices also affected the wider economy, the ONS said, continuing to drive up the cost of raw materials and goods leaving factories.",
+     "Inflation risks being pushed higher in the coming months. Gas and electricity bills are forecast to jump by 26% in January, according to consultancy Cornwall Insight, adding £443 to annual household energy costs when a new price cap comes into force."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo#:~:text=Higher%20petrol%20and%20diesel%20prices%20pushed%20the,a%20new%20price%20cap%20comes%20into%20force."
+   },
+   {
+    "source": "BBC Business",
+    "title": "Higher petrol and diesel prices push UK inflation to 3.6%",
+    "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo",
+    "date": "2026-11-18",
+    "quote": "Petrol prices rose by 5.2p per litre between September and October, the ONS said, with the average price last month hitting 174.7p per litre - the highest since August 2022. […] Diesel prices, meanwhile, reached the highest price since records began 30 years ago, averaging 199.5p per litre in October.",
+    "tag": "Record diesel price",
+    "verified": "page text",
+    "pieces": [
+     "Petrol prices rose by 5.2p per litre between September and October, the ONS said, with the average price last month hitting 174.7p per litre - the highest since August 2022.",
+     "Diesel prices, meanwhile, reached the highest price since records began 30 years ago, averaging 199.5p per litre in October."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo#:~:text=Petrol%20prices%20rose%20by%205.2p%20per%20litre,ago%2C%20averaging%20199.5p%20per%20litre%20in%20October."
+   },
+   {
+    "source": "BBC Business",
     "title": "The superpower battle over energy – and what it means for your bills",
     "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o",
     "date": "2026-11-10",
@@ -499,35 +491,6 @@
     "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo#:~:text=The%20Bank%20now%20expects%20inflation%20to%20peak,in%20inflation%20going%20up%20across%20the%20board."
    },
    {
-    "source": "BBC Business",
-    "title": "Faisal Islam: How high will interest rates go?",
-    "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o",
-    "date": "2026-11-05",
-    "quote": "The Bank's forecasts indicate inflation is heading to just under 5% next spring as a typical household energy bill surges by 27% in January to £2,150 a year. […] Why have they raised now? High and rising inflation risks a further cycle of self fulfilling expectations of rising prices. It hasn't been seen so far, however. The war has lasted for 9 months, and led to oil prices used in the forecast averaging $108 a barrel. […] And yet on the day they have announced the rate rise, the oil price is actually 13% lower than that having fallen in the run up and after the US mid term elections, reflecting expectations or guesses that President Trump will now retreat or deescalate from the Iran war.",
-    "tag": "Bills up 27% in January",
-    "verified": "page text",
-    "pieces": [
-     "The Bank's forecasts indicate inflation is heading to just under 5% next spring as a typical household energy bill surges by 27% in January to £2,150 a year.",
-     "Why have they raised now? High and rising inflation risks a further cycle of self fulfilling expectations of rising prices. It hasn't been seen so far, however. The war has lasted for 9 months, and led to oil prices used in the forecast averaging $108 a barrel.",
-     "And yet on the day they have announced the rate rise, the oil price is actually 13% lower than that having fallen in the run up and after the US mid term elections, reflecting expectations or guesses that President Trump will now retreat or deescalate from the Iran war."
-    ],
-    "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o#:~:text=The%20Bank%27s%20forecasts%20indicate%20inflation%20is%20heading,retreat%20or%20deescalate%20from%20the%20Iran%20war."
-   },
-   {
-    "source": "NIESR",
-    "title": "Inflation Could Climb Above 5% in Early 2027",
-    "url": "https://niesr.ac.uk/blog/inflation-could-climb-above-5-early-2027",
-    "date": "2026-10-21",
-    "quote": "Annual CPI inflation increased to 3.5 per cent in September from 3.1 per cent the previous month. Monthly price growth between August and September in 2026 was high at 0.4 per cent compared to 0 per cent in 2025, leading to the increase of 0.4 percentage points in annual inflation. The monthly inflation of 0.4 per cent corresponds to an annualised rate of 4.9 per cent and flows on from the high monthly inflation of 0.5 per cent in August. This suggests that the continuing energy supply issues caused by the American war on Iran are feeding into general price inflation. These effects are likely to escalate until a resolution to the conflict is found. Under our preferred forecast scenarios, inflation looks set to reach",
-    "pieces": [
-     "Annual CPI inflation increased to 3.5 per cent in September from 3.1 per cent the previous month. Monthly price growth between August and September in 2026 was high at 0.4 per cent compared to 0 per cent in 2025, leading to the increase of 0.4 percentage points in annual inflation.",
-     "The monthly inflation of 0.4 per cent corresponds to an annualised rate of 4.9 per cent and flows on from the high monthly inflation of 0.5 per cent in August. This suggests that the continuing energy supply issues caused by the American war on Iran are feeding into general price inflation. These effects are likely to escalate until a resolution to the conflict is found. Under our preferred forecast scenarios, inflation looks set to reach"
-    ],
-    "tag": "Above forecast",
-    "verified": "page text",
-    "link": "https://niesr.ac.uk/blog/inflation-could-climb-above-5-early-2027#:~:text=Annual%20CPI%20inflation%20increased%20to%203.5%20per,forecast%20scenarios%2C%20inflation%20looks%20set%20to%20reach"
-   },
-   {
     "source": "NIESR",
     "title": "The Return of the Energy Shock",
     "url": "https://niesr.ac.uk/blog/return-energy-shock",
@@ -539,21 +502,6 @@
     "tag": "Supply shock",
     "verified": "page text",
     "link": "https://niesr.ac.uk/blog/return-energy-shock#:~:text=We%20must%20state%20two%20things%20about%20this,burst%20of%20price%20pressure%20in%20that%20month."
-   },
-   {
-    "source": "BBC Business",
-    "title": "Interest rates hiked to 4% in first increase in over three years",
-    "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo",
-    "date": "2026-11-05",
-    "quote": "Prices rose 3.5% in the year to September 2026, largely due to higher fuel prices. Millions of households are also set to be hit by energy bill increases in January. […] Higher fuel prices can lead to prices rising for a host of goods and staples as businesses pass on higher costs to customers. […] But the Bank said there was \"limited evidence\" this had happened so far for goods, such as food, with some firms absorbing cost increases and accepting lower margins.",
-    "tag": null,
-    "verified": "page text",
-    "pieces": [
-     "Prices rose 3.5% in the year to September 2026, largely due to higher fuel prices. Millions of households are also set to be hit by energy bill increases in January.",
-     "Higher fuel prices can lead to prices rising for a host of goods and staples as businesses pass on higher costs to customers.",
-     "But the Bank said there was \"limited evidence\" this had happened so far for goods, such as food, with some firms absorbing cost increases and accepting lower margins."
-    ],
-    "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo#:~:text=Prices%20rose%203.5%25%20in%20the%20year%20to,absorbing%20cost%20increases%20and%20accepting%20lower%20margins."
    }
   ],
   "gilt": [
@@ -582,19 +530,6 @@
      "In this week’s blog, I set out what I think is a credible path for the UK’s public finances. I use the historical record of borrowing forecasts against outturns to discipline how the fiscal plans are likely to be revised in the years ahead. On this path, the primary balance improves but stays in deficit over the next five years. The current budget is in deficit by around £30 billion in 2029-30, so the fiscal rules are missed by a significant margin. The debt ratio rises throughout the forecast, reaching 101 per cent of GDP by 2031-32. My guess is that this is closer to the market’s expectation than the official forecast, and it may help resolve the puzzle of why the UK’s borrowing costs remain the highest in the G7 despite the IMF’s praise."
     ],
     "link": "https://niesr.ac.uk/blog/how-uks-deficit-reduction-plan-actually-likely-proceed#:~:text=In%20this%20week%E2%80%99s%20blog%2C%20I%20set%20out,in%20the%20G7%20despite%20the%20IMF%E2%80%99s%20praise."
-   },
-   {
-    "source": "LSE British Politics and Policy",
-    "title": "Budget 2026 – continuity with Reeves",
-    "url": "https://blogs.lse.ac.uk/politicsandpolicy/budget-2026-continuity-with-reeves/",
-    "date": "2026-10-29",
-    "quote": "The global backdrop to John Healey’s first Budget was Made in America, crafted by President Trump. Earlier this year, inflation was projected to be heading back to the 2 per cent target, but the Iran War torpedoed that with a huge spike in energy prices. Market jitters over the high and growing US deficit has pushed up bond yields everywhere, and this has added significantly to the cost of servicing UK debt – to the tune of £14bn.",
-    "pieces": [
-     "The global backdrop to John Healey’s first Budget was Made in America, crafted by President Trump. Earlier this year, inflation was projected to be heading back to the 2 per cent target, but the Iran War torpedoed that with a huge spike in energy prices. Market jitters over the high and growing US deficit has pushed up bond yields everywhere, and this has added significantly to the cost of servicing UK debt – to the tune of £14bn."
-    ],
-    "tag": "US spillover",
-    "verified": "page text",
-    "link": "https://blogs.lse.ac.uk/politicsandpolicy/budget-2026-continuity-with-reeves/#:~:text=The%20global%20backdrop%20to%20John%20Healey%E2%80%99s%20first,debt%20%E2%80%93%20to%20the%20tune%20of%20%C2%A314bn."
    },
    {
     "source": "NIESR",
@@ -655,6 +590,18 @@
   "brent": [
    {
     "source": "CNBC Economy",
+    "title": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
+    "url": "https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html",
+    "date": "2026-11-18",
+    "quote": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount. Iran said its army targeted U.S. drone and missile installations at Kuwait's Ali Al Salem air base, extending a run of attacks on Gulf states.",
+    "tag": "Gulf attacks mount",
+    "verified": "publisher feed",
+    "headline": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
+    "standfirst": "Iran said its army targeted U.S. drone and missile installations at Kuwait's Ali Al Salem air base, extending a run of attacks on Gulf states.",
+    "link": "https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html#:~:text=Iran%20says%20army%20targets%20U.S.%20drone%20and%20missile%20sites%20in%20Kuwait%20as%20Gulf%20attacks%20mount"
+   },
+   {
+    "source": "CNBC Economy",
     "title": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
     "url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
     "date": "2026-11-17",
@@ -705,18 +652,6 @@
    },
    {
     "source": "CNBC Economy",
-    "title": "Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections",
-    "url": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
-    "date": "2026-11-06",
-    "quote": "Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections. Oil prices fell Friday as investors weighed the risk of renewed Iran war escalation after the midterms, alongside prospects for a diplomatic breakthrough.",
-    "tag": "Post-election fall",
-    "verified": "publisher feed",
-    "headline": "Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections",
-    "standfirst": "Oil prices fell Friday as investors weighed the risk of renewed Iran war escalation after the midterms, alongside prospects for a diplomatic breakthrough.",
-    "link": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html#:~:text=Oil%20prices%20tumble%20for%20the%20week%20as%20investors%20weigh%20Iran%20conflict%20risk%20after%20midterm%20elections"
-   },
-   {
-    "source": "CNBC Economy",
     "title": "Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy",
     "url": "https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html",
     "date": "2026-11-06",
@@ -744,6 +679,21 @@
    }
   ],
   "gas": [
+   {
+    "source": "BBC Business",
+    "title": "Higher petrol and diesel prices push UK inflation to 3.6%",
+    "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo",
+    "date": "2026-11-18",
+    "quote": "Inflation risks being pushed higher in the coming months. Gas and electricity bills are forecast to jump by 26% in January, according to consultancy Cornwall Insight, adding £443 to annual household energy costs when a new price cap comes into force. […] Prices have surged in recent months because of the US-Iran war, with the Bank of England raising interest rates for the first time in three years earlier this month in a bid to slow inflation to its target of 2%. […] Interest rates increased from 3.75% to 4%, and the Bank signalled a further rate rise could be likely unless the conflict in the Middle East is resolved.",
+    "tag": "Bills up 26% in January",
+    "verified": "page text",
+    "pieces": [
+     "Inflation risks being pushed higher in the coming months. Gas and electricity bills are forecast to jump by 26% in January, according to consultancy Cornwall Insight, adding £443 to annual household energy costs when a new price cap comes into force.",
+     "Prices have surged in recent months because of the US-Iran war, with the Bank of England raising interest rates for the first time in three years earlier this month in a bid to slow inflation to its target of 2%.",
+     "Interest rates increased from 3.75% to 4%, and the Bank signalled a further rate rise could be likely unless the conflict in the Middle East is resolved."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo#:~:text=Inflation%20risks%20being%20pushed%20higher%20in%20the,conflict%20in%20the%20Middle%20East%20is%20resolved."
+   },
    {
     "source": "BBC Business",
     "title": "Gas starts flowing from Jackdaw after government green light",
@@ -788,21 +738,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o#:~:text=Since%20US%20and%20Israeli%20strikes%20on%20Iran,their%20lowest%20since%20records%20began%20in%202011."
    },
    {
-    "source": "BBC Business",
-    "title": "Faisal Islam: How high will interest rates go?",
-    "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o",
-    "date": "2026-11-05",
-    "quote": "The Bank's forecasts indicate inflation is heading to just under 5% next spring as a typical household energy bill surges by 27% in January to £2,150 a year. […] Why have they raised now? High and rising inflation risks a further cycle of self fulfilling expectations of rising prices. It hasn't been seen so far, however. The war has lasted for 9 months, and led to oil prices used in the forecast averaging $108 a barrel. […] And yet on the day they have announced the rate rise, the oil price is actually 13% lower than that having fallen in the run up and after the US mid term elections, reflecting expectations or guesses that President Trump will now retreat or deescalate from the Iran war.",
-    "tag": "Bills up 27% in January",
-    "verified": "page text",
-    "pieces": [
-     "The Bank's forecasts indicate inflation is heading to just under 5% next spring as a typical household energy bill surges by 27% in January to £2,150 a year.",
-     "Why have they raised now? High and rising inflation risks a further cycle of self fulfilling expectations of rising prices. It hasn't been seen so far, however. The war has lasted for 9 months, and led to oil prices used in the forecast averaging $108 a barrel.",
-     "And yet on the day they have announced the rate rise, the oil price is actually 13% lower than that having fallen in the run up and after the US mid term elections, reflecting expectations or guesses that President Trump will now retreat or deescalate from the Iran war."
-    ],
-    "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o#:~:text=The%20Bank%27s%20forecasts%20indicate%20inflation%20is%20heading,retreat%20or%20deescalate%20from%20the%20Iran%20war."
-   },
-   {
     "source": "Resolution Foundation",
     "title": "Budget 2026 special",
     "url": "https://www.resolutionfoundation.org/comment/budget-2026-special/",
@@ -845,6 +780,18 @@
    }
   ],
   "gulf": [
+   {
+    "source": "CNBC Economy",
+    "title": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
+    "url": "https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html",
+    "date": "2026-11-18",
+    "quote": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount. Iran said its army targeted U.S. drone and missile installations at Kuwait's Ali Al Salem air base, extending a run of attacks on Gulf states.",
+    "tag": "Escalation",
+    "verified": "publisher feed",
+    "headline": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
+    "standfirst": "Iran said its army targeted U.S. drone and missile installations at Kuwait's Ali Al Salem air base, extending a run of attacks on Gulf states.",
+    "link": "https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html#:~:text=Iran%20says%20army%20targets%20U.S.%20drone%20and%20missile%20sites%20in%20Kuwait%20as%20Gulf%20attacks%20mount"
+   },
    {
     "source": "CNBC Economy",
     "title": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
@@ -909,18 +856,6 @@
     "link": "https://www.oxfordeconomics.com/resource/mena-region-braces-for-military-escalation-after-the-us-midterms/#:~:text=Political%20betting%20markets%20suggest%20a%20growing%20likelihood,disruptions%20despite%20increased%20exports%20from%20the%20region."
    },
    {
-    "source": "CNBC Economy",
-    "title": "U.S. strikes Iran’s Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
-    "url": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
-    "date": "2026-11-03",
-    "quote": "U.S. strikes Iran’s Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran. U.S. military carried out attacks on Iran's Qeshm Island on Monday, even as the Trump administration has been underplaying war risks.",
-    "tag": "Escalation",
-    "verified": "publisher feed",
-    "headline": "U.S. strikes Iran’s Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
-    "standfirst": "U.S. military carried out attacks on Iran's Qeshm Island on Monday, even as the Trump administration has been underplaying war risks.",
-    "link": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html#:~:text=U.S.%20strikes%20Iran%E2%80%99s%20Qeshm%20Island%20as%20Vance%20hopes%20for%20%E2%80%98negotiated%20settlement%E2%80%99%20with%20Tehran"
-   },
-   {
     "source": "Oxford Economics",
     "title": "GCC recovery tracker shows initial rebound has stalled",
     "url": "https://www.oxfordeconomics.com/resource/gcc-recovery-tracker-shows-initial-rebound-has-stalled/",
@@ -975,6 +910,20 @@
     "link": "https://www.bruegel.org/analysis/ahead-presidential-election-france-first-needs-help-itself-debt#:~:text=Of%20all%20the%20sovereigns%20facing%20rising%20rates%2C,public%20debt%20and%20the%20French%20social%20model."
    },
    {
+    "source": "Oxford Economics",
+    "title": "Higher Eurozone rates to dent consumer spending, but only slightly",
+    "url": "https://www.oxfordeconomics.com/resource/higher-eurozone-rates-to-dent-consumer-spending-but-only-slightly/",
+    "date": "2026-11-12",
+    "quote": "The European Central Bank's ongoing rate hikes, combined with market pressures, are projected to reduce consumer spending by approximately 0.1% in 2027. This decline is driven by increased debt servicing costs, which are expected to strain disposable incomes. Economies with a high share of fixed-rate loans, such as France and Belgium, may experience some insulation from immediate impacts, while those with floating-rate loans, like Finland, could face greater challenges. […] Despite these pressures, the overall effect on consumer behaviour is expected to be limited, with spending growth forecasted to remain around 1% annually. The resilience of the labour market and household balance sheets will play crucial roles in mitigating potential downturns.",
+    "tag": null,
+    "verified": "page text",
+    "pieces": [
+     "The European Central Bank's ongoing rate hikes, combined with market pressures, are projected to reduce consumer spending by approximately 0.1% in 2027. This decline is driven by increased debt servicing costs, which are expected to strain disposable incomes. Economies with a high share of fixed-rate loans, such as France and Belgium, may experience some insulation from immediate impacts, while those with floating-rate loans, like Finland, could face greater challenges.",
+     "Despite these pressures, the overall effect on consumer behaviour is expected to be limited, with spending growth forecasted to remain around 1% annually. The resilience of the labour market and household balance sheets will play crucial roles in mitigating potential downturns."
+    ],
+    "link": "https://www.oxfordeconomics.com/resource/higher-eurozone-rates-to-dent-consumer-spending-but-only-slightly/#:~:text=The%20European%20Central%20Bank%27s%20ongoing%20rate%20hikes%2C,play%20crucial%20roles%20in%20mitigating%20potential%20downturns."
+   },
+   {
     "source": "Bruegel",
     "title": "Ahead of a presidential election, France first needs to help itself on debt",
     "url": "https://www.bruegel.org/analysis/ahead-presidential-election-france-first-needs-help-itself-debt",
@@ -990,6 +939,32 @@
    }
   ],
   "fed": [
+   {
+    "source": "CNBC Economy",
+    "title": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
+    "url": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html",
+    "date": "2026-11-17",
+    "quote": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months. The forecast represents one of the most hawkish views among policymakers.",
+    "tag": "Four more hikes",
+    "verified": "publisher feed",
+    "headline": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
+    "standfirst": "The forecast represents one of the most hawkish views among policymakers.",
+    "link": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html#:~:text=St.%20Louis%20Fed%27s%20Musalem%20says%20four%20more%20rate%20hikes%20may%20be%20needed%20in%20coming%20months"
+   },
+   {
+    "source": "Oxford Economics",
+    "title": "US PCE nowcast – Broadening pressures lock in December rate hike",
+    "url": "https://www.oxfordeconomics.com/resource/us-pce-nowcast-broadening-pressures-lock-in-december-rate-hike/",
+    "date": "2026-11-16",
+    "quote": "Our nowcast is for headline PCE inflation to rise to 3.8% y/y in October, up from 3.6% y/y in September. The details suggest high energy prices are lifting food inflation and bleeding into core inflation. This will be discomforting to the Federal Reserve and bolster our expectation for a 25bp rate hike at the December Federal Open Market Committee meeting; we think markets are overpricing the odds of a 50bp hike. […] Recent declines in oil prices bode well for our forecast for headline inflation to peak in Q4, and the pass-through from higher energy prices to core inflation will ease over 2027. Muted equity markets, lower demand for homebuying, and modest wage growth should keep services inflation benign.",
+    "tag": "December hike expected",
+    "verified": "page text",
+    "pieces": [
+     "Our nowcast is for headline PCE inflation to rise to 3.8% y/y in October, up from 3.6% y/y in September. The details suggest high energy prices are lifting food inflation and bleeding into core inflation. This will be discomforting to the Federal Reserve and bolster our expectation for a 25bp rate hike at the December Federal Open Market Committee meeting; we think markets are overpricing the odds of a 50bp hike.",
+     "Recent declines in oil prices bode well for our forecast for headline inflation to peak in Q4, and the pass-through from higher energy prices to core inflation will ease over 2027. Muted equity markets, lower demand for homebuying, and modest wage growth should keep services inflation benign."
+    ],
+    "link": "https://www.oxfordeconomics.com/resource/us-pce-nowcast-broadening-pressures-lock-in-december-rate-hike/#:~:text=Our%20nowcast%20is%20for%20headline%20PCE%20inflation,wage%20growth%20should%20keep%20services%20inflation%20benign."
+   },
    {
     "source": "CNBC Economy",
     "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
@@ -1052,32 +1027,6 @@
     "headline": "A disturbing employment trend is hiding beneath the latest strong job numbers",
     "standfirst": "The average jobless worker's bout of unemployment surpassed 27 weeks in October, the highest outside of the pandemic period in a decade.",
     "link": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html#:~:text=A%20disturbing%20employment%20trend%20is%20hiding%20beneath%20the%20latest%20strong%20job%20numbers"
-   },
-   {
-    "source": "CNBC Economy",
-    "title": "Consumers are showing signs of strain even as they keep spending, CNBC/NRF Retail Monitor shows",
-    "url": "https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html",
-    "date": "2026-11-11",
-    "quote": "Consumers are showing signs of strain even as they keep spending, CNBC/NRF Retail Monitor shows. Retail sales rose at their slowest pace in nearly a year in October as American consumers showed signs of strain from high prices.",
-    "tag": null,
-    "verified": "publisher feed",
-    "headline": "Consumers are showing signs of strain even as they keep spending, CNBC/NRF Retail Monitor shows",
-    "standfirst": "Retail sales rose at their slowest pace in nearly a year in October as American consumers showed signs of strain from high prices.",
-    "link": "https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html#:~:text=Consumers%20are%20showing%20signs%20of%20strain%20even%20as%20they%20keep%20spending%2C%20CNBC%2FNRF%20Retail%20Monitor%20shows"
-   },
-   {
-    "source": "BBC Business",
-    "title": "US inflation higher than expected in October - here's what is happening with prices",
-    "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o",
-    "date": "2026-11-10",
-    "quote": "While there was no annual figure published for inflation this month, analysts say the fact inflation was higher in October than expected increases the chance of an interest rate rise at the Fed's December meeting. […] Federal Reserve governor Chirstopher Waller, who spoke before the latest inflation figures were published, also suggested he was leaning towards a rate increase in December even if October's figures were slower than expected.",
-    "tag": null,
-    "verified": "page text",
-    "pieces": [
-     "While there was no annual figure published for inflation this month, analysts say the fact inflation was higher in October than expected increases the chance of an interest rate rise at the Fed's December meeting.",
-     "Federal Reserve governor Chirstopher Waller, who spoke before the latest inflation figures were published, also suggested he was leaning towards a rate increase in December even if October's figures were slower than expected."
-    ],
-    "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o#:~:text=While%20there%20was%20no%20annual%20figure%20published,if%20October%27s%20figures%20were%20slower%20than%20expected."
    }
   ],
   "ust": [
@@ -1192,19 +1141,6 @@
     "link": "https://www.resolutionfoundation.org/comment/the-2020s-a-horror-film-in-four-charts/#:~:text=But%20there%E2%80%99s%20one%20more%20mystery.%20On%20the,UK%20produces%2C%20leads%20to%20the%20growing%20gap."
    },
    {
-    "source": "LSE British Politics and Policy",
-    "title": "Budget 2026 – continuity with Reeves",
-    "url": "https://blogs.lse.ac.uk/politicsandpolicy/budget-2026-continuity-with-reeves/",
-    "date": "2026-10-29",
-    "quote": "UK growth has been resilient this year, and productivity growth – the fundamental determinant of living standards in the long term – is looking up. Our research shows that since Labour was elected, output per worker growth has been 1.6 per cent, per annum, compared to 0.3 per cent in the previous decade. Moreover, the ONS now reckons that productivity per hour was twice as fast since the 2008-9 global financial crisis than previously thought. This is still about half of the pre-crisis average, but the UK now looks much less of an outlier.",
-    "pieces": [
-     "UK growth has been resilient this year, and productivity growth – the fundamental determinant of living standards in the long term – is looking up. Our research shows that since Labour was elected, output per worker growth has been 1.6 per cent, per annum, compared to 0.3 per cent in the previous decade. Moreover, the ONS now reckons that productivity per hour was twice as fast since the 2008-9 global financial crisis than previously thought. This is still about half of the pre-crisis average, but the UK now looks much less of an outlier."
-    ],
-    "tag": "Data revision",
-    "verified": "page text",
-    "link": "https://blogs.lse.ac.uk/politicsandpolicy/budget-2026-continuity-with-reeves/#:~:text=UK%20growth%20has%20been%20resilient%20this%20year%2C,now%20looks%20much%20less%20of%20an%20outlier."
-   },
-   {
     "source": "NIESR",
     "title": "Has Fiscal Policy Adjusted To A World Of Higher Interest Rates?",
     "url": "https://niesr.ac.uk/blog/has-fiscal-policy-adjusted-world-higher-interest-rates",
@@ -1277,6 +1213,20 @@
   "food": [
    {
     "source": "BBC Business",
+    "title": "Higher petrol and diesel prices push UK inflation to 3.6%",
+    "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo",
+    "date": "2026-11-18",
+    "quote": "But the ONS said price inflation in restaurants and cafes had slowed last month, and that prices had fallen on average for hotels. […] And food price inflation rose by 0.9%, the slowest pace in five years.",
+    "tag": "Slowest in five years",
+    "verified": "page text",
+    "pieces": [
+     "But the ONS said price inflation in restaurants and cafes had slowed last month, and that prices had fallen on average for hotels.",
+     "And food price inflation rose by 0.9%, the slowest pace in five years."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo#:~:text=But%20the%20ONS%20said%20price%20inflation%20in,0.9%25%2C%20the%20slowest%20pace%20in%20five%20years."
+   },
+   {
+    "source": "BBC Business",
     "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
     "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo",
     "date": "2026-11-16",
@@ -1306,18 +1256,19 @@
    },
    {
     "source": "BBC Business",
-    "title": "Interest rates hiked to 4% in first increase in over three years",
-    "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo",
-    "date": "2026-11-05",
-    "quote": "Prices rose 3.5% in the year to September 2026, largely due to higher fuel prices. Millions of households are also set to be hit by energy bill increases in January. […] Higher fuel prices can lead to prices rising for a host of goods and staples as businesses pass on higher costs to customers. […] But the Bank said there was \"limited evidence\" this had happened so far for goods, such as food, with some firms absorbing cost increases and accepting lower margins.",
+    "title": "Higher petrol and diesel prices push UK inflation to 3.6%",
+    "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo",
+    "date": "2026-11-18",
+    "quote": "Grant Fitzner, chief economist at the ONS, said fuel prices were \"once again a major contributor\" to the increase in the inflation rate in October. […] Rising energy prices can lead to more expensive food and staples for consumers if businesses pass on higher costs. […] Earlier this month, the Bank of England said there had been \"limited evidence\" of this, with some firms absorbing cost increases and accepting lower profit margins. […] But Fitzner said on Wednesday: \"Annual costs of both raw materials and goods leaving factories continue to climb, driven by higher crude oil and petrol prices, respectively.\"",
     "tag": null,
     "verified": "page text",
     "pieces": [
-     "Prices rose 3.5% in the year to September 2026, largely due to higher fuel prices. Millions of households are also set to be hit by energy bill increases in January.",
-     "Higher fuel prices can lead to prices rising for a host of goods and staples as businesses pass on higher costs to customers.",
-     "But the Bank said there was \"limited evidence\" this had happened so far for goods, such as food, with some firms absorbing cost increases and accepting lower margins."
+     "Grant Fitzner, chief economist at the ONS, said fuel prices were \"once again a major contributor\" to the increase in the inflation rate in October.",
+     "Rising energy prices can lead to more expensive food and staples for consumers if businesses pass on higher costs.",
+     "Earlier this month, the Bank of England said there had been \"limited evidence\" of this, with some firms absorbing cost increases and accepting lower profit margins.",
+     "But Fitzner said on Wednesday: \"Annual costs of both raw materials and goods leaving factories continue to climb, driven by higher crude oil and petrol prices, respectively.\""
     ],
-    "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo#:~:text=Prices%20rose%203.5%25%20in%20the%20year%20to,absorbing%20cost%20increases%20and%20accepting%20lower%20margins."
+    "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo#:~:text=Grant%20Fitzner%2C%20chief%20economist%20at%20the%20ONS%2C,higher%20crude%20oil%20and%20petrol%20prices%2C%20respectively.%22"
    }
   ],
   "fiscal": [
