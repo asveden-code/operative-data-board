@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T09:14Z",
+ "generated_at": "2026-11-19T10:02Z",
  "window_days": {
   "press": 14,
   "think_tanks": 60
@@ -316,7 +316,7 @@
   "boe": [
    {
     "source": "BBC Business",
-    "title": "Higher petrol and diesel prices push UK inflation to 3.6%",
+    "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
     "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo",
     "date": "2026-11-18",
     "quote": "Core inflation, which strips out energy and food costs, and services inflation were little changed on last month. The figure is closely watched by the Bank of England when setting interest rates. […] It could mean the Bank opts to hold off on a further rate rise in December, though policymakers believe inflation could peak at 4.9% in the middle of next year and not return to 2% until 2028. […] In an \"adverse scenario\", where the US-Iran war could escalate further and send oil prices higher, inflation could reach 6.2% in 2027, it has suggested.",
@@ -358,21 +358,6 @@
     "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo#:~:text=Interest%20rates%20have%20risen%20for%20the%20first,seem%20likely%20to%20be%20the%20last%20increase%22."
    },
    {
-    "source": "BBC Business",
-    "title": "Faisal Islam: How high will interest rates go?",
-    "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o",
-    "date": "2026-11-05",
-    "quote": "Interest rates have risen to 4% and the Bank of England has indicated there are more rises to come. The question is how many? There is a split on the rate-setting committee here. […] Three of the nine voting members referred to \"rises\" plural. One member voted for a bigger increase, to 4.25%. Three referred to just one more including governor Andrew Bailey. […] My read on this is that the expectation is for one more rise in February. Two and done, but it depends.",
-    "tag": "One more rise expected",
-    "verified": "page text",
-    "pieces": [
-     "Interest rates have risen to 4% and the Bank of England has indicated there are more rises to come. The question is how many? There is a split on the rate-setting committee here.",
-     "Three of the nine voting members referred to \"rises\" plural. One member voted for a bigger increase, to 4.25%. Three referred to just one more including governor Andrew Bailey.",
-     "My read on this is that the expectation is for one more rise in February. Two and done, but it depends."
-    ],
-    "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o#:~:text=Interest%20rates%20have%20risen%20to%204%25%20and,February.%20Two%20and%20done%2C%20but%20it%20depends."
-   },
-   {
     "source": "Oxford Economics",
     "title": "UK: Hawkish Monetary Policy Committee puts a December hike on the table",
     "url": "https://www.oxfordeconomics.com/resource/uk-hawkish-monetary-policy-committee-puts-a-december-hike-on-the-table/",
@@ -403,6 +388,22 @@
     "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo#:~:text=The%20Bank%20now%20expects%20inflation%20to%20peak,in%20inflation%20going%20up%20across%20the%20board."
    },
    {
+    "source": "BBC Business",
+    "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+    "url": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o",
+    "date": "2026-11-18",
+    "quote": "Having just raised interest rates - for the first time in more than three years - to 4%, there's a widespread expectation among analysts that another hike is to come. […] To be clear, we don't know if and when that will happen for sure. […] The case for an increase would be if prices continue to accelerate. The Bank will want to slow that down. […] The case against would be price rises remaining relatively confined to energy-related costs. Any easing of Middle East tensions could limit price rises without Bank of England intervention.",
+    "tag": null,
+    "verified": "page text",
+    "pieces": [
+     "Having just raised interest rates - for the first time in more than three years - to 4%, there's a widespread expectation among analysts that another hike is to come.",
+     "To be clear, we don't know if and when that will happen for sure.",
+     "The case for an increase would be if prices continue to accelerate. The Bank will want to slow that down.",
+     "The case against would be price rises remaining relatively confined to energy-related costs. Any easing of Middle East tensions could limit price rises without Bank of England intervention."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o#:~:text=Having%20just%20raised%20interest%20rates%20%2D%20for,price%20rises%20without%20Bank%20of%20England%20intervention."
+   },
+   {
     "source": "NIESR",
     "title": "How Worried Is The MPC About The Risk Of ‘Sticky’ Inflation?",
     "url": "https://niesr.ac.uk/blog/how-worried-mpc-about-risk-sticky-inflation",
@@ -419,23 +420,35 @@
   "cpi": [
    {
     "source": "BBC Business",
-    "title": "Higher petrol and diesel prices push UK inflation to 3.6%",
+    "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
     "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo",
     "date": "2026-11-18",
-    "quote": "Higher petrol and diesel prices pushed the UK's inflation rate up again last month, official figures show. […] Prices rose 3.6% in the year to October, up from 3.5% in September, the Office for National Statistics (ONS) said. […] Elevated oil prices also affected the wider economy, the ONS said, continuing to drive up the cost of raw materials and goods leaving factories. […] Inflation risks being pushed higher in the coming months. Gas and electricity bills are forecast to jump by 26% in January, according to consultancy Cornwall Insight, adding £443 to annual household energy costs when a new price cap comes into force.",
+    "quote": "Prices rose 3.6% in the year to October, up from 3.5% in September mainly because of higher petrol and diesel prices, official figures show. […] Inflation has been driven higher in recent months as the US-Israel war with Iran has driven up the cost of energy and fuel.",
     "tag": "Up to 3.6%",
     "verified": "page text",
     "pieces": [
-     "Higher petrol and diesel prices pushed the UK's inflation rate up again last month, official figures show.",
-     "Prices rose 3.6% in the year to October, up from 3.5% in September, the Office for National Statistics (ONS) said.",
-     "Elevated oil prices also affected the wider economy, the ONS said, continuing to drive up the cost of raw materials and goods leaving factories.",
-     "Inflation risks being pushed higher in the coming months. Gas and electricity bills are forecast to jump by 26% in January, according to consultancy Cornwall Insight, adding £443 to annual household energy costs when a new price cap comes into force."
+     "Prices rose 3.6% in the year to October, up from 3.5% in September mainly because of higher petrol and diesel prices, official figures show.",
+     "Inflation has been driven higher in recent months as the US-Israel war with Iran has driven up the cost of energy and fuel."
     ],
-    "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo#:~:text=Higher%20petrol%20and%20diesel%20prices%20pushed%20the,a%20new%20price%20cap%20comes%20into%20force."
+    "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo#:~:text=Prices%20rose%203.6%25%20in%20the%20year%20to,up%20the%20cost%20of%20energy%20and%20fuel."
    },
    {
     "source": "BBC Business",
-    "title": "Higher petrol and diesel prices push UK inflation to 3.6%",
+    "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+    "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo",
+    "date": "2026-11-18",
+    "quote": "Gas and electricity bills for a typical household are forecast to jump by £443 a year from January as the inflation rate rose to its highest level in a year. […] A typical annual bill is predicted to rise by 26% in the new year, according to consultancy Cornwall Insight, ahead of the official announcement next week.",
+    "tag": "Bills up 26% in January",
+    "verified": "page text",
+    "pieces": [
+     "Gas and electricity bills for a typical household are forecast to jump by £443 a year from January as the inflation rate rose to its highest level in a year.",
+     "A typical annual bill is predicted to rise by 26% in the new year, according to consultancy Cornwall Insight, ahead of the official announcement next week."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo#:~:text=Gas%20and%20electricity%20bills%20for%20a%20typical,ahead%20of%20the%20official%20announcement%20next%20week."
+   },
+   {
+    "source": "BBC Business",
+    "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
     "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo",
     "date": "2026-11-18",
     "quote": "Petrol prices rose by 5.2p per litre between September and October, the ONS said, with the average price last month hitting 174.7p per litre - the highest since August 2022. […] Diesel prices, meanwhile, reached the highest price since records began 30 years ago, averaging 199.5p per litre in October.",
@@ -446,20 +459,6 @@
      "Diesel prices, meanwhile, reached the highest price since records began 30 years ago, averaging 199.5p per litre in October."
     ],
     "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo#:~:text=Petrol%20prices%20rose%20by%205.2p%20per%20litre,ago%2C%20averaging%20199.5p%20per%20litre%20in%20October."
-   },
-   {
-    "source": "BBC Business",
-    "title": "The superpower battle over energy – and what it means for your bills",
-    "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o",
-    "date": "2026-11-10",
-    "quote": "A gas rig in the North Sea. An oil field in Texas. A solar panel factory in China. They can feel a world away, but your energy bill says otherwise. […] In January, it could jump by more than a quarter – around £460 extra a year for the typical UK household – according to the latest forecasts from the big suppliers British Gas, EDF and E.ON.",
-    "tag": "Bills up a quarter",
-    "verified": "page text",
-    "pieces": [
-     "A gas rig in the North Sea. An oil field in Texas. A solar panel factory in China. They can feel a world away, but your energy bill says otherwise.",
-     "In January, it could jump by more than a quarter – around £460 extra a year for the typical UK household – according to the latest forecasts from the big suppliers British Gas, EDF and E.ON."
-    ],
-    "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o#:~:text=A%20gas%20rig%20in%20the%20North%20Sea.,big%20suppliers%20British%20Gas%2C%20EDF%20and%20E.ON."
    },
    {
     "source": "Resolution Foundation",
@@ -590,6 +589,18 @@
   "brent": [
    {
     "source": "CNBC Economy",
+    "title": "IEA chief sees no 'credible pathway' back to pre-war normality in the Strait of Hormuz",
+    "url": "https://www.cnbc.com/2026/11/18/iea-strait-hormuz-energy-risk.html",
+    "date": "2026-11-18",
+    "quote": "IEA chief sees no 'credible pathway' back to pre-war normality in the Strait of Hormuz. The Iran war has 'crushed' confidence in the Strait of Hormuz as a reliable energy and goods corridor, the IEA's chief warned.",
+    "tag": "Hormuz confidence crushed",
+    "verified": "publisher feed",
+    "headline": "IEA chief sees no 'credible pathway' back to pre-war normality in the Strait of Hormuz",
+    "standfirst": "The Iran war has 'crushed' confidence in the Strait of Hormuz as a reliable energy and goods corridor, the IEA's chief warned.",
+    "link": "https://www.cnbc.com/2026/11/18/iea-strait-hormuz-energy-risk.html#:~:text=IEA%20chief%20sees%20no%20%27credible%20pathway%27%20back%20to%20pre%2Dwar%20normality%20in%20the%20Strait%20of%20Hormuz"
+   },
+   {
+    "source": "CNBC Economy",
     "title": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
     "url": "https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html",
     "date": "2026-11-18",
@@ -661,38 +672,36 @@
     "headline": "Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy",
     "standfirst": "Bob McNally predicts that both Brent and West Texas Intermediate futures will jump above $100.",
     "link": "https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html#:~:text=Renewed%20U.S.%2DIran%20tension%20could%20push%20oil%20past%20%24100%3A%20Rapidan%20Energy"
-   },
-   {
-    "source": "BBC Business",
-    "title": "Faisal Islam: How high will interest rates go?",
-    "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o",
-    "date": "2026-11-05",
-    "quote": "The Bank's forecasts indicate inflation is heading to just under 5% next spring as a typical household energy bill surges by 27% in January to £2,150 a year. […] Why have they raised now? High and rising inflation risks a further cycle of self fulfilling expectations of rising prices. It hasn't been seen so far, however. The war has lasted for 9 months, and led to oil prices used in the forecast averaging $108 a barrel. […] And yet on the day they have announced the rate rise, the oil price is actually 13% lower than that having fallen in the run up and after the US mid term elections, reflecting expectations or guesses that President Trump will now retreat or deescalate from the Iran war.",
-    "tag": "Oil 13% below forecast",
-    "verified": "page text",
-    "pieces": [
-     "The Bank's forecasts indicate inflation is heading to just under 5% next spring as a typical household energy bill surges by 27% in January to £2,150 a year.",
-     "Why have they raised now? High and rising inflation risks a further cycle of self fulfilling expectations of rising prices. It hasn't been seen so far, however. The war has lasted for 9 months, and led to oil prices used in the forecast averaging $108 a barrel.",
-     "And yet on the day they have announced the rate rise, the oil price is actually 13% lower than that having fallen in the run up and after the US mid term elections, reflecting expectations or guesses that President Trump will now retreat or deescalate from the Iran war."
-    ],
-    "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o#:~:text=The%20Bank%27s%20forecasts%20indicate%20inflation%20is%20heading,retreat%20or%20deescalate%20from%20the%20Iran%20war."
    }
   ],
   "gas": [
    {
     "source": "BBC Business",
-    "title": "Higher petrol and diesel prices push UK inflation to 3.6%",
+    "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
     "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo",
     "date": "2026-11-18",
-    "quote": "Inflation risks being pushed higher in the coming months. Gas and electricity bills are forecast to jump by 26% in January, according to consultancy Cornwall Insight, adding £443 to annual household energy costs when a new price cap comes into force. […] Prices have surged in recent months because of the US-Iran war, with the Bank of England raising interest rates for the first time in three years earlier this month in a bid to slow inflation to its target of 2%. […] Interest rates increased from 3.75% to 4%, and the Bank signalled a further rate rise could be likely unless the conflict in the Middle East is resolved.",
+    "quote": "Gas and electricity bills for a typical household are forecast to jump by £443 a year from January as the inflation rate rose to its highest level in a year. […] A typical annual bill is predicted to rise by 26% in the new year, according to consultancy Cornwall Insight, ahead of the official announcement next week.",
     "tag": "Bills up 26% in January",
     "verified": "page text",
     "pieces": [
-     "Inflation risks being pushed higher in the coming months. Gas and electricity bills are forecast to jump by 26% in January, according to consultancy Cornwall Insight, adding £443 to annual household energy costs when a new price cap comes into force.",
-     "Prices have surged in recent months because of the US-Iran war, with the Bank of England raising interest rates for the first time in three years earlier this month in a bid to slow inflation to its target of 2%.",
-     "Interest rates increased from 3.75% to 4%, and the Bank signalled a further rate rise could be likely unless the conflict in the Middle East is resolved."
+     "Gas and electricity bills for a typical household are forecast to jump by £443 a year from January as the inflation rate rose to its highest level in a year.",
+     "A typical annual bill is predicted to rise by 26% in the new year, according to consultancy Cornwall Insight, ahead of the official announcement next week."
     ],
-    "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo#:~:text=Inflation%20risks%20being%20pushed%20higher%20in%20the,conflict%20in%20the%20Middle%20East%20is%20resolved."
+    "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo#:~:text=Gas%20and%20electricity%20bills%20for%20a%20typical,ahead%20of%20the%20official%20announcement%20next%20week."
+   },
+   {
+    "source": "BBC Business",
+    "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+    "url": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o",
+    "date": "2026-11-18",
+    "quote": "Millions of homes in England, Scotland and Wales are on tariffs affected by regulator Ofgem's price cap, which is set every three months. The next change for January will be officially announced next Wednesday, 25 November. […] Energy consultancy Cornwall Insight, which has a good track record with its predictions, suggests that a household using a typical amount of gas and electricity will pay £2,166 a year - that's an increase of £443 from current levels.",
+    "tag": "Bills up £443",
+    "verified": "page text",
+    "pieces": [
+     "Millions of homes in England, Scotland and Wales are on tariffs affected by regulator Ofgem's price cap, which is set every three months. The next change for January will be officially announced next Wednesday, 25 November.",
+     "Energy consultancy Cornwall Insight, which has a good track record with its predictions, suggests that a household using a typical amount of gas and electricity will pay £2,166 a year - that's an increase of £443 from current levels."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o#:~:text=Millions%20of%20homes%20in%20England%2C%20Scotland%20and,an%20increase%20of%20%C2%A3443%20from%20current%20levels."
    },
    {
     "source": "BBC Business",
@@ -708,20 +717,6 @@
      "The UK government said that over its expected 11-year lifespan, Jackdaw would support the UK's gas supply, protect hundreds of jobs and add £2.9bn to the economy."
     ],
     "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po#:~:text=Adura%20has%20said%20Jackdaw%20will%20provide%20about,jobs%20and%20add%20%C2%A32.9bn%20to%20the%20economy."
-   },
-   {
-    "source": "BBC Business",
-    "title": "The superpower battle over energy – and what it means for your bills",
-    "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o",
-    "date": "2026-11-10",
-    "quote": "A gas rig in the North Sea. An oil field in Texas. A solar panel factory in China. They can feel a world away, but your energy bill says otherwise. […] In January, it could jump by more than a quarter – around £460 extra a year for the typical UK household – according to the latest forecasts from the big suppliers British Gas, EDF and E.ON.",
-    "tag": "Bills up a quarter",
-    "verified": "page text",
-    "pieces": [
-     "A gas rig in the North Sea. An oil field in Texas. A solar panel factory in China. They can feel a world away, but your energy bill says otherwise.",
-     "In January, it could jump by more than a quarter – around £460 extra a year for the typical UK household – according to the latest forecasts from the big suppliers British Gas, EDF and E.ON."
-    ],
-    "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o#:~:text=A%20gas%20rig%20in%20the%20North%20Sea.,big%20suppliers%20British%20Gas%2C%20EDF%20and%20E.ON."
    },
    {
     "source": "BBC Business",
@@ -780,6 +775,18 @@
    }
   ],
   "gulf": [
+   {
+    "source": "CNBC Economy",
+    "title": "IEA chief sees no 'credible pathway' back to pre-war normality in the Strait of Hormuz",
+    "url": "https://www.cnbc.com/2026/11/18/iea-strait-hormuz-energy-risk.html",
+    "date": "2026-11-18",
+    "quote": "IEA chief sees no 'credible pathway' back to pre-war normality in the Strait of Hormuz. The Iran war has 'crushed' confidence in the Strait of Hormuz as a reliable energy and goods corridor, the IEA's chief warned.",
+    "tag": "Hormuz confidence crushed",
+    "verified": "publisher feed",
+    "headline": "IEA chief sees no 'credible pathway' back to pre-war normality in the Strait of Hormuz",
+    "standfirst": "The Iran war has 'crushed' confidence in the Strait of Hormuz as a reliable energy and goods corridor, the IEA's chief warned.",
+    "link": "https://www.cnbc.com/2026/11/18/iea-strait-hormuz-energy-risk.html#:~:text=IEA%20chief%20sees%20no%20%27credible%20pathway%27%20back%20to%20pre%2Dwar%20normality%20in%20the%20Strait%20of%20Hormuz"
+   },
    {
     "source": "CNBC Economy",
     "title": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
@@ -844,19 +851,6 @@
    },
    {
     "source": "Oxford Economics",
-    "title": "MENA region braces for military escalation after the US midterms",
-    "url": "https://www.oxfordeconomics.com/resource/mena-region-braces-for-military-escalation-after-the-us-midterms/",
-    "date": "2026-11-03",
-    "quote": "Political betting markets suggest a growing likelihood of US military action, with probabilities exceeding 50% by late November and reaching 73% by year-end. Oil prices have surged, with Brent crude surpassing $115 per barrel, reflecting concerns over supply disruptions despite increased exports from the region.",
-    "tag": "Strike odds 73%",
-    "verified": "page text",
-    "pieces": [
-     "Political betting markets suggest a growing likelihood of US military action, with probabilities exceeding 50% by late November and reaching 73% by year-end. Oil prices have surged, with Brent crude surpassing $115 per barrel, reflecting concerns over supply disruptions despite increased exports from the region."
-    ],
-    "link": "https://www.oxfordeconomics.com/resource/mena-region-braces-for-military-escalation-after-the-us-midterms/#:~:text=Political%20betting%20markets%20suggest%20a%20growing%20likelihood,disruptions%20despite%20increased%20exports%20from%20the%20region."
-   },
-   {
-    "source": "Oxford Economics",
     "title": "GCC recovery tracker shows initial rebound has stalled",
     "url": "https://www.oxfordeconomics.com/resource/gcc-recovery-tracker-shows-initial-rebound-has-stalled/",
     "date": "2026-10-27",
@@ -882,18 +876,6 @@
     "headline": "Nationwide strikes loom as French budget is unanimously rejected by lawmakers",
     "standfirst": "The National Assembly unanimously voted against adopting the government's proposed 2027 budget.",
     "link": "https://www.cnbc.com/2026/11/05/france-budget-debt-strikes.html#:~:text=Nationwide%20strikes%20loom%20as%20French%20budget%20is%20unanimously%20rejected%20by%20lawmakers"
-   },
-   {
-    "source": "CNBC Economy",
-    "title": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
-    "url": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
-    "date": "2026-11-04",
-    "quote": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms. It was driven by energy inflation, which surged above 20% in October.",
-    "tag": "Inflation at 4%",
-    "verified": "publisher feed",
-    "headline": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
-    "standfirst": "It was driven by energy inflation, which surged above 20% in October.",
-    "link": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html#:~:text=Euro%20zone%20inflation%20hits%204%25%20for%20first%20time%20in%20three%20years%20as%20interest%20rate%20hike%20looms"
    },
    {
     "source": "Bruegel",
@@ -1060,18 +1042,6 @@
     "link": "https://taxfoundation.org/blog/democratic-congress-tax-policy-2027/#:~:text=The%20broader%20US%20budgetary%20outlook%20may%20also,spending%20and%20revenue%20in%20the%20years%20ahead."
    },
    {
-    "source": "CNBC Economy",
-    "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
-    "url": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
-    "date": "2026-11-04",
-    "quote": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it. The next debt-ceiling confrontation could reverse Washington's traditional political roles, raising the possibility of spending concessions, market volatility and a damaging default.",
-    "tag": "Default risk",
-    "verified": "publisher feed",
-    "headline": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
-    "standfirst": "The next debt-ceiling confrontation could reverse Washington's traditional political roles, raising the possibility of spending concessions, market volatility and a damaging default.",
-    "link": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html#:~:text=Analysis%3A%20The%20Democrats%20have%20one%20chance%20to%20extract%20concessions%20from%20Trump.%20Markets%20will%20hate%20it"
-   },
-   {
     "source": "Tax Foundation",
     "title": "What Is the US Debt Limit and Why Does It Matter?",
     "url": "https://taxfoundation.org/blog/what-is-the-us-debt-limit-and-why-does-it-matter/",
@@ -1213,7 +1183,7 @@
   "food": [
    {
     "source": "BBC Business",
-    "title": "Higher petrol and diesel prices push UK inflation to 3.6%",
+    "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
     "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo",
     "date": "2026-11-18",
     "quote": "But the ONS said price inflation in restaurants and cafes had slowed last month, and that prices had fallen on average for hotels. […] And food price inflation rose by 0.9%, the slowest pace in five years.",
@@ -1256,7 +1226,7 @@
    },
    {
     "source": "BBC Business",
-    "title": "Higher petrol and diesel prices push UK inflation to 3.6%",
+    "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
     "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo",
     "date": "2026-11-18",
     "quote": "Grant Fitzner, chief economist at the ONS, said fuel prices were \"once again a major contributor\" to the increase in the inflation rate in October. […] Rising energy prices can lead to more expensive food and staples for consumers if businesses pass on higher costs. […] Earlier this month, the Bank of England said there had been \"limited evidence\" of this, with some firms absorbing cost increases and accepting lower profit margins. […] But Fitzner said on Wednesday: \"Annual costs of both raw materials and goods leaving factories continue to climb, driven by higher crude oil and petrol prices, respectively.\"",
@@ -1269,6 +1239,37 @@
      "But Fitzner said on Wednesday: \"Annual costs of both raw materials and goods leaving factories continue to climb, driven by higher crude oil and petrol prices, respectively.\""
     ],
     "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo#:~:text=Grant%20Fitzner%2C%20chief%20economist%20at%20the%20ONS%2C,higher%20crude%20oil%20and%20petrol%20prices%2C%20respectively.%22"
+   },
+   {
+    "source": "BBC Business",
+    "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+    "url": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o",
+    "date": "2026-11-18",
+    "quote": "While the rate of inflation in general was 3.6% in the year to October, food prices only went up by 0.9%. […] So why the difference? […] It is partly the result of intense competition between the supermarkets. Like many retailers, they are facing higher costs but are not passing that onto their customers in full. […] There may be some scars from the recent cost-of-living spike here. Shoppers suffered a period during the big rise in inflation in 2022-23 when food prices rocketed. […] Those higher prices are embedded. While food prices overall aren't coming down now, they aren't rising anywhere near as fast as back then.",
+    "tag": null,
+    "verified": "page text",
+    "pieces": [
+     "While the rate of inflation in general was 3.6% in the year to October, food prices only went up by 0.9%.",
+     "So why the difference?",
+     "It is partly the result of intense competition between the supermarkets. Like many retailers, they are facing higher costs but are not passing that onto their customers in full.",
+     "There may be some scars from the recent cost-of-living spike here. Shoppers suffered a period during the big rise in inflation in 2022-23 when food prices rocketed.",
+     "Those higher prices are embedded. While food prices overall aren't coming down now, they aren't rising anywhere near as fast as back then."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o#:~:text=While%20the%20rate%20of%20inflation%20in%20general,anywhere%20near%20as%20fast%20as%20back%20then."
+   },
+   {
+    "source": "BBC Business",
+    "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+    "url": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o",
+    "date": "2026-11-18",
+    "quote": "Should high energy and fuel costs - which are driving the rising rate of inflation - persist, there are questions over whether the cost of producing and transporting food also goes up, and the chances of that higher cost being passed on to consumers are greater. […] Economists have been closely studying whether there are any signs of those so-called second-round effects - where an initial price shock spreads to wages, services and broader consumer prices. So far, there are relatively few.",
+    "tag": null,
+    "verified": "page text",
+    "pieces": [
+     "Should high energy and fuel costs - which are driving the rising rate of inflation - persist, there are questions over whether the cost of producing and transporting food also goes up, and the chances of that higher cost being passed on to consumers are greater.",
+     "Economists have been closely studying whether there are any signs of those so-called second-round effects - where an initial price shock spreads to wages, services and broader consumer prices. So far, there are relatively few."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o#:~:text=Should%20high%20energy%20and%20fuel%20costs%20%2D,prices.%20So%20far%2C%20there%20are%20relatively%20few."
    }
   ],
   "fiscal": [
