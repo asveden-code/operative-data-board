@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T10:02Z",
+ "generated_at": "2026-11-20T10:56Z",
  "window_days": {
   "press": 14,
   "think_tanks": 60
@@ -18,6 +18,21 @@
  ],
  "quotes": {
   "gdp": [
+   {
+    "source": "BBC Business",
+    "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
+    "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo",
+    "date": "2026-11-20",
+    "quote": "\"Supermarkets have told us that sales of long-life food items such as tinned food and UHT milk were boosted by the government's 'Be Ready' campaign,\" ONS chief economist Grant Fitzner said. \"Meanwhile fuel sales have been recovering from earlier low levels, despite pump prices rising again.\" The rise in retail sales last month beat some economists' expectations - they had predicted a slight fall - and the uptick came after a 0.6% decline in September.",
+    "tag": "Above forecast",
+    "verified": "page text",
+    "pieces": [
+     "\"Supermarkets have told us that sales of long-life food items such as tinned food and UHT milk were boosted by the government's 'Be Ready' campaign,\" ONS chief economist Grant Fitzner said.",
+     "\"Meanwhile fuel sales have been recovering from earlier low levels, despite pump prices rising again.\"",
+     "The rise in retail sales last month beat some economists' expectations - they had predicted a slight fall - and the uptick came after a 0.6% decline in September."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo#:~:text=%22Supermarkets%20have%20told%20us%20that%20sales%20of,came%20after%20a%200.6%25%20decline%20in%20September."
+   },
    {
     "source": "NIESR",
     "title": "Are We In The ‘Foothills’ Of AI-Driven Growth?",
@@ -145,21 +160,6 @@
      "The other potential dark cloud to the silver lining of AI-driven growth could come from the labour market. The context here is the warning issued this week from central banks that AI – among other factors – is leading to lower labour demand, putting downward pressure on hiring. Figure 5 provides some extra evidence here, showing that around one in ten businesses expect AI to reduce their headcount in the future, roughly double the 6 per cent already reporting AI-related reductions. By contrast, only 2 per cent anticipate a positive impact. In short, if we are in the foothills of AI-driven growth, then we are likely also at the very beginning of the labour market churn that comes with it."
     ],
     "link": "https://niesr.ac.uk/blog/are-we-foothills-ai-driven-growth#:~:text=The%20other%20potential%20dark%20cloud%20to%20the,labour%20market%20churn%20that%20comes%20with%20it."
-   },
-   {
-    "source": "BBC Business",
-    "title": "Faisal Islam: How high will interest rates go?",
-    "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o",
-    "date": "2026-11-05",
-    "quote": "The other notable factor is that the UK economy is performing much better than forecasts and expectations. This is underlined by the Bank of England's latest forecasts. […] Growth has been 0.6%, and 0.5% in the first two quarters of the year. It is heading for 0.7%, the Bank said, between July and September, before slowing in the three months to the end of the year. Unemployment has stabilised, actually falling a little. […] Some of this has fed through into a better performing currency, with sterling at its highest level since the Brexit referendum, when measured against a basket of currencies. This can help rein in inflation by making imports cheaper.",
-    "tag": "Unemployment falling",
-    "verified": "page text",
-    "pieces": [
-     "The other notable factor is that the UK economy is performing much better than forecasts and expectations. This is underlined by the Bank of England's latest forecasts.",
-     "Growth has been 0.6%, and 0.5% in the first two quarters of the year. It is heading for 0.7%, the Bank said, between July and September, before slowing in the three months to the end of the year. Unemployment has stabilised, actually falling a little.",
-     "Some of this has fed through into a better performing currency, with sterling at its highest level since the Brexit referendum, when measured against a basket of currencies. This can help rein in inflation by making imports cheaper."
-    ],
-    "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o#:~:text=The%20other%20notable%20factor%20is%20that%20the,rein%20in%20inflation%20by%20making%20imports%20cheaper."
    },
    {
     "source": "Resolution Foundation",
@@ -343,19 +343,17 @@
     "link": "https://niesr.ac.uk/blog/how-worried-mpc-about-risk-sticky-inflation#:~:text=The%20Bank%20of%20England%20raised%20Bank%20Rate,consistent%20with%20the%202%20per%20cent%20target."
    },
    {
-    "source": "BBC Business",
-    "title": "Interest rates hiked to 4% in first increase in over three years",
-    "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo",
-    "date": "2026-11-05",
-    "quote": "Interest rates have risen for the first time in more than three years and the Bank of England has signalled a further increase is likely unless the US-Iran war is resolved. […] Rates rose to 4% from 3.75% in a bid to curb inflation mainly driven by the conflict's impact on global oil prices. […] Andrew Bailey, the Bank's governor, said the decision \"shouldn't be seen as the first in an inevitable long sequence of hikes\", but warned \"unless the conflict in the Middle East is resolved, neither does it seem likely to be the last increase\".",
-    "tag": "First hike since 2023",
+    "source": "NIESR",
+    "title": "How Worried Is The MPC About The Risk Of ‘Sticky’ Inflation?",
+    "url": "https://niesr.ac.uk/blog/how-worried-mpc-about-risk-sticky-inflation",
+    "date": "2026-11-06",
+    "quote": "The central projection is not, however, a description of what the Committee expects to do, and the minutes say so. Most members describe a further increase or two as likely or possible and the path thereafter as conditional; Alan Taylor calls the November move “one-for-now” and says the next “could be up, down, or sideways”. The Bank’s survey of market participants says the same from outside: the median respondent expects Bank Rate to peak at 4.25 per cent in February and to be back at 3.5 per cent two years out, against a curve at 4.9 per cent. The Bank attributes the difference to risk premia.",
+    "tag": "Peak 4.25% expected",
     "verified": "page text",
     "pieces": [
-     "Interest rates have risen for the first time in more than three years and the Bank of England has signalled a further increase is likely unless the US-Iran war is resolved.",
-     "Rates rose to 4% from 3.75% in a bid to curb inflation mainly driven by the conflict's impact on global oil prices.",
-     "Andrew Bailey, the Bank's governor, said the decision \"shouldn't be seen as the first in an inevitable long sequence of hikes\", but warned \"unless the conflict in the Middle East is resolved, neither does it seem likely to be the last increase\"."
+     "The central projection is not, however, a description of what the Committee expects to do, and the minutes say so. Most members describe a further increase or two as likely or possible and the path thereafter as conditional; Alan Taylor calls the November move “one-for-now” and says the next “could be up, down, or sideways”. The Bank’s survey of market participants says the same from outside: the median respondent expects Bank Rate to peak at 4.25 per cent in February and to be back at 3.5 per cent two years out, against a curve at 4.9 per cent. The Bank attributes the difference to risk premia."
     ],
-    "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo#:~:text=Interest%20rates%20have%20risen%20for%20the%20first,seem%20likely%20to%20be%20the%20last%20increase%22."
+    "link": "https://niesr.ac.uk/blog/how-worried-mpc-about-risk-sticky-inflation#:~:text=The%20central%20projection%20is%20not%2C%20however%2C%20a,Bank%20attributes%20the%20difference%20to%20risk%20premia."
    },
    {
     "source": "Oxford Economics",
@@ -371,21 +369,6 @@
      "The majority gave the impression that once Bank Rate reaches 4.25%, subsequent decisions will be a closer call. We continue to think that second-round effects on pay and margins will prove limited, so we maintain our forecast that Bank Rate will peak at 4.25%, but the risks are skewed to the upside."
     ],
     "link": "https://www.oxfordeconomics.com/resource/uk-hawkish-monetary-policy-committee-puts-a-december-hike-on-the-table/#:~:text=The%20Monetary%20Policy%20Committee%20raised%20Bank%20Rate,the%20risks%20are%20skewed%20to%20the%20upside."
-   },
-   {
-    "source": "BBC Business",
-    "title": "Interest rates hiked to 4% in first increase in over three years",
-    "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo",
-    "date": "2026-11-05",
-    "quote": "The Bank now expects inflation to peak at 4.9% in the middle of next year, higher than it originally estimated, and not return to 2% until 2028. […] But in an \"adverse scenario\", where the US-Iran war could escalate further and send oil prices higher, inflation could reach 6.2% in 2027, it suggested. […] While the UK cannot control global energy prices, the Bank raised rates, for the first time since August 2023, in order to limit the knock-on effects of high energy prices resulting in inflation going up across the board.",
-    "tag": "Forecast peak 4.9%",
-    "verified": "page text",
-    "pieces": [
-     "The Bank now expects inflation to peak at 4.9% in the middle of next year, higher than it originally estimated, and not return to 2% until 2028.",
-     "But in an \"adverse scenario\", where the US-Iran war could escalate further and send oil prices higher, inflation could reach 6.2% in 2027, it suggested.",
-     "While the UK cannot control global energy prices, the Bank raised rates, for the first time since August 2023, in order to limit the knock-on effects of high energy prices resulting in inflation going up across the board."
-    ],
-    "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo#:~:text=The%20Bank%20now%20expects%20inflation%20to%20peak,in%20inflation%20going%20up%20across%20the%20board."
    },
    {
     "source": "BBC Business",
@@ -475,19 +458,17 @@
     "link": "https://www.resolutionfoundation.org/comment/ignore-the-rate-rise-worry-about-the-forecast/#:~:text=The%20bigger%20story%20this%20week%20wasn%E2%80%99t%20the,real%20terms%20than%20they%20were%20in%202025."
    },
    {
-    "source": "BBC Business",
-    "title": "Interest rates hiked to 4% in first increase in over three years",
-    "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo",
-    "date": "2026-11-05",
-    "quote": "The Bank now expects inflation to peak at 4.9% in the middle of next year, higher than it originally estimated, and not return to 2% until 2028. […] But in an \"adverse scenario\", where the US-Iran war could escalate further and send oil prices higher, inflation could reach 6.2% in 2027, it suggested. […] While the UK cannot control global energy prices, the Bank raised rates, for the first time since August 2023, in order to limit the knock-on effects of high energy prices resulting in inflation going up across the board.",
-    "tag": "Forecast peak 4.9%",
+    "source": "NIESR",
+    "title": "How Worried Is The MPC About The Risk Of ‘Sticky’ Inflation?",
+    "url": "https://niesr.ac.uk/blog/how-worried-mpc-about-risk-sticky-inflation",
+    "date": "2026-11-06",
+    "quote": "Start with the central projection. It is conditioned on the path for Bank Rate implied by market prices, which rises to 4.9 per cent by the end of 2027 and is still 4.7 per cent at the end of 2029. On that path, CPI inflation peaks at around 5 per cent next summer, returns rapidly to the 2 per cent target in the second half of 2028 and ends the forecast at 1.8 per cent, with output about 1 per cent below potential throughout (Figure 1).",
+    "tag": "Peak near 5%",
     "verified": "page text",
     "pieces": [
-     "The Bank now expects inflation to peak at 4.9% in the middle of next year, higher than it originally estimated, and not return to 2% until 2028.",
-     "But in an \"adverse scenario\", where the US-Iran war could escalate further and send oil prices higher, inflation could reach 6.2% in 2027, it suggested.",
-     "While the UK cannot control global energy prices, the Bank raised rates, for the first time since August 2023, in order to limit the knock-on effects of high energy prices resulting in inflation going up across the board."
+     "Start with the central projection. It is conditioned on the path for Bank Rate implied by market prices, which rises to 4.9 per cent by the end of 2027 and is still 4.7 per cent at the end of 2029. On that path, CPI inflation peaks at around 5 per cent next summer, returns rapidly to the 2 per cent target in the second half of 2028 and ends the forecast at 1.8 per cent, with output about 1 per cent below potential throughout (Figure 1)."
     ],
-    "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo#:~:text=The%20Bank%20now%20expects%20inflation%20to%20peak,in%20inflation%20going%20up%20across%20the%20board."
+    "link": "https://niesr.ac.uk/blog/how-worried-mpc-about-risk-sticky-inflation#:~:text=Start%20with%20the%20central%20projection.%20It%20is,per%20cent%20below%20potential%20throughout%20%28Figure%201%29."
    },
    {
     "source": "NIESR",
@@ -504,6 +485,22 @@
    }
   ],
   "gilt": [
+   {
+    "source": "BBC Business",
+    "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
+    "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo",
+    "date": "2026-11-20",
+    "quote": "Borrowing - the difference between public sector spending and income - was £17bn last month, the ONS said. Although that was £0.8bn higher than October last year, it was below analysts' forecasts of about £18bn. Interest repayments were £11.2bn - the highest October debt interest figure on record - and £2.8bn more than a year ago. These repayments have been pushed up by higher inflation, as payments on index-linked government bonds are linked to the inflation rate.",
+    "tag": "Record debt interest",
+    "verified": "page text",
+    "pieces": [
+     "Borrowing - the difference between public sector spending and income - was £17bn last month, the ONS said.",
+     "Although that was £0.8bn higher than October last year, it was below analysts' forecasts of about £18bn.",
+     "Interest repayments were £11.2bn - the highest October debt interest figure on record - and £2.8bn more than a year ago.",
+     "These repayments have been pushed up by higher inflation, as payments on index-linked government bonds are linked to the inflation rate."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo#:~:text=Borrowing%20%2D%20the%20difference%20between%20public%20sector,bonds%20are%20linked%20to%20the%20inflation%20rate."
+   },
    {
     "source": "NIESR",
     "title": "Are We In The ‘Foothills’ Of AI-Driven Growth?",
@@ -660,18 +657,6 @@
     "headline": "Brent crude briefly dips below $90 for first time since August on Iran hopes",
     "standfirst": "President Trump said Monday he thought the conflict was \"going to be ending fairly soon,\" but some analysts still see little chance of a lasting peace deal.",
     "link": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html#:~:text=Brent%20crude%20briefly%20dips%20below%20%2490%20for%20first%20time%20since%20August%20on%20Iran%20hopes"
-   },
-   {
-    "source": "CNBC Economy",
-    "title": "Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy",
-    "url": "https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html",
-    "date": "2026-11-06",
-    "quote": "Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy. Bob McNally predicts that both Brent and West Texas Intermediate futures will jump above $100.",
-    "tag": "Forecast above $100",
-    "verified": "publisher feed",
-    "headline": "Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy",
-    "standfirst": "Bob McNally predicts that both Brent and West Texas Intermediate futures will jump above $100.",
-    "link": "https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html#:~:text=Renewed%20U.S.%2DIran%20tension%20could%20push%20oil%20past%20%24100%3A%20Rapidan%20Energy"
    }
   ],
   "gas": [
@@ -838,18 +823,6 @@
     "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo#:~:text=The%20Iran%20conflict%20remains%20the%20big%20unknown,government%20borrowing%20costs%2C%20and%20mortgage%20costs%20too."
    },
    {
-    "source": "CNBC Economy",
-    "title": "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes",
-    "url": "https://www.cnbc.com/2026/11/10/trump-iran-war-hormuz-.html",
-    "date": "2026-11-10",
-    "quote": "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes. “Iran militarily is effectively over,” Trump said, citing the destruction of its navy and surging inflation that he said has hollowed out Tehran's economy.",
-    "tag": "De-escalation",
-    "verified": "publisher feed",
-    "headline": "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes",
-    "standfirst": "“Iran militarily is effectively over,” Trump said, citing the destruction of its navy and surging inflation that he said has hollowed out Tehran's economy.",
-    "link": "https://www.cnbc.com/2026/11/10/trump-iran-war-hormuz-.html#:~:text=Trump%20says%20Iran%20war%20to%20end%20%27fairly%20soon%2C%27%20plays%20down%20prospects%20of%20new%20strikes"
-   },
-   {
     "source": "Oxford Economics",
     "title": "GCC recovery tracker shows initial rebound has stalled",
     "url": "https://www.oxfordeconomics.com/resource/gcc-recovery-tracker-shows-initial-rebound-has-stalled/",
@@ -862,21 +835,21 @@
     ],
     "verified": "page text",
     "link": "https://www.oxfordeconomics.com/resource/gcc-recovery-tracker-shows-initial-rebound-has-stalled/#:~:text=The%20GCC%20recovery%20tracker%20indicates%20a%20notable,remains%20at%20only%2077%25%20of%20pre%2Dconflict%20levels."
+   },
+   {
+    "source": "The Economist",
+    "title": "Neither America nor Iran has the means to end the war",
+    "url": "https://www.economist.com/middle-east-and-africa/2026/11/19/neither-america-nor-iran-has-the-means-to-end-the-war",
+    "date": "2026-11-19",
+    "quote": "Neither America nor Iran has the means to end the war. From fridges to tankers, both sides are reduced to pinpricks",
+    "tag": null,
+    "verified": "publisher feed",
+    "headline": "Neither America nor Iran has the means to end the war",
+    "standfirst": "From fridges to tankers, both sides are reduced to pinpricks",
+    "link": "https://www.economist.com/middle-east-and-africa/2026/11/19/neither-america-nor-iran-has-the-means-to-end-the-war#:~:text=Neither%20America%20nor%20Iran%20has%20the%20means%20to%20end%20the%20war"
    }
   ],
   "ecb": [
-   {
-    "source": "CNBC Economy",
-    "title": "Nationwide strikes loom as French budget is unanimously rejected by lawmakers",
-    "url": "https://www.cnbc.com/2026/11/05/france-budget-debt-strikes.html",
-    "date": "2026-11-05",
-    "quote": "Nationwide strikes loom as French budget is unanimously rejected by lawmakers. The National Assembly unanimously voted against adopting the government's proposed 2027 budget.",
-    "tag": "Budget rejected",
-    "verified": "publisher feed",
-    "headline": "Nationwide strikes loom as French budget is unanimously rejected by lawmakers",
-    "standfirst": "The National Assembly unanimously voted against adopting the government's proposed 2027 budget.",
-    "link": "https://www.cnbc.com/2026/11/05/france-budget-debt-strikes.html#:~:text=Nationwide%20strikes%20loom%20as%20French%20budget%20is%20unanimously%20rejected%20by%20lawmakers"
-   },
    {
     "source": "Bruegel",
     "title": "Ahead of a presidential election, France first needs to help itself on debt",
@@ -890,6 +863,19 @@
     "tag": "Sovereign stress",
     "verified": "page text",
     "link": "https://www.bruegel.org/analysis/ahead-presidential-election-france-first-needs-help-itself-debt#:~:text=Of%20all%20the%20sovereigns%20facing%20rising%20rates%2C,public%20debt%20and%20the%20French%20social%20model."
+   },
+   {
+    "source": "Bruegel",
+    "title": "Ahead of a presidential election, France first needs to help itself on debt",
+    "url": "https://www.bruegel.org/analysis/ahead-presidential-election-france-first-needs-help-itself-debt",
+    "date": "2026-10-12",
+    "quote": "The French-German spread indicates how much of the bond repricing is specific to France relative to Germany, but the outright yield is the market variable that matters most for debt dynamics. It determines the marginal rate at which France refinances itself and, over time, the effective interest cost on the debt stock. The government now projects the debt-interest bill to rise from €79.2 billion in 2026 to €91.2 billion in 2027. With gross financing needs running into hundreds of billions of euros per year, a persistently higher clearing yield will gradually raise debt-service costs and make an already difficult fiscal adjustment harder.",
+    "tag": "Interest bill €91bn",
+    "verified": "page text",
+    "pieces": [
+     "The French-German spread indicates how much of the bond repricing is specific to France relative to Germany, but the outright yield is the market variable that matters most for debt dynamics. It determines the marginal rate at which France refinances itself and, over time, the effective interest cost on the debt stock. The government now projects the debt-interest bill to rise from €79.2 billion in 2026 to €91.2 billion in 20271. With gross financing needs running into hundreds of billions of euros per year, a persistently higher clearing yield will gradually raise debt-service costs and make an already difficult fiscal adjustment harder."
+    ],
+    "link": "https://www.bruegel.org/analysis/ahead-presidential-election-france-first-needs-help-itself-debt#:~:text=The%20French%2DGerman%20spread%20indicates%20how%20much%20of,make%20an%20already%20difficult%20fiscal%20adjustment%20harder."
    },
    {
     "source": "Oxford Economics",
@@ -1069,6 +1055,18 @@
     "link": "https://www.oxfordeconomics.com/resource/the-model-assistant-in-action-what-would-an-escalating-iran-war-mean-for-bond-yields/#:~:text=The%20war%20in%20Iran%20has%20already%20pushed,our%20latest%20analysis%20of%20the%20bond%20sell%2Doff."
    },
    {
+    "source": "The Economist",
+    "title": "Bond yields are rising everywhere—except China",
+    "url": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china",
+    "date": "2026-11-19",
+    "quote": "Bond yields are rising everywhere—except China. The Chinese central bank has cut interest rates despite itself",
+    "tag": null,
+    "verified": "publisher feed",
+    "headline": "Bond yields are rising everywhere—except China",
+    "standfirst": "The Chinese central bank has cut interest rates despite itself",
+    "link": "https://www.economist.com/finance-and-economics/2026/11/19/bond-yields-are-rising-everywhere-except-china#:~:text=Bond%20yields%20are%20rising%20everywhere%E2%80%94except%20China"
+   },
+   {
     "source": "Tax Foundation",
     "title": "What Is the US Debt Limit and Why Does It Matter?",
     "url": "https://taxfoundation.org/blog/what-is-the-us-debt-limit-and-why-does-it-matter/",
@@ -1183,6 +1181,20 @@
   "food": [
    {
     "source": "BBC Business",
+    "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
+    "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo",
+    "date": "2026-11-20",
+    "quote": "Retail sales rose in October, driven by people buying long-life food such as tinned goods and UHT milk, according to official figures. Sales volumes were 0.7% higher as people responded to the government's emergency preparedness \"Be Ready\" campaign, the Office for National Statistics (ONS) said.",
+    "tag": "Stockpiling",
+    "verified": "page text",
+    "pieces": [
+     "Retail sales rose in October, driven by people buying long-life food such as tinned goods and UHT milk, according to official figures.",
+     "Sales volumes were 0.7% higher as people responded to the government's emergency preparedness \"Be Ready\" campaign, the Office for National Statistics (ONS) said."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo#:~:text=Retail%20sales%20rose%20in%20October%2C%20driven%20by,the%20Office%20for%20National%20Statistics%20%28ONS%29%20said."
+   },
+   {
+    "source": "BBC Business",
     "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
     "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo",
     "date": "2026-11-18",
@@ -1209,20 +1221,6 @@
      "Some exports are rejected for having the wrong colour of ink on forms, or an inaccurate Latin name for cooked meats."
     ],
     "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo#:~:text=Speaking%20at%20a%20Marks%20%26%20Spencer%20food,an%20inaccurate%20Latin%20name%20for%20cooked%20meats."
-   },
-   {
-    "source": "BBC Business",
-    "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
-    "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o",
-    "date": "2026-11-10",
-    "quote": "Sales of essential goods such as bottled water and canned food soared in the 10 days following the launch of the government's \"Be Ready\" emergency preparedness campaign on 22 October, research indicates. […] Hand sanitiser sales were up 83%, sales of bottled water rose 67% and tinned and jarred goods climbed 37%, according to data from retail research firm Worldpanel by Numerator.",
-    "tag": "Stockpiling",
-    "verified": "page text",
-    "pieces": [
-     "Sales of essential goods such as bottled water and canned food soared in the 10 days following the launch of the government's \"Be Ready\" emergency preparedness campaign on 22 October, research indicates.",
-     "Hand sanitiser sales were up 83%, sales of bottled water rose 67% and tinned and jarred goods climbed 37%, according to data from retail research firm Worldpanel by Numerator."
-    ],
-    "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o#:~:text=Sales%20of%20essential%20goods%20such%20as%20bottled,from%20retail%20research%20firm%20Worldpanel%20by%20Numerator."
    },
    {
     "source": "BBC Business",
@@ -1273,6 +1271,22 @@
    }
   ],
   "fiscal": [
+   {
+    "source": "BBC Business",
+    "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
+    "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo",
+    "date": "2026-11-20",
+    "quote": "Borrowing - the difference between public sector spending and income - was £17bn last month, the ONS said. Although that was £0.8bn higher than October last year, it was below analysts' forecasts of about £18bn. Interest repayments were £11.2bn - the highest October debt interest figure on record - and £2.8bn more than a year ago. These repayments have been pushed up by higher inflation, as payments on index-linked government bonds are linked to the inflation rate.",
+    "tag": "Record debt interest",
+    "verified": "page text",
+    "pieces": [
+     "Borrowing - the difference between public sector spending and income - was £17bn last month, the ONS said.",
+     "Although that was £0.8bn higher than October last year, it was below analysts' forecasts of about £18bn.",
+     "Interest repayments were £11.2bn - the highest October debt interest figure on record - and £2.8bn more than a year ago.",
+     "These repayments have been pushed up by higher inflation, as payments on index-linked government bonds are linked to the inflation rate."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo#:~:text=Borrowing%20%2D%20the%20difference%20between%20public%20sector,bonds%20are%20linked%20to%20the%20inflation%20rate."
+   },
    {
     "source": "NIESR",
     "title": "How Is The UK’s Deficit Reduction Plan (Actually) Likely To Proceed?",
@@ -1352,19 +1366,6 @@
     "tag": "56% chance on rule",
     "verified": "page text",
     "link": "https://www.instituteforgovernment.org.uk/comment/john-healeys-underwhelming-budget#:~:text=Many%20small%20changes%20could%20have%20cumulated%20to,down%20from%2059%25%20at%20the%20last%20budget."
-   },
-   {
-    "source": "NIESR",
-    "title": "Are We In The ‘Foothills’ Of AI-Driven Growth?",
-    "url": "https://niesr.ac.uk/blog/are-we-foothills-ai-driven-growth",
-    "date": "2026-11-13",
-    "quote": "Indeed, as set out in our recent Market Anatomy, around a third of the rise in gilt yields since February seems likely to be attributed to the rise in demand from AI investment. If we are only a tenth of the way through the buildout, there will be more upward pressure on interest rates, tightening financial conditions and dampening UK economic activity. An implication of this is that the Chancellor should certainly not bank on a fall in the cost of borrowing providing a substantial boost to the public finances in the near future.",
-    "tag": null,
-    "verified": "page text",
-    "pieces": [
-     "Indeed, as set out in our recent Market Anatomy, around a third of the rise in gilt yields since February seems likely to be attributed to the rise in demand from AI investment. If we are only a tenth of the way through the buildout, there will be more upward pressure on interest rates, tightening financial conditions and dampening UK economic activity. An implication of this is that the Chancellor should certainly not bank on a fall in the cost of borrowing providing a substantial boost to the public finances in the near future."
-    ],
-    "link": "https://niesr.ac.uk/blog/are-we-foothills-ai-driven-growth#:~:text=Indeed%2C%20as%20set%20out%20in%20our%20recent,the%20public%20finances%20in%20the%20near%20future."
    }
   ],
   "tariff": [
