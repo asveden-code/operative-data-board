@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T10:56Z",
+ "generated_at": "2026-11-22T13:19Z",
  "window_days": {
   "press": 14,
   "think_tanks": 60
@@ -20,16 +20,45 @@
   "gdp": [
    {
     "source": "BBC Business",
+    "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+    "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo",
+    "date": "2026-11-20",
+    "quote": "Bringing all the agreements on food, emissions and the youth experience together, the economy is forecast to get an overall boost of 0.5%, or £17bn a year. […] A modest boost, but high by the standards of past post-Brexit trade deals, for example, with Australia, India or Japan and the Gulf and the trans-pacific deal. […] This UK-EU pact actually matches all of those agreements combined for expected growth measured by the Treasury's own assessments.",
+    "tag": "Deal adds 0.5%",
+    "verified": "page text",
+    "pieces": [
+     "Bringing all the agreements on food, emissions and the youth experience together, the economy is forecast to get an overall boost of 0.5%, or £17bn a year.",
+     "A modest boost, but high by the standards of past post-Brexit trade deals, for example, with Australia, India or Japan and the Gulf and the trans-pacific deal.",
+     "This UK-EU pact actually matches all of those agreements combined for expected growth measured by the Treasury's own assessments."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo#:~:text=Bringing%20all%20the%20agreements%20on%20food%2C%20emissions,growth%20measured%20by%20the%20Treasury%27s%20own%20assessments."
+   },
+   {
+    "source": "Resolution Foundation",
+    "title": "Brejoin would bring back uncertainty, but less than the first time around",
+    "url": "https://www.resolutionfoundation.org/comment/brejoin-would-bring-back-uncertainty-but-less-than-the-first-time-around/",
+    "date": "2026-11-20",
+    "quote": "The clearest damage from our departure is to goods trade. The value of UK goods exports fell by around £10 billion between 2019 and 2024, even as world goods exports grew by a quarter, and the UK had the largest fall in goods export volumes in the G7, as this first chart shows. Services have held up better – they made up 59 per cent of UK exports in 2024, up from 48 per cent in 2019 – but that’s from goods shrinking, rather than services growing. In fact, our services exports have only just kept pace with the rest of the G7. […] Add it all up and the hit to the economy may be bigger than expected before we breparted (sorry). The Office for Budget Responsibility assumes Brexit will eventually reduce productivity by around 4 per cent. We reckon GDP is already between 4 and 10 per cent lower.",
+    "tag": "Brexit hit 4–10%",
+    "verified": "page text",
+    "pieces": [
+     "The clearest damage from our departure is to goods trade. The value of UK goods exports fell by around £10 billion between 2019 and 2024, even as world goods exports grew by a quarter, and the UK had the largest fall in goods export volumes in the G7, as this first chart shows. Services have held up better – they made up 59 per cent of UK exports in 2024, up from 48 per cent in 2019 – but that’s from goods shrinking, rather than services growing. In fact, our services exports have only just kept pace with the rest of the G7.",
+     "Add it all up and the hit to the economy may be bigger than expected before we breparted (sorry). The Office for Budget Responsibility assumes Brexit will eventually reduce productivity by around 4 per cent. We reckon GDP is already between 4 and 10 per cent lower."
+    ],
+    "link": "https://www.resolutionfoundation.org/comment/brejoin-would-bring-back-uncertainty-but-less-than-the-first-time-around/#:~:text=The%20clearest%20damage%20from%20our%20departure%20is,between%204%20and%2010%20per%20cent%20lower."
+   },
+   {
+    "source": "BBC Business",
     "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
     "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo",
     "date": "2026-11-20",
-    "quote": "\"Supermarkets have told us that sales of long-life food items such as tinned food and UHT milk were boosted by the government's 'Be Ready' campaign,\" ONS chief economist Grant Fitzner said. \"Meanwhile fuel sales have been recovering from earlier low levels, despite pump prices rising again.\" The rise in retail sales last month beat some economists' expectations - they had predicted a slight fall - and the uptick came after a 0.6% decline in September.",
+    "quote": "\"Supermarkets have told us that sales of long-life food items such as tinned food and UHT milk were boosted by the government's 'Be Ready' campaign,\" ONS chief economist Grant Fitzner said. […] \"Meanwhile fuel sales have been recovering from earlier low levels, despite pump prices rising again.\" […] The rise in retail sales last month beat some economists' expectations - they had predicted a slight fall - and the increase came after a 0.6% decline in September.",
     "tag": "Above forecast",
     "verified": "page text",
     "pieces": [
      "\"Supermarkets have told us that sales of long-life food items such as tinned food and UHT milk were boosted by the government's 'Be Ready' campaign,\" ONS chief economist Grant Fitzner said.",
      "\"Meanwhile fuel sales have been recovering from earlier low levels, despite pump prices rising again.\"",
-     "The rise in retail sales last month beat some economists' expectations - they had predicted a slight fall - and the uptick came after a 0.6% decline in September."
+     "The rise in retail sales last month beat some economists' expectations - they had predicted a slight fall - and the increase came after a 0.6% decline in September."
     ],
     "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo#:~:text=%22Supermarkets%20have%20told%20us%20that%20sales%20of,came%20after%20a%200.6%25%20decline%20in%20September."
    },
@@ -78,19 +107,6 @@
    },
    {
     "source": "NIESR",
-    "title": "The Minimal Credibility Test For The Autumn 2026 Budget",
-    "url": "https://niesr.ac.uk/blog/minimal-credibility-test-autumn-2026-budget",
-    "date": "2026-10-23",
-    "quote": "Growth has proved far more resilient than almost anyone expected in March. GDP has grown by 1.8 per cent so far this year, with four months still to go. That is remarkable, and it exceeds anyone’s estimate of trend; our own is 1.3 per cent. The labour market tells the same story. Unemployment has fallen since the start of the year and is now half a percentage point below the OBR’s March forecast.",
-    "pieces": [
-     "Growth has proved far more resilient than almost anyone expected in March. GDP has grown by 1.8 per cent so far this year, with four months still to go. That is remarkable, and it exceeds anyone’s estimate of trend; our own is 1.3 per cent. The labour market tells the same story. Unemployment has fallen since the start of the year and is now half a percentage point below the OBR’s March forecast."
-    ],
-    "tag": "Above trend",
-    "verified": "page text",
-    "link": "https://niesr.ac.uk/blog/minimal-credibility-test-autumn-2026-budget#:~:text=Growth%20has%20proved%20far%20more%20resilient%20than,percentage%20point%20below%20the%20OBR%E2%80%99s%20March%20forecast."
-   },
-   {
-    "source": "NIESR",
     "title": "Are We In The ‘Foothills’ Of AI-Driven Growth?",
     "url": "https://niesr.ac.uk/blog/are-we-foothills-ai-driven-growth",
     "date": "2026-11-13",
@@ -101,21 +117,6 @@
      "The first place to look for the effect of AI is in the investment needed for its infrastructure. Spending on data centres, servers, semiconductors, connections to the power grid, and the software itself should show up as a boost to investment. In that context, it’s encouraging that investment has been strong in recent quarters – contributing around half of GDP growth in Q3. More compellingly, if we look at the assets that are being invested in – as shown in Figure 1 – it’s ICT equipment and buildings where investment is concentrated. So this picture is at least consistent with a growth bump from AI investment, albeit this is very much circumstantial evidence. It’s also important to stress that the contribution to UK GDP will depend on the extent to which this new infrastructure is imported, and how much is produced at home and in that context, it’s striking that net trade was a drag on GDP in the latest data. This is something that we should expect to continue."
     ],
     "link": "https://niesr.ac.uk/blog/are-we-foothills-ai-driven-growth#:~:text=The%20first%20place%20to%20look%20for%20the,something%20that%20we%20should%20expect%20to%20continue."
-   },
-   {
-    "source": "BBC Business",
-    "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
-    "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo",
-    "date": "2026-11-12",
-    "quote": "Spending on AI and tech have driven the surprise upside over the year. While the AI data centre boom may at any point turn to bust, these figures suggest that spending across the economy on investing in these technologies is helping to boost  growth. Consumers have been resilient, at least till the autumn, perhaps helped by better economic vibes. […] While there has been an understandable focus on high UK borrowing costs, another measure of the international standing of the UK economy, sterling's value, reached post Brexit referendum highs last week. […] Productivity and investment is also looking stronger, especially after recent revisions. Some of the most encouraging figures are in private sector business investment.",
-    "tag": null,
-    "verified": "page text",
-    "pieces": [
-     "Spending on AI and tech have driven the surprise upside over the year. While the AI data centre boom may at any point turn to bust, these figures suggest that spending across the economy on investing in these technologies is helping to boost  growth. Consumers have been resilient, at least till the autumn, perhaps helped by better economic vibes.",
-     "While there has been an understandable focus on high UK borrowing costs, another measure of the international standing of the UK economy, sterling's value, reached post Brexit referendum highs last week.",
-     "Productivity and investment is also looking stronger, especially after recent revisions. Some of the most encouraging figures are in private sector business investment."
-    ],
-    "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo#:~:text=Spending%20on%20AI%20and%20tech%20have%20driven,figures%20are%20in%20private%20sector%20business%20investment."
    }
   ],
   "unemp": [
@@ -204,6 +205,33 @@
    }
   ],
   "pop": [
+   {
+    "source": "BBC Business",
+    "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+    "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o",
+    "date": "2026-11-20",
+    "quote": "The new youth experience scheme will allow up to 100,000 18 to 31 year olds from the EU to travel, work and study in the UK for up to three years. The same number of young Britons will be allowed into Europe. […] The two sides want to ensure that opportunities under the annual scheme will be available to young people by no later than January 2030.",
+    "tag": "Youth scheme agreed",
+    "verified": "page text",
+    "pieces": [
+     "The new youth experience scheme will allow up to 100,000 18 to 31 year olds from the EU to travel, work and study in the UK for up to three years. The same number of young Britons will be allowed into Europe.",
+     "The two sides want to ensure that opportunities under the annual scheme will be available to young people by no later than January 2030."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o#:~:text=The%20new%20youth%20experience%20scheme%20will%20allow,people%20by%20no%20later%20than%20January%202030."
+   },
+   {
+    "source": "Institute for Government",
+    "title": "Andy Burnham’s EU ‘reset’ deal highlights the problems of incrementalism",
+    "url": "https://www.instituteforgovernment.org.uk/comment/andy-burnhams-eu-reset-deal",
+    "date": "2026-11-20",
+    "quote": "Opponents are arguing that these breach the UK’s red lines by effectively moving us inside the single market for agricultural goods, that the UK has become a rule taker by accepting the EU design of emissions trading, and that the YES is tantamount to freedom of movement through the backdoor. However, the UK parliament could still decide not to accept new EU rules (though at the price that access newly gained would be lost) and the YES is a souped up version of working holiday schemes that the UK already has with nations like Australia, Canada and South Korea. Indeed, the EU could say that 100,000 is proportionally very low compared to Australia’s 45,000 annual quota. The big concession will come when/if the UK discounts tuition fees for EU students at UK universities – something not conceded to any of these other countries. That remains to be negotiated within the next six months. The language in the joint statement avoids pegging agreement to charging domestic fees and it remains to be seen whether the EU will settle for less.",
+    "tag": null,
+    "verified": "page text",
+    "pieces": [
+     "Opponents are arguing that these breach the UK’s red lines by effectively moving us inside the single market for agricultural goods, that the UK has become a rule taker by accepting the EU design of emissions trading, and that the YES is tantamount to freedom of movement through the backdoor. However, the UK parliament could still decide not to accept new EU rules (though at the price that access newly gained would be lost) and the YES is a souped up version of working holiday schemes that the UK already has with nations like Australia, Canada and South Korea. Indeed, the EU could say that 100,000 is proportionally very low compared to Australia’s 45,000 annual quota. The big concession will come when/if the UK discounts tuition fees for EU students at UK universities – something not conceded to any of these other countries. That remains to be negotiated within the next six months. The language in the joint statement avoids pegging agreement to charging domestic fees and it remains to be seen whether the EU will settle for less."
+    ],
+    "link": "https://www.instituteforgovernment.org.uk/comment/andy-burnhams-eu-reset-deal#:~:text=Opponents%20are%20arguing%20that%20these%20breach%20the,whether%20the%20EU%20will%20settle%20for%20less."
+   },
    {
     "source": "Institute for Government",
     "title": "Shabana Mahmood’s immigration plans have been badly handled from the start",
@@ -661,6 +689,18 @@
   ],
   "gas": [
    {
+    "source": "CNBC Economy",
+    "title": "An early breakdown in the polar vortex is threatening already depleted gas stocks",
+    "url": "https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html",
+    "date": "2026-11-21",
+    "quote": "An early breakdown in the polar vortex is threatening already depleted gas stocks. Colder weather and low wind speeds could strain Europe’s gas market, where storage started winter at its lowest level in more than a decade.",
+    "tag": "Storage at decade low",
+    "verified": "publisher feed",
+    "headline": "An early breakdown in the polar vortex is threatening already depleted gas stocks",
+    "standfirst": "Colder weather and low wind speeds could strain Europe’s gas market, where storage started winter at its lowest level in more than a decade.",
+    "link": "https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html#:~:text=An%20early%20breakdown%20in%20the%20polar%20vortex%20is%20threatening%20already%20depleted%20gas%20stocks"
+   },
+   {
     "source": "BBC Business",
     "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
     "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo",
@@ -702,20 +742,6 @@
      "The UK government said that over its expected 11-year lifespan, Jackdaw would support the UK's gas supply, protect hundreds of jobs and add £2.9bn to the economy."
     ],
     "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po#:~:text=Adura%20has%20said%20Jackdaw%20will%20provide%20about,jobs%20and%20add%20%C2%A32.9bn%20to%20the%20economy."
-   },
-   {
-    "source": "BBC Business",
-    "title": "The superpower battle over energy – and what it means for your bills",
-    "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o",
-    "date": "2026-11-10",
-    "quote": "Since US and Israeli strikes on Iran in February effectively closed the Strait of Hormuz, oil and gas prices have soared. […] Winter is expected to push them higher still: demand for gas is rising just as Europe's winter gas stores are at their lowest since records began in 2011.",
-    "tag": "Record low storage",
-    "verified": "page text",
-    "pieces": [
-     "Since US and Israeli strikes on Iran in February effectively closed the Strait of Hormuz, oil and gas prices have soared.",
-     "Winter is expected to push them higher still: demand for gas is rising just as Europe's winter gas stores are at their lowest since records began in 2011."
-    ],
-    "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o#:~:text=Since%20US%20and%20Israeli%20strikes%20on%20Iran,their%20lowest%20since%20records%20began%20in%202011."
    },
    {
     "source": "Resolution Foundation",
@@ -908,6 +934,19 @@
   ],
   "fed": [
    {
+    "source": "Oxford Economics",
+    "title": "US Key Themes 2027",
+    "url": "https://www.oxfordeconomics.com/resource/us-key-themes-2027/",
+    "date": "2026-11-21",
+    "quote": "The US economy heads into 2027 after absorbing an energy price shock, a hawkish shift from the Federal Reserve, and a change of control in Congress. We expect GDP growth to strengthen to 2.5% from 2.4% in 2026, well above the consensus forecast of 2.1%. That resilience masks an economy that’s reliant on a single engine.",
+    "tag": "Growth above consensus",
+    "verified": "page text",
+    "pieces": [
+     "The US economy heads into 2027 after absorbing an energy price shock, a hawkish shift from the Federal Reserve, and a change of control in Congress. We expect GDP growth to strengthen to 2.5% from 2.4% in 2026, well above the consensus forecast of 2.1%. That resilience masks an economy that’s reliant on a single engine."
+    ],
+    "link": "https://www.oxfordeconomics.com/resource/us-key-themes-2027/#:~:text=The%20US%20economy%20heads%20into%202027%20after,economy%20that%E2%80%99s%20reliant%20on%20a%20single%20engine."
+   },
+   {
     "source": "CNBC Economy",
     "title": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
     "url": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html",
@@ -971,30 +1010,6 @@
      "However, analysts had expected prices to rise by 0.3%, and the higher-than-expected pace could add to arguments for the Federal Reserve to raise interest rates at its next meeting in December."
     ],
     "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o#:~:text=US%20inflation%20rose%20at%20a%20faster%2Dthan%2Dexpected%20pace,rates%20at%20its%20next%20meeting%20in%20December."
-   },
-   {
-    "source": "CNBC Economy",
-    "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
-    "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
-    "date": "2026-11-06",
-    "quote": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%. Nonfarm payrolls were expected to increase by 59,000 in October as the unemployment rate was expected to hold steady at 4.2%.",
-    "tag": "Above forecast",
-    "verified": "publisher feed",
-    "headline": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
-    "standfirst": "Nonfarm payrolls were expected to increase by 59,000 in October as the unemployment rate was expected to hold steady at 4.2%.",
-    "link": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html#:~:text=U.S.%20economy%20added%20165%2C000%20jobs%20in%20October%2C%20way%20more%20than%20expected%3B%20unemployment%20rate%20slips%20to%204.1%25"
-   },
-   {
-    "source": "CNBC Economy",
-    "title": "A disturbing employment trend is hiding beneath the latest strong job numbers",
-    "url": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
-    "date": "2026-11-06",
-    "quote": "A disturbing employment trend is hiding beneath the latest strong job numbers. The average jobless worker's bout of unemployment surpassed 27 weeks in October, the highest outside of the pandemic period in a decade.",
-    "tag": "Decade high",
-    "verified": "publisher feed",
-    "headline": "A disturbing employment trend is hiding beneath the latest strong job numbers",
-    "standfirst": "The average jobless worker's bout of unemployment surpassed 27 weeks in October, the highest outside of the pandemic period in a decade.",
-    "link": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html#:~:text=A%20disturbing%20employment%20trend%20is%20hiding%20beneath%20the%20latest%20strong%20job%20numbers"
    }
   ],
   "ust": [
@@ -1096,6 +1111,20 @@
   "tfp": [
    {
     "source": "Resolution Foundation",
+    "title": "Brejoin would bring back uncertainty, but less than the first time around",
+    "url": "https://www.resolutionfoundation.org/comment/brejoin-would-bring-back-uncertainty-but-less-than-the-first-time-around/",
+    "date": "2026-11-20",
+    "quote": "The clearest damage from our departure is to goods trade. The value of UK goods exports fell by around £10 billion between 2019 and 2024, even as world goods exports grew by a quarter, and the UK had the largest fall in goods export volumes in the G7, as this first chart shows. Services have held up better – they made up 59 per cent of UK exports in 2024, up from 48 per cent in 2019 – but that’s from goods shrinking, rather than services growing. In fact, our services exports have only just kept pace with the rest of the G7. […] Add it all up and the hit to the economy may be bigger than expected before we breparted (sorry). The Office for Budget Responsibility assumes Brexit will eventually reduce productivity by around 4 per cent. We reckon GDP is already between 4 and 10 per cent lower.",
+    "tag": "Brexit hit 4–10%",
+    "verified": "page text",
+    "pieces": [
+     "The clearest damage from our departure is to goods trade. The value of UK goods exports fell by around £10 billion between 2019 and 2024, even as world goods exports grew by a quarter, and the UK had the largest fall in goods export volumes in the G7, as this first chart shows. Services have held up better – they made up 59 per cent of UK exports in 2024, up from 48 per cent in 2019 – but that’s from goods shrinking, rather than services growing. In fact, our services exports have only just kept pace with the rest of the G7.",
+     "Add it all up and the hit to the economy may be bigger than expected before we breparted (sorry). The Office for Budget Responsibility assumes Brexit will eventually reduce productivity by around 4 per cent. We reckon GDP is already between 4 and 10 per cent lower."
+    ],
+    "link": "https://www.resolutionfoundation.org/comment/brejoin-would-bring-back-uncertainty-but-less-than-the-first-time-around/#:~:text=The%20clearest%20damage%20from%20our%20departure%20is,between%204%20and%2010%20per%20cent%20lower."
+   },
+   {
+    "source": "Resolution Foundation",
     "title": "The 2020s: a horror film in four charts",
     "url": "https://www.resolutionfoundation.org/comment/the-2020s-a-horror-film-in-four-charts/",
     "date": "2026-11-05",
@@ -1195,6 +1224,20 @@
    },
    {
     "source": "BBC Business",
+    "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+    "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o",
+    "date": "2026-11-20",
+    "quote": "The agreements announced on Friday included scrapping most of the checks on British food exports, in return for the UK following some EU regulations, from 2028. […] The UK government believes the changes will cut costs for businesses and could bring prices down for shoppers, while critics argue the change will make the UK a \"rule taker\" from Brussels rather than a rule maker.",
+    "tag": "Deal agreed",
+    "verified": "page text",
+    "pieces": [
+     "The agreements announced on Friday included scrapping most of the checks on British food exports, in return for the UK following some EU regulations, from 2028.",
+     "The UK government believes the changes will cut costs for businesses and could bring prices down for shoppers, while critics argue the change will make the UK a \"rule taker\" from Brussels rather than a rule maker."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o#:~:text=The%20agreements%20announced%20on%20Friday%20included%20scrapping,from%20Brussels%20rather%20than%20a%20rule%20maker."
+   },
+   {
+    "source": "BBC Business",
     "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
     "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo",
     "date": "2026-11-18",
@@ -1209,18 +1252,17 @@
    },
    {
     "source": "BBC Business",
-    "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-    "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo",
-    "date": "2026-11-16",
-    "quote": "Speaking at a Marks & Spencer food court in central London, Falconer said reducing the cost of importing food \"will mean less cost for supermarkets, and I hope that less cost then turns into cheaper produce on the shelves\". […] He said companies have to currently deal with \"pages and pages\" of form-filling. […] Some exports are rejected for having the wrong colour of ink on forms, or an inaccurate Latin name for cooked meats.",
-    "tag": "Brexit reset deal",
+    "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+    "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo",
+    "date": "2026-11-20",
+    "quote": "In another world, Andy Burnham would have loved for the nation's supermarkets to clearly announce that they could cut food prices as a result of this latest agreement on food exports. […] And while grocers have very much welcomed Friday's announcement, they have notably not committed to price cuts as a direct result of this move.",
+    "tag": null,
     "verified": "page text",
     "pieces": [
-     "Speaking at a Marks & Spencer food court in central London, Falconer said reducing the cost of importing food \"will mean less cost for supermarkets, and I hope that less cost then turns into cheaper produce on the shelves\".",
-     "He said companies have to currently deal with \"pages and pages\" of form-filling.",
-     "Some exports are rejected for having the wrong colour of ink on forms, or an inaccurate Latin name for cooked meats."
+     "In another world, Andy Burnham would have loved for the nation's supermarkets to clearly announce that they could cut food prices as a result of this latest agreement on food exports.",
+     "And while grocers have very much welcomed Friday's announcement, they have notably not committed to price cuts as a direct result of this move."
     ],
-    "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo#:~:text=Speaking%20at%20a%20Marks%20%26%20Spencer%20food,an%20inaccurate%20Latin%20name%20for%20cooked%20meats."
+    "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo#:~:text=In%20another%20world%2C%20Andy%20Burnham%20would%20have,as%20a%20direct%20result%20of%20this%20move."
    },
    {
     "source": "BBC Business",
@@ -1371,31 +1413,57 @@
   "tariff": [
    {
     "source": "BBC Business",
-    "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-    "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo",
-    "date": "2026-11-16",
-    "quote": "In exchange for being able to export produce such as Lincolnshire sausages to the 27 countries, the flipside is the extent to which the UK will be able to influence EU food policies. […] The UK will have a \"voice in the room\", said Falconer, but no vote. Critics have said a reset will make the UK \"a rule taker\", not a rule maker.",
-    "tag": "Brexit reset deal",
+    "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+    "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo",
+    "date": "2026-11-20",
+    "quote": "No longer will hundreds of pages of documents be required. No longer will perishable goods lose valuable hours or days at border checks. No longer will the incorrect colour of ink or Latin name for a meat disallow a shipment of British exports. […] Some, though not all of the 24% hit since 2019 to the real value of agrifood exports, could be regained by a bonfire of this red tape.",
+    "tag": "Checks scrapped",
     "verified": "page text",
     "pieces": [
-     "In exchange for being able to export produce such as Lincolnshire sausages to the 27 countries, the flipside is the extent to which the UK will be able to influence EU food policies.",
-     "The UK will have a \"voice in the room\", said Falconer, but no vote. Critics have said a reset will make the UK \"a rule taker\", not a rule maker."
+     "No longer will hundreds of pages of documents be required. No longer will perishable goods lose valuable hours or days at border checks. No longer will the incorrect colour of ink or Latin name for a meat disallow a shipment of British exports.",
+     "Some, though not all of the 24% hit since 2019 to the real value of agrifood exports, could be regained by a bonfire of this red tape."
     ],
-    "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo#:~:text=In%20exchange%20for%20being%20able%20to%20export,%22a%20rule%20taker%22%2C%20not%20a%20rule%20maker."
+    "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo#:~:text=No%20longer%20will%20hundreds%20of%20pages%20of,by%20a%20bonfire%20of%20this%20red%20tape."
+   },
+   {
+    "source": "Institute for Government",
+    "title": "Andy Burnham’s EU ‘reset’ deal highlights the problems of incrementalism",
+    "url": "https://www.instituteforgovernment.org.uk/comment/andy-burnhams-eu-reset-deal",
+    "date": "2026-11-20",
+    "quote": "Since then, negotiations have focussed on easing life for most agri-food exporters, through an agreement to “dynamically align” UK sanitary and phytosanitary laws with the EU, removing the need for checks at the EU border which have seen UK exports decline very substantially since Brexit. The UK will also link its emissions trading scheme (ETS) with the EU’s, allowing UK exporters to avoid the bureaucracy and costs of the EU’s Carbon Border. And there will be a new Youth Experience Scheme (YES) which will allow up to 100,000 young EU citizens (aged 18-31) to work or study in the UK every year for a maximum of three years – with the same number of young Brits able to move to individual EU countries. The prime minister explicitly lauded this scheme as bringing hope to a generation that policy-makers had neglected (and who, by implication, were victims of a Brexit vote they could not participate in).",
+    "tag": "Deal agreed",
+    "verified": "page text",
+    "pieces": [
+     "Since then, negotiations have focussed on easing life for most agri-food exporters, through an agreement to “dynamically align” UK sanitary and phytosanitary laws with the EU, removing the need for checks at the EU border which have seen UK exports decline very substantially since Brexit. The UK will also link its emissions trading scheme (ETS) with the EU’s, allowing UK exporters to avoid the bureaucracy and costs of the EU’s Carbon Border. And there will be a new Youth Experience Scheme (YES) which will allow up to 100,000 young EU citizens (aged 18-31) to work or study in the UK every year for a maximum of three years – with the same number of young Brits able to move to individual EU countries. The prime minister explicitly lauded this scheme as bringing hope to a generation that policy-makers had neglected (and who, by implication, were victims of a Brexit vote they could not participate in)."
+    ],
+    "link": "https://www.instituteforgovernment.org.uk/comment/andy-burnhams-eu-reset-deal#:~:text=Since%20then%2C%20negotiations%20have%20focussed%20on%20easing,Brexit%20vote%20they%20could%20not%20participate%20in%29."
+   },
+   {
+    "source": "Resolution Foundation",
+    "title": "Brejoin would bring back uncertainty, but less than the first time around",
+    "url": "https://www.resolutionfoundation.org/comment/brejoin-would-bring-back-uncertainty-but-less-than-the-first-time-around/",
+    "date": "2026-11-20",
+    "quote": "The clearest damage from our departure is to goods trade. The value of UK goods exports fell by around £10 billion between 2019 and 2024, even as world goods exports grew by a quarter, and the UK had the largest fall in goods export volumes in the G7, as this first chart shows. Services have held up better – they made up 59 per cent of UK exports in 2024, up from 48 per cent in 2019 – but that’s from goods shrinking, rather than services growing. In fact, our services exports have only just kept pace with the rest of the G7.",
+    "tag": "Exports down £10bn",
+    "verified": "page text",
+    "pieces": [
+     "The clearest damage from our departure is to goods trade. The value of UK goods exports fell by around £10 billion between 2019 and 2024, even as world goods exports grew by a quarter, and the UK had the largest fall in goods export volumes in the G7, as this first chart shows. Services have held up better – they made up 59 per cent of UK exports in 2024, up from 48 per cent in 2019 – but that’s from goods shrinking, rather than services growing. In fact, our services exports have only just kept pace with the rest of the G7."
+    ],
+    "link": "https://www.resolutionfoundation.org/comment/brejoin-would-bring-back-uncertainty-but-less-than-the-first-time-around/#:~:text=The%20clearest%20damage%20from%20our%20departure%20is,pace%20with%20the%20rest%20of%20the%20G7."
    },
    {
     "source": "BBC Business",
-    "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-    "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo",
-    "date": "2026-11-16",
-    "quote": "Tom Bradshaw, president of the National Farmers' Union, welcomed reduced border inspections and paperwork but said that for the NFU it was \"a moment of opportunity and risk\" with farmers waiting to see what carve-outs and transitional arrangements would be included. […] Trade volumes in food exports to the EU had \"fallen significantly - by over a third\" since 2019, he said.",
-    "tag": "Exports down a third",
+    "title": "Trump threatens ban on US firms building AI data centres overseas",
+    "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko",
+    "date": "2026-11-20",
+    "quote": "Washington on Monday announced firms would require a licence to buy advanced chips, so US officials can monitor whether they are being used to serve Chinese companies or they are being smuggled into China. […] The move will impact South East Asian countries that have invested heavily in data centres, as Chinese companies seek to rent computing power from overseas.",
+    "tag": "Export controls",
     "verified": "page text",
     "pieces": [
-     "Tom Bradshaw, president of the National Farmers' Union, welcomed reduced border inspections and paperwork but said that for the NFU it was \"a moment of opportunity and risk\" with farmers waiting to see what carve-outs and transitional arrangements would be included.",
-     "Trade volumes in food exports to the EU had \"fallen significantly - by over a third\" since 2019, he said."
+     "Washington on Monday announced firms would require a licence to buy advanced chips, so US officials can monitor whether they are being used to serve Chinese companies or they are being smuggled into China.",
+     "The move will impact South East Asian countries that have invested heavily in data centres, as Chinese companies seek to rent computing power from overseas."
     ],
-    "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo#:~:text=Tom%20Bradshaw%2C%20president%20of%20the%20National%20Farmers%27,over%20a%20third%22%20since%202019%2C%20he%20said."
+    "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko#:~:text=Washington%20on%20Monday%20announced%20firms%20would%20require,seek%20to%20rent%20computing%20power%20from%20overseas."
    },
    {
     "source": "CNBC Economy",
@@ -1424,19 +1492,6 @@
     "link": "https://taxfoundation.org/blog/democratic-congress-tax-policy-2027/#:~:text=Some%20Democratic%20policymakers%20have%20opposed%20the%20Trump,the%20issue%20in%20the%20next%20two%20years."
    },
    {
-    "source": "Institute for Government",
-    "title": "The UK-EU summit will be a test of the political salience of Brexit",
-    "url": "https://www.instituteforgovernment.org.uk/comment/uk-eu-summit-brexit-burnham",
-    "date": "2026-11-12",
-    "quote": "Since the initial Common Understanding was agreed, a new problem has emerged for the prime minister – the risk to UK manufacturing supply chains of the EU’s more protectionist Made in Europe stance. This is not aimed at the UK – but it risks being collateral damage unless the prime minister can convince the EU that the UK (and potentially other third country trade partners too) should sneak inside the EU’s protective wall. But that will not be costless. A proposal from German chancellor Friedrich Merz and French president Emmanuel Macron would see the UK exempted from Made in Europe restrictions on cars, provided it agreed to align its external tariff with the EU’s to prevent it being a backdoor route for Chinese EVs into the EU.",
-    "tag": null,
-    "verified": "page text",
-    "pieces": [
-     "Since the initial Common Understanding was agreed, a new problem has emerged for the prime minister – the risk to UK manufacturing supply chains of the EU’s more protectionist Made in Europe stance. This is not aimed at the UK – but it risks being collateral damage unless the prime minister can convince the EU that the UK (and potentially other third country trade partners too) should sneak inside the EU’s protective wall. But that will not be costless. A proposal from German chancellor Friedrich Merz and French president Emmanuel Macron would see the UK exempted from Made in Europe restrictions on cars, provided it agreed to align its external tariff with the EU’s to prevent it being a backdoor route for Chinese EVs into the EU."
-    ],
-    "link": "https://www.instituteforgovernment.org.uk/comment/uk-eu-summit-brexit-burnham#:~:text=Since%20the%20initial%20Common%20Understanding%20was%20agreed%2C,route%20for%20Chinese%20EVs%20into%20the%20EU."
-   },
-   {
     "source": "Tax Foundation",
     "title": "Tariff Update: Where Things Stand After the Supreme Court Ruling",
     "url": "https://taxfoundation.org/podcast/all/tariff-update-tariffs-after-ieepa/",
@@ -1448,22 +1503,6 @@
      "The Supreme Court struck down the IEEPA tariffs in February, so why are Americans still paying tariffs? The administration replaced them, first with temporary Section 122 tariffs and now with 10 to 12.5 percent Section 301 tariffs on nearly every US trading partner."
     ],
     "link": "https://taxfoundation.org/podcast/all/tariff-update-tariffs-after-ieepa/#:~:text=The%20Supreme%20Court%20struck%20down%20the%20IEEPA,tariffs%20on%20nearly%20every%20US%20trading%20partner."
-   },
-   {
-    "source": "BBC Business",
-    "title": "US inflation higher than expected in October - here's what is happening with prices",
-    "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o",
-    "date": "2026-11-10",
-    "quote": "Higher tariffs - which are levies that businesses pay on the goods they import - directly raise prices for US companies unless the overseas firms they are buying from lower prices to absorb some of the cost. […] In response to the new tariffs, the New York Fed found exporters reduced prices very little, meaning US-based businesses ended up absorbing nearly 90% of the cost of the added tax. […] Indirectly, higher tariffs also affected the prices of locally made goods, as many US producers rely on parts or materials from overseas. […] Overall, the Fed found that every percentage point increase in average tariffs led to nearly a 0.25% price increase for consumer goods after one year.",
-    "tag": null,
-    "verified": "page text",
-    "pieces": [
-     "Higher tariffs - which are levies that businesses pay on the goods they import - directly raise prices for US companies unless the overseas firms they are buying from lower prices to absorb some of the cost.",
-     "In response to the new tariffs, the New York Fed found exporters reduced prices very little, meaning US-based businesses ended up absorbing nearly 90% of the cost of the added tax.",
-     "Indirectly, higher tariffs also affected the prices of locally made goods, as many US producers rely on parts or materials from overseas.",
-     "Overall, the Fed found that every percentage point increase in average tariffs led to nearly a 0.25% price increase for consumer goods after one year."
-    ],
-    "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o#:~:text=Higher%20tariffs%20%2D%20which%20are%20levies%20that,increase%20for%20consumer%20goods%20after%20one%20year."
    }
   ]
  }
