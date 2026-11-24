@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T08:44Z",
+ "generated_at": "2026-11-24T08:57Z",
  "window_days": {
   "press": 14,
   "think_tanks": 60
@@ -615,6 +615,18 @@
   "brent": [
    {
     "source": "CNBC Economy",
+    "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
+    "url": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
+    "date": "2026-11-24",
+    "quote": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions. Iran said three oil tankers caught fire after hitting naval mines in the Strait of Hormuz, as the U.S. escalates sanctions aimed at cutting off Tehran's financial lifelines.",
+    "tag": "Tankers mined",
+    "verified": "publisher feed",
+    "headline": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
+    "standfirst": "Iran said three oil tankers caught fire after hitting naval mines in the Strait of Hormuz, as the U.S. escalates sanctions aimed at cutting off Tehran's financial lifelines.",
+    "link": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html#:~:text=Iran%20says%20three%20tankers%20hit%20mines%20in%20Hormuz%20despite%20U.S.%20escort%2C%20as%20Treasury%20widens%20sanctions"
+   },
+   {
+    "source": "CNBC Economy",
     "title": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
     "url": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
     "date": "2026-11-23",
@@ -648,18 +660,6 @@
     "headline": "IEA chief sees no 'credible pathway' back to pre-war normality in the Strait of Hormuz",
     "standfirst": "The Iran war has 'crushed' confidence in the Strait of Hormuz as a reliable energy and goods corridor, the IEA's chief warned.",
     "link": "https://www.cnbc.com/2026/11/18/iea-strait-hormuz-energy-risk.html#:~:text=IEA%20chief%20sees%20no%20%27credible%20pathway%27%20back%20to%20pre%2Dwar%20normality%20in%20the%20Strait%20of%20Hormuz"
-   },
-   {
-    "source": "CNBC Economy",
-    "title": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
-    "url": "https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html",
-    "date": "2026-11-18",
-    "quote": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount. Iran said its army targeted U.S. drone and missile installations at Kuwait's Ali Al Salem air base, extending a run of attacks on Gulf states.",
-    "tag": "Gulf attacks mount",
-    "verified": "publisher feed",
-    "headline": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
-    "standfirst": "Iran said its army targeted U.S. drone and missile installations at Kuwait's Ali Al Salem air base, extending a run of attacks on Gulf states.",
-    "link": "https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html#:~:text=Iran%20says%20army%20targets%20U.S.%20drone%20and%20missile%20sites%20in%20Kuwait%20as%20Gulf%20attacks%20mount"
    },
    {
     "source": "CNBC Economy",
@@ -786,6 +786,18 @@
   "gulf": [
    {
     "source": "CNBC Economy",
+    "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
+    "url": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
+    "date": "2026-11-24",
+    "quote": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions. Iran said three oil tankers caught fire after hitting naval mines in the Strait of Hormuz, as the U.S. escalates sanctions aimed at cutting off Tehran's financial lifelines.",
+    "tag": "Escalation",
+    "verified": "publisher feed",
+    "headline": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
+    "standfirst": "Iran said three oil tankers caught fire after hitting naval mines in the Strait of Hormuz, as the U.S. escalates sanctions aimed at cutting off Tehran's financial lifelines.",
+    "link": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html#:~:text=Iran%20says%20three%20tankers%20hit%20mines%20in%20Hormuz%20despite%20U.S.%20escort%2C%20as%20Treasury%20widens%20sanctions"
+   },
+   {
+    "source": "CNBC Economy",
     "title": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
     "url": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
     "date": "2026-11-23",
@@ -819,18 +831,6 @@
     "headline": "IEA chief sees no 'credible pathway' back to pre-war normality in the Strait of Hormuz",
     "standfirst": "The Iran war has 'crushed' confidence in the Strait of Hormuz as a reliable energy and goods corridor, the IEA's chief warned.",
     "link": "https://www.cnbc.com/2026/11/18/iea-strait-hormuz-energy-risk.html#:~:text=IEA%20chief%20sees%20no%20%27credible%20pathway%27%20back%20to%20pre%2Dwar%20normality%20in%20the%20Strait%20of%20Hormuz"
-   },
-   {
-    "source": "CNBC Economy",
-    "title": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
-    "url": "https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html",
-    "date": "2026-11-18",
-    "quote": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount. Iran said its army targeted U.S. drone and missile installations at Kuwait's Ali Al Salem air base, extending a run of attacks on Gulf states.",
-    "tag": "Escalation",
-    "verified": "publisher feed",
-    "headline": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
-    "standfirst": "Iran said its army targeted U.S. drone and missile installations at Kuwait's Ali Al Salem air base, extending a run of attacks on Gulf states.",
-    "link": "https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html#:~:text=Iran%20says%20army%20targets%20U.S.%20drone%20and%20missile%20sites%20in%20Kuwait%20as%20Gulf%20attacks%20mount"
    },
    {
     "source": "CNBC Economy",
@@ -872,6 +872,18 @@
    }
   ],
   "ecb": [
+   {
+    "source": "CNBC Economy",
+    "title": "Why France is at risk of recession — and what could keep it out of one",
+    "url": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
+    "date": "2026-11-24",
+    "quote": "Why France is at risk of recession — and what could keep it out of one. Bank of France Governor Emmanuel Moulin told CNBC he still expects growth, pointing to resilience in sectors including defense, aerospace and electricity.",
+    "tag": "Recession risk",
+    "verified": "publisher feed",
+    "headline": "Why France is at risk of recession — and what could keep it out of one",
+    "standfirst": "Bank of France Governor Emmanuel Moulin told CNBC he still expects growth, pointing to resilience in sectors including defense, aerospace and electricity.",
+    "link": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html#:~:text=Why%20France%20is%20at%20risk%20of%20recession%20%E2%80%94%20and%20what%20could%20keep%20it%20out%20of%20one"
+   },
    {
     "source": "Bruegel",
     "title": "Ahead of a presidential election, France first needs to help itself on debt",
