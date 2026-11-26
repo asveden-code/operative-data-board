@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T10:31Z",
+ "generated_at": "2026-11-26T10:10Z",
  "window_days": {
   "press": 14,
   "think_tanks": 60
@@ -120,6 +120,20 @@
    }
   ],
   "unemp": [
+   {
+    "source": "BBC Business",
+    "title": "Poundland collapses putting 11,000 jobs at risk",
+    "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o",
+    "date": "2026-11-26",
+    "quote": "Poundland has collapsed into administration, putting 11,000 jobs at risk, after its owners failed to find a buyer to keep it in business. […] The retailer's shops and distribution centres will remain open and continue to trade during the administration process with the business likely to be broken up and some of its stores sold off to rival retailers.",
+    "tag": "11,000 jobs at risk",
+    "verified": "page text",
+    "pieces": [
+     "Poundland has collapsed into administration, putting 11,000 jobs at risk, after its owners failed to find a buyer to keep it in business.",
+     "The retailer's shops and distribution centres will remain open and continue to trade during the administration process with the business likely to be broken up and some of its stores sold off to rival retailers."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o#:~:text=Poundland%20has%20collapsed%20into%20administration%2C%20putting%2011%2C000,its%20stores%20sold%20off%20to%20rival%20retailers."
+   },
    {
     "source": "Resolution Foundation",
     "title": "Three figures we should all pay attention to in the Milburn Review",
@@ -434,15 +448,15 @@
     "title": "Energy bills to rise by 26% from January after gas prices surge",
     "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o",
     "date": "2026-11-25",
-    "quote": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war. […] Regulator Ofgem said typical bills will increase by about £37 a month in the first three months of the new year, although individual households costs will depend on how much they use at the coldest time of year, so it could be closer to £60 extra a month in winter. […] For a household using a typical amount of energy in England, Scotland and Wales and paying by direct debit for gas and electricity, the increase would push annual bills from £1,723 to £2,166 if it was sustained for a year.",
+    "quote": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war. […] A typical bill will increase by about £37 a month in the first three months of the new year, although the price will depend on how much energy a household uses, so it could be closer to £60 extra a month in winter. […] A household using a typical amount of energy in England, Scotland and Wales and paying by direct debit, would see their annual bill rise from £1,723 to £2,166 if the increase was sustained for a year, said regulator Ofgem.",
     "tag": "Cap up 26% in January",
     "verified": "page text",
     "pieces": [
      "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
-     "Regulator Ofgem said typical bills will increase by about £37 a month in the first three months of the new year, although individual households costs will depend on how much they use at the coldest time of year, so it could be closer to £60 extra a month in winter.",
-     "For a household using a typical amount of energy in England, Scotland and Wales and paying by direct debit for gas and electricity, the increase would push annual bills from £1,723 to £2,166 if it was sustained for a year."
+     "A typical bill will increase by about £37 a month in the first three months of the new year, although the price will depend on how much energy a household uses, so it could be closer to £60 extra a month in winter.",
+     "A household using a typical amount of energy in England, Scotland and Wales and paying by direct debit, would see their annual bill rise from £1,723 to £2,166 if the increase was sustained for a year, said regulator Ofgem."
     ],
-    "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o#:~:text=Energy%20bills%20will%20soar%20by%2026%25%20for,if%20it%20was%20sustained%20for%20a%20year."
+    "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o#:~:text=Energy%20bills%20will%20soar%20by%2026%25%20for,sustained%20for%20a%20year%2C%20said%20regulator%20Ofgem."
    },
    {
     "source": "BBC Business",
@@ -614,6 +628,20 @@
   ],
   "brent": [
    {
+    "source": "Oxford Economics",
+    "title": "GCC recovery tracker shows worsening conditions",
+    "url": "https://www.oxfordeconomics.com/resource/gcc-recovery-tracker-shows-worsening-conditions/",
+    "date": "2026-11-26",
+    "quote": "GCC recovery conditions have deteriorated significantly, with the recovery tracker index dropping by 15 points to 36.6 in October, its lowest since March. This decline aligns with a revised growth forecast of 4.6% for next year, 0.9 percentage points lower than previously anticipated. […] The index’s downturn is attributed to rising bond spreads, falling equity prices, and disruptions in flight arrivals, particularly following attacks on Saudi Arabia’s infrastructure. Although Saudi oil production increased by 11.9% to 10 million barrels per day, the overall recovery remains fragile, with trade and energy flows at risk from potential conflict escalation.",
+    "tag": "Saudi output 10m b/d",
+    "verified": "page text",
+    "pieces": [
+     "GCC recovery conditions have deteriorated significantly, with the recovery tracker index dropping by 15 points to 36.6 in October, its lowest since March. This decline aligns with a revised growth forecast of 4.6% for next year, 0.9 percentage points lower than previously anticipated.",
+     "The index’s downturn is attributed to rising bond spreads, falling equity prices, and disruptions in flight arrivals, particularly following attacks on Saudi Arabia’s infrastructure. Although Saudi oil production increased by 11.9% to 10 million barrels per day, the overall recovery remains fragile, with trade and energy flows at risk from potential conflict escalation."
+    ],
+    "link": "https://www.oxfordeconomics.com/resource/gcc-recovery-tracker-shows-worsening-conditions/#:~:text=GCC%20recovery%20conditions%20have%20deteriorated%20significantly%2C%20with,flows%20at%20risk%20from%20potential%20conflict%20escalation."
+   },
+   {
     "source": "CNBC Economy",
     "title": "Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation",
     "url": "https://www.cnbc.com/2026/11/25/ukraine-putin-russia-oil-refinery-attacks.html",
@@ -648,18 +676,6 @@
     "headline": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
     "standfirst": "Yemen's Iran-aligned Houthis claimed an operation against Saudi Arabia's Rabigh oil refinery, as diplomatic efforts to end the war face long odds.",
     "link": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html#:~:text=Yemen%27s%20Houthis%20claim%20attacks%20on%20Saudi%20oil%20refinery%20as%20Trump%20warns%20of%20new%20strikes%20next%20year"
-   },
-   {
-    "source": "CNBC Economy",
-    "title": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
-    "url": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
-    "date": "2026-11-22",
-    "quote": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.. Saudi Arabia said it destroyed a drone launched by Iran-backed Houthis, while Bahrain said an industrial facility was hit by Iranian projectiles.",
-    "tag": "Gulf attacks",
-    "verified": "publisher feed",
-    "headline": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
-    "standfirst": "Saudi Arabia said it destroyed a drone launched by Iran-backed Houthis, while Bahrain said an industrial facility was hit by Iranian projectiles.",
-    "link": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html#:~:text=Saudi%20Arabia%2C%20Bahrain%20report%20new%20attacks%20as%20Iran%20says%20it%20remains%20open%20to%20a%20deal%20with%20U.S."
    },
    {
     "source": "CNBC Economy",
@@ -704,24 +720,24 @@
     "title": "Energy bills to rise by 26% from January after gas prices surge",
     "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o",
     "date": "2026-11-25",
-    "quote": "Ofgem said the rise in the cap, which is set every three months, had been driven entirely by higher wholesale costs faced by suppliers owing, primarily, to the Iran war. Wholesale gas prices, paid by suppliers, were up 33% in the last three months which is the period used to set the January to March cap.",
+    "quote": "Ofgem said the rise had been driven entirely by higher wholesale costs faced by suppliers owing, primarily, to the Iran war. Wholesale gas prices, paid by suppliers, were up 33% in the last three months, the period used to set the January to March cap. They have more than doubled since late 2025.",
     "tag": "Wholesale gas up 33%",
     "verified": "page text",
     "pieces": [
-     "Ofgem said the rise in the cap, which is set every three months, had been driven entirely by higher wholesale costs faced by suppliers owing, primarily, to the Iran war. Wholesale gas prices, paid by suppliers, were up 33% in the last three months which is the period used to set the January to March cap."
+     "Ofgem said the rise had been driven entirely by higher wholesale costs faced by suppliers owing, primarily, to the Iran war. Wholesale gas prices, paid by suppliers, were up 33% in the last three months, the period used to set the January to March cap. They have more than doubled since late 2025."
     ],
-    "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o#:~:text=Ofgem%20said%20the%20rise%20in%20the%20cap%2C,to%20set%20the%20January%20to%20March%20cap."
+    "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o#:~:text=Ofgem%20said%20the%20rise%20had%20been%20driven,have%20more%20than%20doubled%20since%20late%202025."
    },
    {
     "source": "BBC Business",
     "title": "Energy bills to rise by 26% from January after gas prices surge",
     "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o",
     "date": "2026-11-25",
-    "quote": "For electricity, average unit prices will go up on 1 January from 26.32p per kilowatt-hour to 32.69p. […] Gas will increase from 7.97p per kilowatt-hour to 10.96p, higher than in the wake of the invasion of Ukraine.",
+    "quote": "For electricity, average unit prices will go up on 1 January from 26.32p per kilowatt-hour to 32.69p. The electricity price is often pegged to gas, owing to gas-fired generation. […] Gas will increase from 7.97p per kilowatt-hour to 10.96p, higher than in the wake of the invasion of Ukraine.",
     "tag": "Gas 10.96p per kWh",
     "verified": "page text",
     "pieces": [
-     "For electricity, average unit prices will go up on 1 January from 26.32p per kilowatt-hour to 32.69p.",
+     "For electricity, average unit prices will go up on 1 January from 26.32p per kilowatt-hour to 32.69p. The electricity price is often pegged to gas, owing to gas-fired generation.",
      "Gas will increase from 7.97p per kilowatt-hour to 10.96p, higher than in the wake of the invasion of Ukraine."
     ],
     "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o#:~:text=For%20electricity%2C%20average%20unit%20prices%20will%20go,the%20wake%20of%20the%20invasion%20of%20Ukraine."
@@ -796,6 +812,20 @@
   ],
   "gulf": [
    {
+    "source": "Oxford Economics",
+    "title": "GCC recovery tracker shows worsening conditions",
+    "url": "https://www.oxfordeconomics.com/resource/gcc-recovery-tracker-shows-worsening-conditions/",
+    "date": "2026-11-26",
+    "quote": "GCC recovery conditions have deteriorated significantly, with the recovery tracker index dropping by 15 points to 36.6 in October, its lowest since March. This decline aligns with a revised growth forecast of 4.6% for next year, 0.9 percentage points lower than previously anticipated. […] The index’s downturn is attributed to rising bond spreads, falling equity prices, and disruptions in flight arrivals, particularly following attacks on Saudi Arabia’s infrastructure. Although Saudi oil production increased by 11.9% to 10 million barrels per day, the overall recovery remains fragile, with trade and energy flows at risk from potential conflict escalation.",
+    "tag": "Forecast cut to 4.6%",
+    "verified": "page text",
+    "pieces": [
+     "GCC recovery conditions have deteriorated significantly, with the recovery tracker index dropping by 15 points to 36.6 in October, its lowest since March. This decline aligns with a revised growth forecast of 4.6% for next year, 0.9 percentage points lower than previously anticipated.",
+     "The index’s downturn is attributed to rising bond spreads, falling equity prices, and disruptions in flight arrivals, particularly following attacks on Saudi Arabia’s infrastructure. Although Saudi oil production increased by 11.9% to 10 million barrels per day, the overall recovery remains fragile, with trade and energy flows at risk from potential conflict escalation."
+    ],
+    "link": "https://www.oxfordeconomics.com/resource/gcc-recovery-tracker-shows-worsening-conditions/#:~:text=GCC%20recovery%20conditions%20have%20deteriorated%20significantly%2C%20with,flows%20at%20risk%20from%20potential%20conflict%20escalation."
+   },
+   {
     "source": "CNBC Economy",
     "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
     "url": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html",
@@ -866,20 +896,6 @@
     "headline": "IEA chief sees no 'credible pathway' back to pre-war normality in the Strait of Hormuz",
     "standfirst": "The Iran war has 'crushed' confidence in the Strait of Hormuz as a reliable energy and goods corridor, the IEA's chief warned.",
     "link": "https://www.cnbc.com/2026/11/18/iea-strait-hormuz-energy-risk.html#:~:text=IEA%20chief%20sees%20no%20%27credible%20pathway%27%20back%20to%20pre%2Dwar%20normality%20in%20the%20Strait%20of%20Hormuz"
-   },
-   {
-    "source": "Oxford Economics",
-    "title": "GCC recovery tracker shows initial rebound has stalled",
-    "url": "https://www.oxfordeconomics.com/resource/gcc-recovery-tracker-shows-initial-rebound-has-stalled/",
-    "date": "2026-10-27",
-    "quote": "The GCC recovery tracker indicates a notable stall in economic rebound, with a forecasted GDP contraction of 5.7% for this year, followed by a gradual recovery to 5.5% growth in 2027. This trend reflects a decline in the diffusion index, which fell by 5.4 points to 51.0 in September, signalling a fragile recovery environment. Flight disruptions and declining equity prices have contributed to this slowdown, particularly in Saudi Arabia, where ongoing attacks on civilian infrastructure have undermined confidence. Conversely, shipping activities have shown some resilience, with Saudi Arabia restarting exports, although oil production remains at only 77% of pre-conflict levels.",
-    "tag": "Recovery stalled",
-    "pieces": [
-     "The GCC recovery tracker indicates a notable stall in economic rebound, with a forecasted GDP contraction of 5.7% for this year, followed by a gradual recovery to 5.5% growth in 2027. This trend reflects a decline in the diffusion index, which fell by 5.4 points to 51.0 in September, signalling a fragile recovery environment.",
-     "Flight disruptions and declining equity prices have contributed to this slowdown, particularly in Saudi Arabia, where ongoing attacks on civilian infrastructure have undermined confidence. Conversely, shipping activities have shown some resilience, with Saudi Arabia restarting exports, although oil production remains at only 77% of pre-conflict levels."
-    ],
-    "verified": "page text",
-    "link": "https://www.oxfordeconomics.com/resource/gcc-recovery-tracker-shows-initial-rebound-has-stalled/#:~:text=The%20GCC%20recovery%20tracker%20indicates%20a%20notable,remains%20at%20only%2077%25%20of%20pre%2Dconflict%20levels."
    }
   ],
   "ecb": [
@@ -952,6 +968,18 @@
    }
   ],
   "fed": [
+   {
+    "source": "CNBC Economy",
+    "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+    "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+    "date": "2026-11-25",
+    "quote": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank. The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus.",
+    "tag": "PCE at 3.8%",
+    "verified": "publisher feed",
+    "headline": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+    "standfirst": "The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus.",
+    "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html#:~:text=Fed%E2%80%99s%20preferred%20inflation%20gauge%20accelerated%20to%203.8%25%20in%20October%2C%20raising%20the%202027%20stakes%20for%20the%20central%20bank"
+   },
    {
     "source": "CNBC Economy",
     "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
@@ -1415,18 +1443,19 @@
   "tariff": [
    {
     "source": "BBC Business",
-    "title": "US preparing to unveil plan for new tariffs on global trading partners",
+    "title": "US announces new tariffs on host of countries including China",
     "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
-    "date": "2026-11-25",
-    "quote": "The US is preparing to announce plans for new tariffs on several countries as early as Wednesday, the BBC understands. […] The new import taxes would hit many of America's biggest trading partners, with China, the European Union and Japan among at least 14 jurisdictions affected. […] The move comes after the White House's so-called \"Section 301\" investigation. It was launched in March after the US Supreme Court ruled that President Donald Trump's Liberation Day tariffs were illegal.",
-    "tag": "New tariffs imminent",
+    "date": "2026-11-26",
+    "quote": "The US has announced a fresh raft of tariffs as President Donald Trump pushes ahead with his signature trade policy. […] The new taxes charged on imports to America are set to hit many of the country's biggest trading partners - China, the European Union and 12 other jurisdictions, including Japan, South Korea and Taiwan. […] China is facing the highest tariff rate of up to 40%, followed by Vietnam at up to 35%, with others facing either 20% or 25%. […] The new duties are not expected to take effect until next year and have to go through rounds of public consultation and, potentially, hearings.",
+    "tag": "China up to 40%",
     "verified": "page text",
     "pieces": [
-     "The US is preparing to announce plans for new tariffs on several countries as early as Wednesday, the BBC understands.",
-     "The new import taxes would hit many of America's biggest trading partners, with China, the European Union and Japan among at least 14 jurisdictions affected.",
-     "The move comes after the White House's so-called \"Section 301\" investigation. It was launched in March after the US Supreme Court ruled that President Donald Trump's Liberation Day tariffs were illegal."
+     "The US has announced a fresh raft of tariffs as President Donald Trump pushes ahead with his signature trade policy.",
+     "The new taxes charged on imports to America are set to hit many of the country's biggest trading partners - China, the European Union and 12 other jurisdictions, including Japan, South Korea and Taiwan.",
+     "China is facing the highest tariff rate of up to 40%, followed by Vietnam at up to 35%, with others facing either 20% or 25%.",
+     "The new duties are not expected to take effect until next year and have to go through rounds of public consultation and, potentially, hearings."
     ],
-    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o#:~:text=The%20US%20is%20preparing%20to%20announce%20plans,Donald%20Trump%27s%20Liberation%20Day%20tariffs%20were%20illegal."
+    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o#:~:text=The%20US%20has%20announced%20a%20fresh%20raft,rounds%20of%20public%20consultation%20and%2C%20potentially%2C%20hearings."
    },
    {
     "source": "BBC Business",
@@ -1497,17 +1526,19 @@
     "link": "https://taxfoundation.org/blog/democratic-congress-tax-policy-2027/#:~:text=Some%20Democratic%20policymakers%20have%20opposed%20the%20Trump,the%20issue%20in%20the%20next%20two%20years."
    },
    {
-    "source": "Tax Foundation",
-    "title": "Tariff Update: Where Things Stand After the Supreme Court Ruling",
-    "url": "https://taxfoundation.org/podcast/all/tariff-update-tariffs-after-ieepa/",
-    "date": "2026-11-10",
-    "quote": "The Supreme Court struck down the IEEPA tariffs in February, so why are Americans still paying tariffs? The administration replaced them, first with temporary Section 122 tariffs and now with 10 to 12.5 percent Section 301 tariffs on nearly every US trading partner.",
+    "source": "BBC Business",
+    "title": "US announces new tariffs on host of countries including China",
+    "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
+    "date": "2026-11-26",
+    "quote": "However, Stephen Brown, chief North America economist for Capital Economics, said the latest tariff announcement was \"not as alarming as it looks\", due to the taxes \"essentially replacing\" previously announced tariffs made in the summer. […] \"The increase in the effective tariff rate looks set to be a touch lower than we've been assuming for our forecasts, although the new tariffs will still provide a marginal boost to prices,\" he said in a note. […] The additional tariff burden is likely to be small because a limited number of goods are subject to the new duties, Brown added.",
     "tag": null,
     "verified": "page text",
     "pieces": [
-     "The Supreme Court struck down the IEEPA tariffs in February, so why are Americans still paying tariffs? The administration replaced them, first with temporary Section 122 tariffs and now with 10 to 12.5 percent Section 301 tariffs on nearly every US trading partner."
+     "However, Stephen Brown, chief North America economist for Capital Economics, said the latest tariff announcement was \"not as alarming as it looks\", due to the taxes \"essentially replacing\" previously announced tariffs made in the summer.",
+     "\"The increase in the effective tariff rate looks set to be a touch lower than we've been assuming for our forecasts, although the new tariffs will still provide a marginal boost to prices,\" he said in a note.",
+     "The additional tariff burden is likely to be small because a limited number of goods are subject to the new duties, Brown added."
     ],
-    "link": "https://taxfoundation.org/podcast/all/tariff-update-tariffs-after-ieepa/#:~:text=The%20Supreme%20Court%20struck%20down%20the%20IEEPA,tariffs%20on%20nearly%20every%20US%20trading%20partner."
+    "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o#:~:text=However%2C%20Stephen%20Brown%2C%20chief%20North%20America%20economist,subject%20to%20the%20new%20duties%2C%20Brown%20added."
    }
   ]
  }
