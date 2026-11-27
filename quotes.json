@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T10:10Z",
+ "generated_at": "2026-11-27T11:23Z",
  "window_days": {
   "press": 14,
   "think_tanks": 60
@@ -74,22 +74,6 @@
      "It seems we finally have some good economic news to cheer about. GDP grew by 0.7 per cent in Q3, making the UK the second-fastest-growing economy in the G7, behind only the US. This was the fastest quarterly growth since the end of 2017 excluding the post-pandemic recovery (although growth at this rate was normal before the pandemic). So, in this post we dig into whether we are seeing the start of an AI-driven growth boom as some in government have claimed, drawing out the implications for the labour market and interest rates as well as the broader economy."
     ],
     "link": "https://niesr.ac.uk/blog/are-we-foothills-ai-driven-growth#:~:text=It%20seems%20we%20finally%20have%20some%20good,rates%20as%20well%20as%20the%20broader%20economy."
-   },
-   {
-    "source": "BBC Business",
-    "title": "UK economy grows at fastest rate for more than two years",
-    "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o",
-    "date": "2026-11-12",
-    "quote": "Between July and September, the economy expanded by 0.7%, accelerating from the previous three months, official figures show. […] The robust growth suggests a far more resilient economy than expected over the summer, despite the impact of higher energy prices from the Iran war. […] Strong growth in the services sector - the largest part of the economy, which includes non-physical goods such as consultancy services and computer programming as well as hotels and restaurants - helped boost the numbers. […] Within services, computer programming registered its fastest growth for the past three years, helped by cloud computing and AI-linked spending.",
-    "tag": "Fastest in two years",
-    "verified": "page text",
-    "pieces": [
-     "Between July and September, the economy expanded by 0.7%, accelerating from the previous three months, official figures show.",
-     "The robust growth suggests a far more resilient economy than expected over the summer, despite the impact of higher energy prices from the Iran war.",
-     "Strong growth in the services sector - the largest part of the economy, which includes non-physical goods such as consultancy services and computer programming as well as hotels and restaurants - helped boost the numbers.",
-     "Within services, computer programming registered its fastest growth for the past three years, helped by cloud computing and AI-linked spending."
-    ],
-    "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o#:~:text=Between%20July%20and%20September%2C%20the%20economy%20expanded,helped%20by%20cloud%20computing%20and%20AI%2Dlinked%20spending."
    },
    {
     "source": "Resolution Foundation",
@@ -812,6 +796,18 @@
   ],
   "gulf": [
    {
+    "source": "CNBC Economy",
+    "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+    "url": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
+    "date": "2026-11-27",
+    "quote": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’. Iran's foreign minister Abbas Araghchi said \"The incident is suspicious and looks like a precooked recipe for war.\"",
+    "tag": "Escalation",
+    "verified": "publisher feed",
+    "headline": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+    "standfirst": "Iran's foreign minister Abbas Araghchi said \"The incident is suspicious and looks like a precooked recipe for war.\"",
+    "link": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html#:~:text=Two%20Italians%20killed%20in%20Kuwait%20drone%20attack%3B%20Trump%20says%20Iran%20war%20ends%20%E2%80%98whenever%20I%20want%20it%E2%80%99"
+   },
+   {
     "source": "Oxford Economics",
     "title": "GCC recovery tracker shows worsening conditions",
     "url": "https://www.oxfordeconomics.com/resource/gcc-recovery-tracker-shows-worsening-conditions/",
@@ -875,18 +871,6 @@
    },
    {
     "source": "CNBC Economy",
-    "title": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
-    "url": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
-    "date": "2026-11-23",
-    "quote": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year. Yemen's Iran-aligned Houthis claimed an operation against Saudi Arabia's Rabigh oil refinery, as diplomatic efforts to end the war face long odds.",
-    "tag": "Refinery attacked",
-    "verified": "publisher feed",
-    "headline": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
-    "standfirst": "Yemen's Iran-aligned Houthis claimed an operation against Saudi Arabia's Rabigh oil refinery, as diplomatic efforts to end the war face long odds.",
-    "link": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html#:~:text=Yemen%27s%20Houthis%20claim%20attacks%20on%20Saudi%20oil%20refinery%20as%20Trump%20warns%20of%20new%20strikes%20next%20year"
-   },
-   {
-    "source": "CNBC Economy",
     "title": "IEA chief sees no 'credible pathway' back to pre-war normality in the Strait of Hormuz",
     "url": "https://www.cnbc.com/2026/11/18/iea-strait-hormuz-energy-risk.html",
     "date": "2026-11-18",
@@ -899,6 +883,18 @@
    }
   ],
   "ecb": [
+   {
+    "source": "CNBC Economy",
+    "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+    "url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+    "date": "2026-11-26",
+    "quote": "Spain’s Pablo Hernández de Cos set to lead European Central Bank. De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
+    "tag": "New ECB president",
+    "verified": "publisher feed",
+    "headline": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+    "standfirst": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
+    "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html#:~:text=Spain%E2%80%99s%20Pablo%20Hern%C3%A1ndez%20de%20Cos%20set%20to%20lead%20European%20Central%20Bank"
+   },
    {
     "source": "CNBC Economy",
     "title": "Why France is at risk of recession — and what could keep it out of one",
@@ -1206,21 +1202,6 @@
     "link": "https://niesr.ac.uk/blog/are-we-foothills-ai-driven-growth#:~:text=Seeing%20early%20signs%20of%20AI%2Drelated%20activity%20is,age%20everywhere%20but%20in%20the%20productivity%20statistics%E2%80%9D"
    },
    {
-    "source": "BBC Business",
-    "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
-    "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo",
-    "date": "2026-11-12",
-    "quote": "Spending on AI and tech have driven the surprise upside over the year. While the AI data centre boom may at any point turn to bust, these figures suggest that spending across the economy on investing in these technologies is helping to boost  growth. Consumers have been resilient, at least till the autumn, perhaps helped by better economic vibes. […] While there has been an understandable focus on high UK borrowing costs, another measure of the international standing of the UK economy, sterling's value, reached post Brexit referendum highs last week. […] Productivity and investment is also looking stronger, especially after recent revisions. Some of the most encouraging figures are in private sector business investment.",
-    "tag": null,
-    "verified": "page text",
-    "pieces": [
-     "Spending on AI and tech have driven the surprise upside over the year. While the AI data centre boom may at any point turn to bust, these figures suggest that spending across the economy on investing in these technologies is helping to boost  growth. Consumers have been resilient, at least till the autumn, perhaps helped by better economic vibes.",
-     "While there has been an understandable focus on high UK borrowing costs, another measure of the international standing of the UK economy, sterling's value, reached post Brexit referendum highs last week.",
-     "Productivity and investment is also looking stronger, especially after recent revisions. Some of the most encouraging figures are in private sector business investment."
-    ],
-    "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo#:~:text=Spending%20on%20AI%20and%20tech%20have%20driven,figures%20are%20in%20private%20sector%20business%20investment."
-   },
-   {
     "source": "Oxford Economics",
     "title": "Which sectors are the winners from the AI breakthrough",
     "url": "https://www.oxfordeconomics.com/resource/which-sectors-are-the-winners-from-the-ai-breakthrough/",
@@ -1459,6 +1440,19 @@
    },
    {
     "source": "BBC Business",
+    "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+    "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o",
+    "date": "2026-11-26",
+    "quote": "The Chinese rate of 20% is the truce rate from last year's Trump-Xi deal. The truce is due to expire in mid-January. Beijing's response was muted, no retaliation, criticism of industrial overcapacity as a \"false issue\", and a call to implement the Xi-Trump deal. The leverage over China has weakened, with the US share of its exports dropping to around 10% this year, down from 15%, just two years ago, and 19% in 2018.",
+    "tag": "Truce ends mid-January",
+    "verified": "page text",
+    "pieces": [
+     "The Chinese rate of 20% is the truce rate from last year's Trump-Xi deal. The truce is due to expire in mid-January. Beijing's response was muted, no retaliation, criticism of industrial overcapacity as a \"false issue\", and a call to implement the Xi-Trump deal. The leverage over China has weakened, with the US share of its exports dropping to around 10% this year, down from 15%, just two years ago, and 19% in 2018."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o#:~:text=The%20Chinese%20rate%20of%2020%25%20is%20the,two%20years%20ago%2C%20and%2019%25%20in%202018."
+   },
+   {
+    "source": "BBC Business",
     "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
     "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo",
     "date": "2026-11-20",
@@ -1483,33 +1477,6 @@
      "Since then, negotiations have focussed on easing life for most agri-food exporters, through an agreement to “dynamically align” UK sanitary and phytosanitary laws with the EU, removing the need for checks at the EU border which have seen UK exports decline very substantially since Brexit. The UK will also link its emissions trading scheme (ETS) with the EU’s, allowing UK exporters to avoid the bureaucracy and costs of the EU’s Carbon Border. And there will be a new Youth Experience Scheme (YES) which will allow up to 100,000 young EU citizens (aged 18-31) to work or study in the UK every year for a maximum of three years – with the same number of young Brits able to move to individual EU countries. The prime minister explicitly lauded this scheme as bringing hope to a generation that policy-makers had neglected (and who, by implication, were victims of a Brexit vote they could not participate in)."
     ],
     "link": "https://www.instituteforgovernment.org.uk/comment/andy-burnhams-eu-reset-deal#:~:text=Since%20then%2C%20negotiations%20have%20focussed%20on%20easing,Brexit%20vote%20they%20could%20not%20participate%20in%29."
-   },
-   {
-    "source": "Resolution Foundation",
-    "title": "Brejoin would bring back uncertainty, but less than the first time around",
-    "url": "https://www.resolutionfoundation.org/comment/brejoin-would-bring-back-uncertainty-but-less-than-the-first-time-around/",
-    "date": "2026-11-20",
-    "quote": "The clearest damage from our departure is to goods trade. The value of UK goods exports fell by around £10 billion between 2019 and 2024, even as world goods exports grew by a quarter, and the UK had the largest fall in goods export volumes in the G7, as this first chart shows. Services have held up better – they made up 59 per cent of UK exports in 2024, up from 48 per cent in 2019 – but that’s from goods shrinking, rather than services growing. In fact, our services exports have only just kept pace with the rest of the G7.",
-    "tag": "Exports down £10bn",
-    "verified": "page text",
-    "pieces": [
-     "The clearest damage from our departure is to goods trade. The value of UK goods exports fell by around £10 billion between 2019 and 2024, even as world goods exports grew by a quarter, and the UK had the largest fall in goods export volumes in the G7, as this first chart shows. Services have held up better – they made up 59 per cent of UK exports in 2024, up from 48 per cent in 2019 – but that’s from goods shrinking, rather than services growing. In fact, our services exports have only just kept pace with the rest of the G7."
-    ],
-    "link": "https://www.resolutionfoundation.org/comment/brejoin-would-bring-back-uncertainty-but-less-than-the-first-time-around/#:~:text=The%20clearest%20damage%20from%20our%20departure%20is,pace%20with%20the%20rest%20of%20the%20G7."
-   },
-   {
-    "source": "BBC Business",
-    "title": "Trump threatens ban on US firms building AI data centres overseas",
-    "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko",
-    "date": "2026-11-20",
-    "quote": "Washington on Monday announced firms would require a licence to buy advanced chips, so US officials can monitor whether they are being used to serve Chinese companies or they are being smuggled into China. […] The move will impact South East Asian countries that have invested heavily in data centres, as Chinese companies seek to rent computing power from overseas.",
-    "tag": "Export controls",
-    "verified": "page text",
-    "pieces": [
-     "Washington on Monday announced firms would require a licence to buy advanced chips, so US officials can monitor whether they are being used to serve Chinese companies or they are being smuggled into China.",
-     "The move will impact South East Asian countries that have invested heavily in data centres, as Chinese companies seek to rent computing power from overseas."
-    ],
-    "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko#:~:text=Washington%20on%20Monday%20announced%20firms%20would%20require,seek%20to%20rent%20computing%20power%20from%20overseas."
    },
    {
     "source": "Tax Foundation",
@@ -1539,6 +1506,20 @@
      "The additional tariff burden is likely to be small because a limited number of goods are subject to the new duties, Brown added."
     ],
     "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o#:~:text=However%2C%20Stephen%20Brown%2C%20chief%20North%20America%20economist,subject%20to%20the%20new%20duties%2C%20Brown%20added."
+   },
+   {
+    "source": "BBC Business",
+    "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+    "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o",
+    "date": "2026-11-26",
+    "quote": "The rest of the world has rerouted its trade flows around Donald Trump's tariff wall, proving far more resilient than expected. In cash terms, China's exports so far in 2026 are down about 8% on 2024, but that is more than 25 times made up for by its increased exports to everywhere else. […] Canada has seen flat exports to the USA since tariffs, fewer cars and lumber, but pricier flows of energy. Its exports, especially commodities, to the rest of the world have rocketed.",
+    "tag": null,
+    "verified": "page text",
+    "pieces": [
+     "The rest of the world has rerouted its trade flows around Donald Trump's tariff wall, proving far more resilient than expected. In cash terms, China's exports so far in 2026 are down about 8% on 2024, but that is more than 25 times made up for by its increased exports to everywhere else.",
+     "Canada has seen flat exports to the USA since tariffs, fewer cars and lumber, but pricier flows of energy. Its exports, especially commodities, to the rest of the world have rocketed."
+    ],
+    "link": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o#:~:text=The%20rest%20of%20the%20world%20has%20rerouted,the%20rest%20of%20the%20world%20have%20rocketed."
    }
   ]
  }
