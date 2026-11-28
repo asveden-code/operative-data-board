@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T11:23Z",
+ "generated_at": "2026-11-28T10:20Z",
  "window_days": {
   "press": 14,
   "think_tanks": 60
@@ -105,6 +105,19 @@
   ],
   "unemp": [
    {
+    "source": "Resolution Foundation",
+    "title": "Rebellious kids, gaming teens and distracting colleagues",
+    "url": "https://www.resolutionfoundation.org/comment/rebellious-kids-gaming-teens-and-distracting-colleagues/",
+    "date": "2026-11-27",
+    "quote": "Ad infinitum. Anyone squinting at the vacancies-to-unemployment ratio to judge how hot the jobs market is should read this new Bank of England working paper first. Using four decades of data on recruitment advertising, the authors build the first long-run UK measure of what it costs to post a vacancy. The move from pay-per-word newspaper classifieds to online job boards has been seismic: real advertising spend per vacancy has fallen by more than 80 per cent since 2000. Cheaper ads mean firms post more and leave them up for longer, with average vacancy duration roughly doubling from around three weeks in the 1990s to over six weeks today. Accounting for this, the equilibrium vacancies-to-unemployment ratio has roughly doubled too, from about 0.19 to 0.40. On that yardstick, the jobs market is looser than it looks: the ratio has recently slipped below its new equilibrium, suggesting some slack. Anyone who has applied for a role on Indeed only to see it re-advertised three months later now at least has an economic explanation, if not a job.",
+    "tag": "Slack below equilibrium",
+    "verified": "page text",
+    "pieces": [
+     "Ad infinitum. Anyone squinting at the vacancies-to-unemployment ratio to judge how hot the jobs market is should read this new Bank of England working paper first. Using four decades of data on recruitment advertising, the authors build the first long-run UK measure of what it costs to post a vacancy. The move from pay-per-word newspaper classifieds to online job boards has been seismic: real advertising spend per vacancy has fallen by more than 80 per cent since 2000. Cheaper ads mean firms post more and leave them up for longer, with average vacancy duration roughly doubling from around three weeks in the 1990s to over six weeks today. Accounting for this, the equilibrium vacancies-to-unemployment ratio has roughly doubled too, from about 0.19 to 0.40. On that yardstick, the jobs market is looser than it looks: the ratio has recently slipped below its new equilibrium, suggesting some slack. Anyone who has applied for a role on Indeed only to see it re-advertised three months later now at least has an economic explanation, if not a job."
+    ],
+    "link": "https://www.resolutionfoundation.org/comment/rebellious-kids-gaming-teens-and-distracting-colleagues/#:~:text=Ad%20infinitum.%20Anyone%20squinting%20at%20the%20vacancies%2Dto%2Dunemployment,an%20economic%20explanation%2C%20if%20not%20a%20job."
+   },
+   {
     "source": "BBC Business",
     "title": "Poundland collapses putting 11,000 jobs at risk",
     "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o",
@@ -187,19 +200,6 @@
     "tag": "Structural shift",
     "verified": "page text",
     "link": "https://www.resolutionfoundation.org/comment/is-the-minimum-wage-to-blame-for-falling-youth-employment/#:~:text=Employment%20rates%20among%2018%2D24%20and%2025%2D64%2Dyear%2Dolds%20fully,participation%2C%20or%20by%20population%20or%20migration%20changes."
-   },
-   {
-    "source": "Institute for Government",
-    "title": "Milburn’s ambitious NEETs reform vision leaves difficult questions unanswered",
-    "url": "https://www.instituteforgovernment.org.uk/comment/milburns-neets-reform-difficult-questions",
-    "date": "2026-11-17",
-    "quote": "The review proposes a ‘Youth Opportunity Service’ in every area of England by 2029. This would engage people early, and create a personalised ‘Participation Plan’ for each young person who is NEET (similar to the ‘Personalised Support Plan’ the IfG recently recommended). It would bring together services – including health, skills and employment support – and act as a single front door for both young people and employers. The review also recommends significant expansion of apprenticeships and further education provision and £1.1bn of subsidies to encourage employers to hire young people – with the Youth Opportunity Service connecting people to job opportunities and this support.",
-    "tag": null,
-    "verified": "page text",
-    "pieces": [
-     "The review proposes a ‘Youth Opportunity Service’ in every area of England by 2029. This would engage people early, and create a personalised ‘Participation Plan’ for each young person who is NEET (similar to the ‘Personalised Support Plan’ the IfG recently recommended). It would bring together services – including health, skills and employment support – and act as a single front door for both young people and employers. The review also recommends significant expansion of apprenticeships and further education provision and £1.1bn of subsidies to encourage employers to hire young people – with the Youth Opportunity Service connecting people to job opportunities and this support."
-    ],
-    "link": "https://www.instituteforgovernment.org.uk/comment/milburns-neets-reform-difficult-questions#:~:text=The%20review%20proposes%20a%20%E2%80%98Youth%20Opportunity%20Service%E2%80%99,people%20to%20job%20opportunities%20and%20this%20support."
    }
   ],
   "pop": [
@@ -684,18 +684,6 @@
     "headline": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
     "standfirst": "Iran has ratcheted up threats against U.S. forces as a third American aircraft carrier arrived in the Gulf, stoking fears of a resumption of military tensions.",
     "link": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html#:~:text=Iran%20escalates%20threats%20as%20third%20U.S.%20carrier%20arrives%20in%20Middle%20East%2C%20tanker%20struck%20in%20Hormuz"
-   },
-   {
-    "source": "CNBC Economy",
-    "title": "Russian crude production rebounds after Trump diesel deal, IEA says as oil markets return to surplus",
-    "url": "https://www.cnbc.com/2026/11/13/russia-oil-exports-iea-diesel-deal.html",
-    "date": "2026-11-13",
-    "quote": "Russian crude production rebounds after Trump diesel deal, IEA says as oil markets return to surplus. Russia’s crude output rose to 8.73 million barrels a day in October as recovering Gulf exports pushed global supply above demand, the IEA said.",
-    "tag": "Market in surplus",
-    "verified": "publisher feed",
-    "headline": "Russian crude production rebounds after Trump diesel deal, IEA says as oil markets return to surplus",
-    "standfirst": "Russia’s crude output rose to 8.73 million barrels a day in October as recovering Gulf exports pushed global supply above demand, the IEA said.",
-    "link": "https://www.cnbc.com/2026/11/13/russia-oil-exports-iea-diesel-deal.html#:~:text=Russian%20crude%20production%20rebounds%20after%20Trump%20diesel%20deal%2C%20IEA%20says%20as%20oil%20markets%20return%20to%20surplus"
    }
   ],
   "gas": [
@@ -797,6 +785,18 @@
   "gulf": [
    {
     "source": "CNBC Economy",
+    "title": "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
+    "url": "https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html",
+    "date": "2026-11-28",
+    "quote": "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure. The Kingdom is moving from \"spending and delivery at any cost\" to \"spending and delivery at the right cost,\" Economic Minister Faisal Alibrahim told CNBC.",
+    "tag": "Spending reined in",
+    "verified": "publisher feed",
+    "headline": "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
+    "standfirst": "The Kingdom is moving from \"spending and delivery at any cost\" to \"spending and delivery at the right cost,\" Economic Minister Faisal Alibrahim told CNBC.",
+    "link": "https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html#:~:text=Saudi%20Arabia%20shifts%20Vision%202030%20spending%20amid%20economic%20and%20security%20pressure"
+   },
+   {
+    "source": "CNBC Economy",
     "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
     "url": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
     "date": "2026-11-27",
@@ -868,18 +868,6 @@
     "headline": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
     "standfirst": "Iran said three oil tankers caught fire after hitting naval mines in the Strait of Hormuz, as the U.S. escalates sanctions aimed at cutting off Tehran's financial lifelines.",
     "link": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html#:~:text=Iran%20says%20three%20tankers%20hit%20mines%20in%20Hormuz%20despite%20U.S.%20escort%2C%20as%20Treasury%20widens%20sanctions"
-   },
-   {
-    "source": "CNBC Economy",
-    "title": "IEA chief sees no 'credible pathway' back to pre-war normality in the Strait of Hormuz",
-    "url": "https://www.cnbc.com/2026/11/18/iea-strait-hormuz-energy-risk.html",
-    "date": "2026-11-18",
-    "quote": "IEA chief sees no 'credible pathway' back to pre-war normality in the Strait of Hormuz. The Iran war has 'crushed' confidence in the Strait of Hormuz as a reliable energy and goods corridor, the IEA's chief warned.",
-    "tag": "Hormuz confidence crushed",
-    "verified": "publisher feed",
-    "headline": "IEA chief sees no 'credible pathway' back to pre-war normality in the Strait of Hormuz",
-    "standfirst": "The Iran war has 'crushed' confidence in the Strait of Hormuz as a reliable energy and goods corridor, the IEA's chief warned.",
-    "link": "https://www.cnbc.com/2026/11/18/iea-strait-hormuz-energy-risk.html#:~:text=IEA%20chief%20sees%20no%20%27credible%20pathway%27%20back%20to%20pre%2Dwar%20normality%20in%20the%20Strait%20of%20Hormuz"
    }
   ],
   "ecb": [
@@ -906,6 +894,20 @@
     "headline": "Why France is at risk of recession — and what could keep it out of one",
     "standfirst": "Bank of France Governor Emmanuel Moulin told CNBC he still expects growth, pointing to resilience in sectors including defense, aerospace and electricity.",
     "link": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html#:~:text=Why%20France%20is%20at%20risk%20of%20recession%20%E2%80%94%20and%20what%20could%20keep%20it%20out%20of%20one"
+   },
+   {
+    "source": "Bruegel",
+    "title": "What would it take for the ECB to defend French bonds?",
+    "url": "https://www.bruegel.org/newsletter/what-would-it-take-ecb-defend-french-bonds",
+    "date": "2026-10-19",
+    "quote": "Global bond yields are rising, imposing higher costs on all high-debt countries. This adds pressure especially on governments with sizeable and intractable deficits to establish a sustainable fiscal outlook. France is more exposed than arguably any other major industrialised nation, with debt approaching 120% of GDP and a deficit at 5% and rising. Most importantly, an accelerating election season will paralyse the political system until mid-2027 at the earliest. Presidential frontrunners leaders Marine Le Pen and Jean-Luc Melenchon look unlikely to implement budgets that will impress bond investors, raising the risk of higher French interest rates in the months ahead. […] In such a scenario, the focus will shift to how the European Central Bank might calm bond market volatility. Unlike early in the euro-area crisis, the ECB now has several tools to act directly in euro-area bond markets. These include Outright Monetary Transactions, available to members that have agreed to a reform programme with the European Stability Mechanism, and the Transmission Protection Instrument (TPI), aimed at safeguarding the ECB’s ability to implement monetary policy throughout the euro area. No French government is likely to seek such a programme in any foreseeable scenario. The main policy question is therefore whether the ECB might launch a TPI intervention in response to rising French bond yields.",
+    "tag": "French yields risk",
+    "verified": "page text",
+    "pieces": [
+     "Global bond yields are rising, imposing higher costs on all high-debt countries. This adds pressure especially on governments with sizeable and intractable deficits to establish a sustainable fiscal outlook. France is more exposed than arguably any other major industrialised nation, with debt approaching 120% of GDP and a deficit at 5% and rising. Most importantly, an accelerating election season will paralyse the political system until mid-2027 at the earliest. Presidential frontrunners leaders Marine Le Pen and Jean-Luc Melenchon look unlikely to implement budgets that will impress bond investors, raising the risk of higher French interest rates in the months ahead.",
+     "In such a scenario, the focus will shift to how the European Central Bank might calm bond market volatility. Unlike early in the euro-area crisis, the ECB now has several tools to act directly in euro-area bond markets. These include Outright Monetary Transactions, available to members that have agreed to a reform programme with the European Stability Mechanism, and the Transmission Protection Instrument (TPI), aimed at safeguarding the ECB’s ability to implement monetary policy throughout the euro area. No French government is likely to seek such a programme in any foreseeable scenario. The main policy question is therefore whether the ECB might launch a TPI intervention in response to rising French bond yields."
+    ],
+    "link": "https://www.bruegel.org/newsletter/what-would-it-take-ecb-defend-french-bonds#:~:text=Global%20bond%20yields%20are%20rising%2C%20imposing%20higher,in%20response%20to%20rising%20French%20bond%20yields."
    },
    {
     "source": "Bruegel",
@@ -1026,30 +1028,6 @@
      "Recent declines in oil prices bode well for our forecast for headline inflation to peak in Q4, and the pass-through from higher energy prices to core inflation will ease over 2027. Muted equity markets, lower demand for homebuying, and modest wage growth should keep services inflation benign."
     ],
     "link": "https://www.oxfordeconomics.com/resource/us-pce-nowcast-broadening-pressures-lock-in-december-rate-hike/#:~:text=Our%20nowcast%20is%20for%20headline%20PCE%20inflation,wage%20growth%20should%20keep%20services%20inflation%20benign."
-   },
-   {
-    "source": "CNBC Economy",
-    "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
-    "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
-    "date": "2026-11-13",
-    "quote": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years. The producer price index was expected to increase 0.4% in October, according to the Dow Jones consensus.",
-    "tag": "PPI highest in 4 years",
-    "verified": "publisher feed",
-    "headline": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
-    "standfirst": "The producer price index was expected to increase 0.4% in October, according to the Dow Jones consensus.",
-    "link": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html#:~:text=Wholesale%20prices%20rose%200.3%25%20in%20October%2C%20putting%20annual%20rate%20at%206.5%25%2C%20the%20highest%20in%20nearly%20four%20years"
-   },
-   {
-    "source": "CNBC Economy",
-    "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
-    "url": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
-    "date": "2026-11-13",
-    "quote": "AI risks are the biggest threat to the financial system, Fed survey finds. The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers.",
-    "tag": "Stability warning",
-    "verified": "publisher feed",
-    "headline": "AI risks are the biggest threat to the financial system, Fed survey finds",
-    "standfirst": "The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers.",
-    "link": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html#:~:text=AI%20risks%20are%20the%20biggest%20threat%20to%20the%20financial%20system%2C%20Fed%20survey%20finds"
    }
   ],
   "ust": [
